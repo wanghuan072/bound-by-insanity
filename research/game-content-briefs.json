@@ -1,0 +1,88 @@
+[
+  {
+    "game_id": "bound-by-insanity",
+    "unique_task": "Begin and read the available demo thoughtfully",
+    "completion_result": "Player understands start, reading flow, protagonist/cast, local replies, demo limit and recovery",
+    "version_scope": "Configured browser build partially interacted; revised official demo bounded; older videos separately labeled",
+    "questions": [
+      "A story we read, rather than race through",
+      "Our first few minutes in the player",
+      "What we watch during a conversation",
+      "Replies, progress and the demo’s limits",
+      "Recover a missed line before restarting",
+      "Make the window fit the way we are reading",
+      "Questions before our next session"
+    ],
+    "verified_cases": [
+      "Birthday passage expands before heart completion",
+      "Single upward wheel restores earlier passage",
+      "Miles living-room speaker and expression change is ordinary dialogue"
+    ],
+    "failure_recovery": [
+      "Hidden panel: H restores",
+      "Page scrolling: focus frame",
+      "Timeout: retry",
+      "Old edition save incompatible: fresh session may be needed"
+    ],
+    "evidence_ids": [
+      "bbi-current-reading",
+      "bbi-revised-demo",
+      "bbi-video-deep-review",
+      "author-bound-by-insanity"
+    ],
+    "unsupported_claims": [
+      "Every route playable",
+      "Guaranteed safe character",
+      "Cross-device saves",
+      "Mobile keyboard shortcut equivalence"
+    ],
+    "media_tasks": [
+      "Complete passage",
+      "Named Miles speaker",
+      "Options settings"
+    ],
+    "content_status": "published-local-artifact",
+    "screenshot_tasks": [
+      "media-passage",
+      "media-miles-dialogue",
+      "media-options"
+    ],
+    "youtube_research": {
+      "decision": "adopted",
+      "adopted": [
+        "media-video-current"
+      ],
+      "candidates": [
+        "d5bH1oUMpv8",
+        "kzea-ReNkME",
+        "OZeAJXw53Ok",
+        "TYJV8iJza7o",
+        "9BDB7RYh1ZA",
+        "A_lKR4teWrs"
+      ],
+      "rejected": [
+        {
+          "videoId": "d5bH1oUMpv8",
+          "reason": "Older four-control edition or non-game commentary; keep only bounded research observations, not current-version public embed"
+        },
+        {
+          "videoId": "kzea-ReNkME",
+          "reason": "Older four-control edition or non-game commentary; keep only bounded research observations, not current-version public embed"
+        },
+        {
+          "videoId": "OZeAJXw53Ok",
+          "reason": "Older four-control edition or non-game commentary; keep only bounded research observations, not current-version public embed"
+        },
+        {
+          "videoId": "9BDB7RYh1ZA",
+          "reason": "Older four-control edition or non-game commentary; keep only bounded research observations, not current-version public embed"
+        },
+        {
+          "videoId": "A_lKR4teWrs",
+          "reason": "Older four-control edition or non-game commentary; keep only bounded research observations, not current-version public embed"
+        }
+      ],
+      "analysis": "video-current-ty"
+    }
+  }
+]

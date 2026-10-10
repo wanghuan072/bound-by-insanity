@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-10-08T07:37:19.925Z",
+  "basis": "itch.io official HTML game embed interface; upload IDs matched current author pages",
+  "observations": [
+    {
+      "id": "the-freak-circus",
+      "rawResource": "https://html-classic.itch.zone/html/16572088/index.html?v=1782253564",
+      "officialEmbed": "https://itch.io/embed-upload/16572088",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/16572088/index.html?v=1782253564"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.144Z"
+    },
+    {
+      "id": "knee-deep",
+      "rawResource": "https://html-classic.itch.zone/html/17926225/index.html",
+      "officialEmbed": "https://itch.io/embed-upload/17926225",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/17926225/index.html"
+      ],
+      "checkedAt": "2026-10-08T07:37:08.251Z"
+    },
+    {
+      "id": "heartstop-tour",
+      "rawResource": "https://html-classic.itch.zone/html/18383574/index.html?v=1784383305",
+      "officialEmbed": "https://itch.io/embed-upload/18383574",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/18383574/index.html?v=1784383305"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.428Z"
+    },
+    {
+      "id": "gravity-failed-us",
+      "rawResource": "https://html-classic.itch.zone/html/14363405/index.html",
+      "officialEmbed": "https://itch.io/embed-upload/14363405",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/14363405/index.html"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.231Z"
+    },
+    {
+      "id": "fear-me",
+      "rawResource": "https://html-classic.itch.zone/html/18630392/index.html?v=1785589986",
+      "officialEmbed": "https://itch.io/embed-upload/18630392",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/18630392/index.html?v=1785589986"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.547Z"
+    },
+    {
+      "id": "cupids-kiss",
+      "rawResource": "https://html-classic.itch.zone/html/10948265/CupidsKiss-1.1-web/index.html?v=1782253317",
+      "officialEmbed": "https://itch.io/embed-upload/10948265",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/10948265/CupidsKiss-1.1-web/index.html?v=1782253317"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.437Z"
+    },
+    {
+      "id": "dating-killmulator",
+      "rawResource": "https://html-classic.itch.zone/html/19183043/index.html?v=1789060851",
+      "officialEmbed": "https://itch.io/embed-upload/19183043",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/19183043/index.html?v=1789060851"
+      ],
+      "checkedAt": "2026-10-08T07:37:08.284Z"
+    },
+    {
+      "id": "her-tears-were-my-light",
+      "rawResource": "https://html-classic.itch.zone/html/18220499/index.html?v=1783279519",
+      "officialEmbed": "https://itch.io/embed-upload/18220499",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/18220499/index.html?v=1783279519"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.416Z"
+    },
+    {
+      "id": "syrup-and-the-ultimate-sweet",
+      "rawResource": "https://html-classic.itch.zone/html/18611204/index.html?v=1785467169",
+      "officialEmbed": "https://itch.io/embed-upload/18611204",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/18611204/index.html?v=1785467169"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.537Z"
+    },
+    {
+      "id": "contract-demon",
+      "rawResource": "https://html-classic.itch.zone/html/9819526/index.html",
+      "officialEmbed": "https://itch.io/embed-upload/9819526",
+      "status": 200,
+      "xfo": null,
+      "csp": null,
+      "innerFrames": [
+        "https://html-classic.itch.zone/html/9819526/index.html"
+      ],
+      "checkedAt": "2026-10-08T07:37:06.290Z"
+    }
+  ]
+}

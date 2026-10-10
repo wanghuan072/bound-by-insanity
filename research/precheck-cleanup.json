@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-08T08:04:13.618Z",
+  "browserClosed": true,
+  "serverClosed": true,
+  "port": 58685,
+  "portProbe": "ECONNREFUSED",
+  "targets": [
+    {
+      "path": "D:\\wh\\202610\\Bound By Insanity\\Bound By Insanity\\bound-by-insanity\\research\\.flow02-browser-profile-1791444569628",
+      "removed": true
+    },
+    {
+      "path": "D:\\wh\\202610\\Bound By Insanity\\Bound By Insanity\\bound-by-insanity\\research\\.flow02-browser-temp",
+      "removed": true
+    }
+  ],
+  "scope": "Owned isolated context and temporary precheck only"
+}

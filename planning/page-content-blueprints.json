@@ -1,0 +1,649 @@
+{
+  "status": "content-complete-draft",
+  "pages": [
+    {
+      "page_id": "home",
+      "path": "/",
+      "game_id": "bound-by-insanity",
+      "minimumVisibleNonWhitespaceTextUnitsAfterPlayer": 4000,
+      "spoilerPolicy": "marked",
+      "bodyExcludes": [
+        "Full character biographies",
+        "Complete recovery steps",
+        "Future-route walkthroughs",
+        "Other games"
+      ],
+      "sections": [
+        {
+          "section_id": "the-demo-we-are-entering",
+          "player_question": "A story we read, rather than race through",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph",
+            "callout",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-version-save-boundary"
+          ],
+          "case": "Bounded scene interpretation and version distinction",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "start-and-read",
+          "player_question": "Our first few minutes in the player",
+          "answer_blocks": [
+            "steps",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-text-completion",
+            "bbi-local-recovery"
+          ],
+          "case": "Opening birthday narration grows; completion heart",
+          "media_slot_ids": [
+            "home-start-and-read-shot"
+          ]
+        },
+        {
+          "section_id": "reading-the-encounters",
+          "player_question": "What we watch during a conversation",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-text-completion",
+            "bbi-local-recovery"
+          ],
+          "case": "Bounded scene interpretation and version distinction",
+          "media_slot_ids": [
+            "home-reading-the-encounters-shot"
+          ],
+          "video_analysis_ids": [
+            "video-current-ty"
+          ],
+          "video_range_ids": [
+            "ty-reading-180",
+            "ty-exchange-600"
+          ]
+        },
+        {
+          "section_id": "choices-and-demo-progress",
+          "player_question": "Replies, progress and the demo’s limits",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-version-save-boundary"
+          ],
+          "case": "Bounded scene interpretation and version distinction",
+          "media_slot_ids": [
+            "home-choices-and-demo-progress-shot"
+          ]
+        },
+        {
+          "section_id": "when-we-lose-our-place",
+          "player_question": "Recover a missed line before restarting",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-identity",
+            "bbi-video-version-boundary"
+          ],
+          "case": "Bounded scene interpretation and version distinction",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "device-and-player-problems",
+          "player_question": "Make the window fit the way we are reading",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-identity",
+            "bbi-video-version-boundary"
+          ],
+          "case": "Bounded scene interpretation and version distinction",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "questions-before-another-session",
+          "player_question": "Questions before our next session",
+          "answer_blocks": [
+            "faq"
+          ],
+          "claim_ids": [
+            "bbi-identity",
+            "bbi-video-version-boundary"
+          ],
+          "case": "Bounded scene interpretation and version distinction",
+          "media_slot_ids": []
+        }
+      ],
+      "contentStatus": "complete-draft"
+    },
+    {
+      "page_id": "characters",
+      "path": "/characters",
+      "primary_task": "Recognize the defined protagonist, Miles and Adrien and compare their early visible behavior before making sense of their dialogue",
+      "spoilerPolicy": "marked",
+      "bodyExcludes": [
+        "Long startup/rollback instructions",
+        "Hidden histories",
+        "Complete route or ending instructions"
+      ],
+      "sections": [
+        {
+          "section_id": "a-defined-protagonist",
+          "player_question": "Read the protagonist as a person",
+          "answer_blocks": [
+            "paragraph",
+            "image",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-protagonist",
+            "bbi-miles-background",
+            "bbi-identity"
+          ],
+          "case": "Read the protagonist as a person",
+          "media_slot_ids": [
+            "characters-a-defined-protagonist-protagonist-art.webp"
+          ]
+        },
+        {
+          "section_id": "meeting-miles",
+          "player_question": "Miles Falken: familiarity with an edge",
+          "answer_blocks": [
+            "image",
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-protagonist",
+            "bbi-miles-background",
+            "bbi-identity"
+          ],
+          "case": "Miles Falken: familiarity with an edge",
+          "media_slot_ids": [
+            "characters-meeting-miles-shot"
+          ]
+        },
+        {
+          "section_id": "meeting-adrien",
+          "player_question": "Adrien Lockhart: quietness asks us to listen",
+          "answer_blocks": [
+            "image",
+            "paragraph",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-protagonist",
+            "bbi-miles-background",
+            "bbi-identity"
+          ],
+          "case": "Adrien Lockhart: quietness asks us to listen",
+          "media_slot_ids": [
+            "characters-meeting-adrien-shot"
+          ]
+        },
+        {
+          "section_id": "two-conversations-to-compare",
+          "player_question": "Two conversations worth slowing down for",
+          "answer_blocks": [
+            "paragraph",
+            "image",
+            "paragraph",
+            "image",
+            "callout"
+          ],
+          "claim_ids": [
+            "bbi-protagonist",
+            "bbi-miles-background",
+            "bbi-identity",
+            "bbi-gallery-classroom-question"
+          ],
+          "case": "Outdoor moving conversation compared with classroom question",
+          "media_slot_ids": [
+            "characters-two-conversations-to-compare-miles-moving-conversation.webp",
+            "characters-two-conversations-to-compare-adrien-classroom.webp"
+          ]
+        },
+        {
+          "section_id": "compare-without-spoilers",
+          "player_question": "Compare what happens, rather than rank the cast",
+          "answer_blocks": [
+            "table",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-protagonist",
+            "bbi-miles-background",
+            "bbi-identity"
+          ],
+          "case": "Compare what happens, rather than rank the cast",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "what-we-should-watch-next",
+          "player_question": "A useful way to revisit an encounter",
+          "answer_blocks": [
+            "steps",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-protagonist",
+            "bbi-miles-background",
+            "bbi-identity"
+          ],
+          "case": "A useful way to revisit an encounter",
+          "media_slot_ids": []
+        }
+      ],
+      "contentStatus": "published-enriched"
+    },
+    {
+      "page_id": "endings",
+      "path": "/endings",
+      "primary_task": "Understand present demo completion and choice limits, evaluate a visible reply case, and stop confusing future routes with obtainable current endings",
+      "spoilerPolicy": "marked",
+      "bodyExcludes": [
+        "Character biographies",
+        "Full reading-control steps",
+        "Unobserved final routes",
+        "Major plot reveals in introduction, cards, metadata or alt"
+      ],
+      "sections": [
+        {
+          "section_id": "what-is-playable-now",
+          "player_question": "What an “ending” means in the current demo",
+          "answer_blocks": [
+            "callout",
+            "paragraph",
+            "paragraph",
+            "table",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-act1-scope",
+            "bbi-four-planned-routes"
+          ],
+          "case": "What an “ending” means in the current demo",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "before-and-after-a-reply",
+          "player_question": "Read a choice at the scale it actually changes",
+          "answer_blocks": [
+            "paragraph",
+            "steps",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-act1-scope",
+            "bbi-four-planned-routes"
+          ],
+          "case": "Read a choice at the scale it actually changes",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "when-two-replies-rejoin",
+          "player_question": "Why two replies can return to one scene",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-act1-scope",
+            "bbi-four-planned-routes",
+            "bbi-original-phone-convergence"
+          ],
+          "case": "Original phone-call alternatives converge; directly visible after the page’s single spoiler notice",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "the-demo-stopping-point",
+          "player_question": "Recognize the boundary without guessing a punishment",
+          "answer_blocks": [
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-act1-scope",
+            "bbi-four-planned-routes"
+          ],
+          "case": "Recognize the boundary without guessing a punishment",
+          "media_slot_ids": []
+        },
+        {
+          "section_id": "replay-with-a-purpose",
+          "player_question": "A second session should answer a different question",
+          "answer_blocks": [
+            "paragraph",
+            "image",
+            "paragraph",
+            "table",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-act1-scope",
+            "bbi-four-planned-routes",
+            "bbi-save-slot-interface"
+          ],
+          "case": "A second session should answer a different question",
+          "media_slot_ids": [
+            "endings-replay-with-a-purpose-demo-save-slots.webp"
+          ]
+        },
+        {
+          "section_id": "future-routes-and-common-questions",
+          "player_question": "Plans for later acts, and what we can say now",
+          "answer_blocks": [
+            "paragraph",
+            "table",
+            "paragraph",
+            "paragraph",
+            "paragraph"
+          ],
+          "claim_ids": [
+            "bbi-act1-scope",
+            "bbi-four-planned-routes"
+          ],
+          "case": "Plans for later acts, and what we can say now",
+          "media_slot_ids": []
+        }
+      ],
+      "contentStatus": "published-enriched",
+      "spoilerPresentation": "All sections render directly; one visible notice at the beginning of body, per latest user preference."
+    }
+  ],
+  "mediaSlots": [
+    {
+      "slot_id": "home-player-cover",
+      "page_id": "home",
+      "target_section_id": "player",
+      "player_question": "Is this the correct game?",
+      "fact_to_show": "Exact current title/early scene identification; preserve actual ratio/title-safe region",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Cover identifies the playable main game without revealing later story",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create a distinct original task visual based on verified interface facts",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-main-cover"
+      ]
+    },
+    {
+      "slot_id": "home-start-and-read-shot",
+      "page_id": "home",
+      "target_section_id": "start-and-read",
+      "player_question": "When is displayed text complete?",
+      "fact_to_show": "Actual completion indicator and readable passage",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain a real text-completion state",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-passage"
+      ]
+    },
+    {
+      "slot_id": "home-reading-the-encounters-shot",
+      "page_id": "home",
+      "target_section_id": "reading-the-encounters",
+      "player_question": "Who is speaking and what is happening now?",
+      "fact_to_show": "An early interaction with visible speaker and expression",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Support reading the current encounter without hidden biography",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-miles-dialogue"
+      ]
+    },
+    {
+      "slot_id": "home-choices-and-demo-progress-shot",
+      "page_id": "home",
+      "target_section_id": "device-and-player-problems",
+      "player_question": "What does a reply selection look like?",
+      "fact_to_show": "Current Options controls: settings do not change story availability",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Describe an actual reply and avoid implying unobserved routes",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-options"
+      ]
+    },
+    {
+      "slot_id": "home-after-body-video",
+      "page_id": "home",
+      "target_section_id": "after-body",
+      "player_question": "What can we learn from a demonstrated session?",
+      "fact_to_show": "Observed text, interaction and bounded demo progression",
+      "preferred_format": "youtube-video",
+      "adjacent_copy_task": "Direct lazy privacy-enhanced embed after independent body; add spoiler warning where needed",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Find another qualified current-game video; no empty module or unrelated substitution",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-video-current"
+      ]
+    },
+    {
+      "slot_id": "characters-header-cover",
+      "page_id": "characters",
+      "target_section_id": "header",
+      "player_question": "What task will this page help us complete?",
+      "fact_to_show": "Distinct early visible character encounter",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Cover matches this page and stays spoiler-safe",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create a distinct original task visual based on verified interface facts",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-characters-cover"
+      ]
+    },
+    {
+      "slot_id": "characters-meeting-miles-shot",
+      "page_id": "characters",
+      "target_section_id": "meeting-miles",
+      "player_question": "What does Miles actually do in the first visible encounter?",
+      "fact_to_show": "Observe a specific early action, expression and player response; no hidden motive claim.",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-miles-portrait"
+      ]
+    },
+    {
+      "slot_id": "characters-meeting-adrien-shot",
+      "page_id": "characters",
+      "target_section_id": "meeting-adrien",
+      "player_question": "How does Adrien’s visible role change the interaction?",
+      "fact_to_show": "Observe an early scene distinct from Miles; no future-route biography.",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-adrien-portrait"
+      ]
+    },
+    {
+      "slot_id": "endings-header-cover",
+      "page_id": "endings",
+      "target_section_id": "header",
+      "player_question": "What task will this page help us complete?",
+      "fact_to_show": "Distinct current-demo choice interface or original version/choice diagram",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Cover matches this page and stays spoiler-safe",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create a distinct original task visual based on verified interface facts",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-endings-cover"
+      ]
+    },
+    {
+      "slot_id": "endings-before-and-after-a-reply-shot",
+      "page_id": "endings",
+      "target_section_id": "before-and-after-a-reply",
+      "player_question": "What visibly changes after a real reply choice?",
+      "fact_to_show": "Narrative line is not a selectable response; no current branch-outcome image claimed",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "not-adopted",
+      "media_ledger_ids": []
+    },
+    {
+      "slot_id": "endings-the-demo-stopping-point-shot",
+      "page_id": "endings",
+      "target_section_id": "the-demo-stopping-point",
+      "player_question": "How can we tell that the available demo has concluded?",
+      "fact_to_show": "Original boundary diagram; no spoiler still from final scene",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "not-adopted",
+      "media_ledger_ids": []
+    },
+    {
+      "slot_id": "characters-a-defined-protagonist-protagonist-art.webp",
+      "page_id": "characters",
+      "target_section_id": "a-defined-protagonist",
+      "player_question": "Recognize the defined protagonist without assigning an unverified canonical name",
+      "fact_to_show": "Recognize the defined protagonist without assigning an unverified canonical name",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Recognize the defined protagonist without assigning an unverified canonical name",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": false,
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-protagonist-art"
+      ]
+    },
+    {
+      "slot_id": "characters-two-conversations-to-compare-miles-moving-conversation.webp",
+      "page_id": "characters",
+      "target_section_id": "two-conversations-to-compare",
+      "player_question": "Compare Miles’s spoken concern about moving with the protagonist’s independence",
+      "fact_to_show": "Compare Miles’s spoken concern about moving with the protagonist’s independence",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Compare Miles’s spoken concern about moving with the protagonist’s independence",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": false,
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-miles-moving-scene"
+      ]
+    },
+    {
+      "slot_id": "characters-two-conversations-to-compare-adrien-classroom.webp",
+      "page_id": "characters",
+      "target_section_id": "two-conversations-to-compare",
+      "player_question": "Observe the protagonist’s classroom question alongside Adrien’s expression; his spoken answer is not shown",
+      "fact_to_show": "Observe the protagonist’s classroom question alongside Adrien’s expression; his spoken answer is not shown",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Observe the protagonist’s classroom question alongside Adrien’s expression; his spoken answer is not shown",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": false,
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-adrien-classroom-scene"
+      ]
+    },
+    {
+      "slot_id": "endings-replay-with-a-purpose-demo-save-slots.webp",
+      "page_id": "endings",
+      "target_section_id": "replay-with-a-purpose",
+      "player_question": "Check empty numbered slots before using a save to compare a reply",
+      "fact_to_show": "Check empty numbered slots before using a save to compare a reply",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Check empty numbered slots before using a save to compare a reply",
+      "candidate_evidence_ids": [
+        "current-save-screen-20261009"
+      ],
+      "rights_check_needed": false,
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-demo-save-slots"
+      ]
+    }
+  ]
+}

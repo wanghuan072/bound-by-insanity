@@ -1,0 +1,233 @@
+{
+  "id": "endings",
+  "slug": "endings",
+  "status": "published",
+  "title": "Bound By Insanity Choices and Endings",
+  "introduction": "Understand the Act 1 demo before chasing an ending. We can compare replies, revisit a scene and separate the shared story from four planned future routes.",
+  "tags": ["Act 1 demo", "Choices", "Future routes"],
+  "spoilerPolicy": "marked",
+  "cover": {
+    "src": "/images/topics/endings-cover.webp",
+    "width": 630,
+    "height": 500,
+    "alt": "Act 1 demo story contrasted with four planned future routes, two for Miles and two for Adrien"
+  },
+  "sections": [
+    {
+      "id": "what-is-playable-now",
+      "title": "What an “ending” means in the current demo",
+      "blocks": [
+        {
+          "type": "callout",
+          "tone": "info",
+          "label": "Story spoilers",
+          "body": "This page discusses a late-demo choice. Read on if you are comfortable discovering that moment before playing it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The available demo introduces the story and its central relationships. It does not contain the completed set of major character routes planned for the later game. We should therefore begin with a smaller, more useful question: what can a reply change in the material we can read today? That keeps our replay grounded in the actual exchange."
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised demo added choices but kept the same story stopping point. A local response and a final character ending are different scales of change. We can see a line vary, or read a response with a different tone, without claiming that an entirely separate route has opened. A converging later scene does not make the earlier variation meaningless."
+        },
+        {
+          "type": "table",
+          "columns": ["Story stage", "What it contains", "What we can do"],
+          "rows": [
+            [
+              "Act 1 demo",
+              "A shared introduction to the characters and their relationships",
+              "Read the available story and compare minor replies"
+            ],
+            [
+              "Revised demo",
+              "More minor choices, History and Rollback; the same ending point",
+              "Recover a missed line without expecting a new act"
+            ],
+            [
+              "Later acts",
+              "Further shared story planned before the large route splits",
+              "Keep these separate from today’s playable material"
+            ],
+            [
+              "Full-game routes",
+              "Four major routes planned; two for each central character",
+              "No finished route unlock sequence is available in the demo"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no verified sequence of answers here that guarantees a finished Miles or Adrien ending. We should be careful with video titles that promise every route: a recording may cover the available demo, include an alternative reply, or simply stop at its own cut. None of those possibilities proves that the future route structure is already playable."
+        }
+      ]
+    },
+    {
+      "id": "before-and-after-a-reply",
+      "title": "Read a choice at the scale it actually changes",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "First distinguish an option from dialogue. Ordinary spoken text remains in the torn-paper reading panel, often beside a speaker label. An actual choice presents responses for us to select. If there is no choice interface, continuing the passage is not secretly selecting the line that happens to be on screen."
+        },
+        {
+          "type": "steps",
+          "items": [
+            {
+              "title": "Establish the situation",
+              "body": "Before selecting anything, read the protagonist’s complete thought and the other character’s last line. This tells us what the reply is answering."
+            },
+            {
+              "title": "Choose for a reason",
+              "body": "Pick the response whose tone we want to explore. We can be curious about a cautious answer or a more direct one without inventing an affection-point reward."
+            },
+            {
+              "title": "Observe the immediate result",
+              "body": "Read the next complete response and watch the accompanying gesture or expression. Compare that small result before drawing a conclusion about the rest of the story."
+            },
+            {
+              "title": "Revisit only when the game permits it",
+              "body": "Use an available save or supported rollback deliberately. If the earlier choice cannot be restored, do not assume that the reading log itself changes a decision."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Consider the living-room conversation as a reading case: Miles can change expression while the protagonist continues speaking. That visible change is part of the scripted exchange; it is not by itself a branch selection. We need a genuine selectable response and its following dialogue before describing an alternative. This prevents us from mistaking every new portrait for a route decision."
+        },
+        {
+          "type": "paragraph",
+          "text": "A comparison is strongest when everything except the reply stays the same. If one session belongs to an older edition, a different line could be a revision rather than the effect of our answer. Keep version differences separate from choice differences, especially when a video shows fewer reading controls than the game in front of us."
+        }
+      ]
+    },
+    {
+      "id": "when-two-replies-rejoin",
+      "title": "Why two replies can return to one scene",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the original demo’s phone-call choice, selecting Miles or Adrien could still lead to the same Adrien scene. That convergence kept the shared story moving. It was not proof that we had failed a Miles ending. Check the edition before using this example to compare revised dialogue."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a useful comparison, restore the same point, change only the available reply and read until the passages meet again. Note the line or reaction that differs. Once they converge, a full restart will not turn that small variation into an unreleased character route."
+        }
+      ]
+    },
+    {
+      "id": "the-demo-stopping-point",
+      "title": "Recognize the boundary without guessing a punishment",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The demo has an available story boundary. Reaching it is not a score-based failure, and choosing a gentler or sharper reply should not be presented as a guaranteed way to reveal an unreleased act. The useful completion result is that we have followed the available sequence and can decide what we want to revisit."
+        },
+        {
+          "type": "paragraph",
+          "text": "A return to the menu needs context. Did the story finish its last scene, did we choose to leave, or did a recording end mid-conversation? Those are different events. One short opening recording stops while Miles is still speaking; it is not evidence of the demo’s ending. A longer older-demo recording continues through later material and returns to the title menu, but its “all routes” label is not a route list."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can discuss that stopping behaviour without revealing the final confrontation or hidden histories. The important first-playthrough advice is to let the last available passage complete, then notice what the game actually displays. If we only see a pause, a hidden panel or a loading error, solve that state before deciding that the demo has ended."
+        }
+      ]
+    },
+    {
+      "id": "replay-with-a-purpose",
+      "title": "A second session should answer a different question",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Replaying the entire opening for an unspecified “better ending” can be frustrating when the current demo has no published route checklist. We can make the second session more useful by choosing one question: a line we misread, a response we want to compare, or the moment a character’s manner changes."
+        },
+        {
+          "type": "image",
+          "src": "/images/topics/demo-save-slots.webp",
+          "width": 1280,
+          "height": 720,
+          "alt": "The demo Save Load screen showing six empty numbered slots and page controls",
+          "caption": "Before a replay, check that the slot contains an actual saved scene. An empty slot cannot take us back to a reply."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Save/Load screen groups six numbered files on a page and shows whether a slot is empty. Page controls beneath the slots let us inspect another set. We can choose a separate slot for a comparison so the earlier session remains recognizable; first check the thumbnail and saved text rather than assume that opening this screen has already created a save."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Our replay question",
+            "What we check",
+            "What the result cannot prove"
+          ],
+          "rows": [
+            [
+              "Did we miss part of a long thought?",
+              "Restore the passage and wait for its completed text",
+              "A different character route"
+            ],
+            [
+              "Did an expression change the tone?",
+              "Read the full line attached to the new portrait",
+              "A numerical relationship score"
+            ],
+            [
+              "Does another available reply sound different?",
+              "Compare the immediate next response in the same edition",
+              "Every future ending"
+            ],
+            [
+              "Why did our old save fail?",
+              "Check whether it belongs to the revised edition",
+              "A bad dialogue choice caused the failure"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised demo changed its save directory and code, so older saves can be incompatible. If we are returning after an update, that practical issue comes before any interpretation of the story. We can start fresh when necessary and use the current edition’s own save controls; we should not promise that a save transfers across versions, browsers or devices."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the only problem is a missed sentence, a local rollback is a better-sized correction than a complete restart. If we want to inspect dialogue without changing the current reading state, History serves a different purpose. Keeping that distinction lets a replay stay focused on the question we actually have."
+        }
+      ]
+    },
+    {
+      "id": "future-routes-and-common-questions",
+      "title": "Plans for later acts, and what we can say now",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four large routes are planned for the full game: two for Miles and two for Adrien. They are future branches, not four endings hidden inside Act 1. A later major decision is intended to choose a route, with smaller replies along the way; the planned structure is not a constant web of decisions."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Character",
+            "Planned major routes",
+            "Available in the demo?"
+          ],
+          "rows": [
+            ["Miles Falken", "2", "No"],
+            ["Adrien Lockhart", "2", "No"]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Can we already unlock every major ending? There is no confirmed complete ending set in the current demo. Does every reply change the whole story? A local response can vary without a major split. Does a menu return mean we selected a bad ending? Only the preceding story context can support that interpretation; the menu alone cannot."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our best preparation for future material is to understand the people and the current sequence, rather than memorize an invented route map. We can keep a small, spoiler-aware note about an unresolved question and return when another act is available. Character impressions, text recovery and demo completion are useful tasks now, even while the later outcome remains open."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should we search for four good and bad ending names? No confirmed names or answer sequences belong on a demo checklist. The count describes a development plan. We can finish the shared material now and return to route decisions when those branches are actually released."
+        }
+      ]
+    }
+  ],
+  "relatedPageIds": ["characters"]
+}

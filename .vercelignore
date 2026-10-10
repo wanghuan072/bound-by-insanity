@@ -1,0 +1,16 @@
+node_modules
+.next
+.next-preview
+.next-production
+.next-types
+artifacts
+reports
+handoff
+research/evidence
+planning/design
+planning/ui-redesign-*
+planning/*.png
+planning/*.jpeg
+planning/*.html
+planning/*.svg
+*.tsbuildinfo

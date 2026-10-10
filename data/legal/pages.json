@@ -1,0 +1,474 @@
+[
+  {
+    "id": "privacy",
+    "title": "Privacy Policy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "This policy explains the information involved when you read the Bound By Insanity fan website, open its embedded game, watch an embedded video or contact us by email. The article pages and the third-party players have different roles, which we explain below."
+      }
+    ],
+    "sections": [
+      {
+        "id": "reading-pages",
+        "title": "Information on our reading pages",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "You can read Home, Characters, Endings and the Legal pages without creating an account. We do not provide registration, comments, ratings, payment, uploads, subscriptions or a contact form. We do not add site analytics, advertising or a reading-progress profile to these pages."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ordinary requests for pages, images, fonts and scripts necessarily reach the host serving them. A request can include an IP address, browser and device information, the requested address and technical connection details. Hosting services may keep access or security logs; this website does not display those logs or turn them into a public visitor profile."
+          }
+        ]
+      },
+      {
+        "id": "game-window",
+        "title": "The embedded game",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The game iframe is created only after you select Play Now. It loads the game from a separate host, which can receive connection information and make additional requests needed by that game. The game’s own menus, reading history and save functions belong to that embedded software, rather than an account on this fan website."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game may use browser storage for its own settings or progress. We cannot inspect a player’s private save through our reading pages, promise that it survives clearing browser data, or transfer it between devices. Browser privacy settings, private browsing and changes to the game version can affect access to stored progress."
+          }
+        ]
+      },
+      {
+        "id": "video-player",
+        "title": "Embedded YouTube videos",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The video player uses YouTube’s privacy-enhanced embedding domain and does not autoplay. It appears after the written article and is lazy loaded. When it approaches the browser’s loading range, your browser may contact YouTube before you press the video’s play button."
+          },
+          {
+            "type": "paragraph",
+            "text": "Privacy-enhanced embedding is not a promise that no information reaches a third party. Loading or using the player can involve connection, device and playback information, as well as further requests to services used by YouTube. Controls inside that player are provided by YouTube, and their behavior is separate from our article navigation."
+          }
+        ]
+      },
+      {
+        "id": "cookies-storage",
+        "title": "Cookies and browser storage",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The reading pages do not set a first-party account, analytics or reading-progress cookie, and do not use local storage to build a visitor profile. This statement applies to our page code. It does not describe every cookie or storage operation that an embedded game or video service may perform."
+          },
+          {
+            "type": "paragraph",
+            "text": "You can control cookies, site data and embedded content using your browser settings. Blocking a third-party player may leave the article readable while preventing that player from opening. Clearing storage can also remove a game’s local progress; save recovery is not guaranteed."
+          }
+        ]
+      },
+      {
+        "id": "email",
+        "title": "Information you send by email",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Email is optional. If you write to the address on Contact Us, your message can include your email address, message content, attachments and technical information supplied by your email service. We use correspondence to understand and respond to the issue you raise, such as a page correction, an accessibility problem or a rights concern."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please send only information needed to explain the issue. Do not send passwords, payment details, identity documents or private game saves. A short description of your browser, device and the affected page is usually enough for an initial technical report. Email delivery and message storage also depend on the email services involved."
+          }
+        ]
+      },
+      {
+        "id": "retention-requests",
+        "title": "Keeping information and handling requests",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This site does not maintain a player-account database or a reading-history profile. Relevant correspondence may be kept while an issue is being handled and where it is needed to understand a follow-up or a rights dispute. We do not promise an automatic deletion schedule for messages or for records controlled by hosting, email, game or video providers."
+          },
+          {
+            "type": "paragraph",
+            "text": "You may contact us to ask about information you have sent, to correct it or to request deletion of correspondence within our control. Explain the message or issue you mean without sending unnecessary personal information. Available rights depend on applicable law; we may need reasonable information to identify a request. We cannot delete records held independently by a third-party provider."
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Security and sensitive information",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The website uses HTTPS URLs for its public identity and embedded services, and restricts the game player’s popup and top-navigation permissions. These controls do not make every device, network or third-party service risk free. Keep your browser updated and avoid including sensitive details in a support message."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game discusses mature and disturbing fictional themes. This fan website is intended for adult readers and does not offer accounts or features for collecting information from children. A reader who does not wish to encounter that material should leave the game and avoid its story discussion."
+          }
+        ]
+      },
+      {
+        "id": "policy-contact",
+        "title": "Updates and privacy questions",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "We revise this policy when the website’s actual features or information handling change. The date shown above identifies the latest substantive page update; rebuilding the website alone does not refresh it. For questions about this policy or information you supplied, use the plain-text support address on Contact Us."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "terms",
+    "title": "Terms of Service",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "These terms explain the conditions for using the Bound By Insanity fan website and its reading pages. This is an independent fan site, not the original game website, developer or publisher. Please read these terms alongside the Privacy Policy and Copyright page."
+      }
+    ],
+    "sections": [
+      {
+        "id": "site-role",
+        "title": "The website’s role",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "We offer player-focused writing about the Bound By Insanity visual novel demo, its characters and the choices currently shown in that demo. Home also provides access to an embedded game served by a separate host. This site is not an official support channel for the creator and cannot promise changes to the game itself."
+          },
+          {
+            "type": "paragraph",
+            "text": "Reading the site does not require a purchase, account or subscription. Our pages do not provide payments, uploads, public comments or player accounts. Features supplied inside an embedded game or video are governed by the behavior and terms of their respective providers."
+          }
+        ]
+      },
+      {
+        "id": "mature-content",
+        "title": "Adult audiences and story content",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bound By Insanity includes mature themes, disturbing relationships and fictional violence. The game and our discussion are intended for adults. Read the content warning before playing, and stop or take a break when the material is uncomfortable."
+          },
+          {
+            "type": "paragraph",
+            "text": "A spoiler notice identifies the page’s story discussion, but it cannot guarantee that every detail will be new or familiar to every reader. Characters and Endings have different purposes, and the Endings page discusses a late-demo choice. Descriptions of fictional conduct are not advice or instructions for real-world behavior."
+          }
+        ]
+      },
+      {
+        "id": "permitted-use",
+        "title": "Using the pages responsibly",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "You may read the pages and use the available player controls for personal enjoyment and understanding of the demo. Do not attempt to disrupt the service, introduce malicious code, bypass player restrictions, access information that is not public or interfere with another visitor’s use."
+          },
+          {
+            "type": "paragraph",
+            "text": "Do not present this fan website as the game’s official developer, publisher or original website. Game names, art and characters remain associated with their respective rights holders. Access to material here does not grant permission to redistribute the game, its artwork or an embedded video."
+          }
+        ]
+      },
+      {
+        "id": "third-party",
+        "title": "Game and video availability",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The game and videos depend on third-party services, which may change, become unavailable or behave differently across devices, browsers and versions. An iframe opening is not a guarantee that every game interaction, route or device is supported. Browser extensions, privacy controls and network conditions can prevent a player from loading."
+          },
+          {
+            "type": "paragraph",
+            "text": "We do not control a third-party provider’s availability, platform controls, account features or data handling. An issue inside an embedded service may require that provider’s help. You can continue reading the written article even when a player is unavailable."
+          }
+        ]
+      },
+      {
+        "id": "saves-version",
+        "title": "Progress, saves and version differences",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Game progress belongs to the embedded game’s implementation and browser environment. We do not store a copy of your save or provide a save-transfer service. Clearing site data, changing device, using private browsing or moving to another game version may affect progress. We cannot promise recovery or compatibility."
+          },
+          {
+            "type": "paragraph",
+            "text": "Our Endings page distinguishes current Act 1 behavior from planned future routes. Development plans may change, and an ending discussed as planned must not be treated as available in the current demo. Reading advice does not promise a particular outcome or access to unreleased content."
+          }
+        ]
+      },
+      {
+        "id": "accuracy-limits",
+        "title": "Accuracy and service limits",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "We aim to keep the writing specific and useful, but errors and version differences can occur. If a statement or image does not match what you see, send the affected page and the specific issue to the support address on Contact Us. We do not promise uninterrupted availability, a particular response time or support for every browser."
+          },
+          {
+            "type": "paragraph",
+            "text": "To the extent permitted by applicable law, the website and its information are provided as available without a guarantee of completeness or fitness for a particular purpose. Nothing in these terms is intended to exclude rights or protections that cannot lawfully be excluded."
+          }
+        ]
+      },
+      {
+        "id": "changes-contact",
+        "title": "Changes and questions",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "We may update these terms when the site’s features or use conditions change. The page’s displayed update date reflects a substantive revision. For questions about these terms, page errors or accessibility, contact us using the plain-text address on Contact Us. Rights concerns are explained separately on Copyright."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "copyright",
+    "title": "Copyright",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "This page distinguishes the original Bound By Insanity game and artwork from the material prepared for this independent fan website. The site does not claim ownership of the game, its characters, its original website or third-party videos."
+      }
+    ],
+    "sections": [
+      {
+        "id": "game-rights",
+        "title": "Game artwork and characters",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The game title, characters, story, illustrations and game interface belong to their respective rights holders. Their appearance on this website identifies the game and explains the player experience. It does not transfer ownership, imply endorsement or give visitors a general license to copy those assets."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game is provided through an embedded player served by a separate host. We do not offer its source code, a downloadable game package or a redistribution license. A visitor who wants to reuse game art or story material must establish the necessary permission independently."
+          }
+        ]
+      },
+      {
+        "id": "site-writing",
+        "title": "Original website material",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Our player-focused articles, explanatory diagrams and website visual identity are separate from the game’s original material. The Footer copyright notice concerns the site’s original contribution and does not assert ownership of third-party work shown or discussed here."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please do not reproduce an entire article or republish this website’s original visual identity as your own. Any rights granted by applicable law remain unaffected. Permission to reuse one item does not automatically cover another item, a game image or a third-party video."
+          }
+        ]
+      },
+      {
+        "id": "video-rights",
+        "title": "Embedded videos",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Videos remain hosted by YouTube and are displayed through its player. We do not download and redistribute the video files, reproduce a creator’s transcript or claim ownership of their recording. Availability and player controls remain subject to the video provider."
+          },
+          {
+            "type": "paragraph",
+            "text": "Embedding a video here does not grant a visitor permission to extract, re-upload or otherwise redistribute it. Questions about using a recording should be addressed to its rights holder rather than assumed to be covered by the site’s copyright notice."
+          }
+        ]
+      },
+      {
+        "id": "fan-identity",
+        "title": "Names and independent fan status",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bound By Insanity is used to identify the game this fan site discusses. The site is not affiliated with, endorsed by or connected to the original game website or its creator. The local fan-site Logo is a distinct website design and is not presented as the creator’s official mark."
+          }
+        ]
+      },
+      {
+        "id": "report-rights",
+        "title": "Reporting a rights concern",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use the support address on Contact Us to identify the affected page and the exact image, passage or video. Explain what work is involved, your relationship to the rights holder and the concern you want assessed. Include a reliable way to reply. A specific report is more useful than a general request referring to the entire site."
+          },
+          {
+            "type": "paragraph",
+            "text": "Send only the details needed to understand the issue. Do not include identity documents, passwords or unrelated personal information in an initial message. There is no complaint-upload form, and this page does not require a particular jurisdiction’s statutory notice format."
+          },
+          {
+            "type": "paragraph",
+            "text": "We can review or correct material on this website, but cannot remove an independently hosted game or video from its provider. Email delivery and response times are not guaranteed. The page’s update date identifies the latest substantive revision to this explanation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "about",
+    "title": "About Us",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Bound By Insanity is an independent fan website for adults who want to play and understand the dark visual novel demo. We take time with the dialogue, compare the central characters and keep current playable choices separate from plans for the full game."
+      }
+    ],
+    "sections": [
+      {
+        "id": "fan-site",
+        "title": "An independent fan perspective",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This website is not the original Bound By Insanity website, its developer or publisher. We are not affiliated with, endorsed by or connected to the original game website or its creator. Game artwork, characters and story remain the property of their respective rights holders."
+          },
+          {
+            "type": "paragraph",
+            "text": "Our purpose is to make the reading experience easier to approach. We explain what a control does, what a reply changes in the demonstrated demo and when a dramatic scene should not be mistaken for a completed route. We do not promise access to unreleased endings."
+          }
+        ]
+      },
+      {
+        "id": "home",
+        "title": "Play and read at your own pace",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Home places the embedded demo beside practical reading guidance. We can learn when to advance a passage, how History differs from rollback and why a save deserves attention before we leave the browser. The game opens after Play Now; the written guidance remains available when that separate player cannot load."
+          },
+          {
+            "type": "paragraph",
+            "text": "The game’s dark tone is part of its story, not a reason to rush. We can pause, reread an exchange or stop when a scene feels uncomfortable. The game and this website are intended for adults, and the opening warning should be read before entering the story."
+          }
+        ]
+      },
+      {
+        "id": "characters",
+        "title": "Read the characters beyond a portrait",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Characters introduces the defined protagonist, Miles Falken and Adrien Lockhart. We look at words, gestures, context and personal boundaries rather than treating an illustration as proof of an entire relationship. Early impressions stay separate from hidden histories and late revelations."
+          },
+          {
+            "type": "paragraph",
+            "text": "The page uses character art and illustrated encounters to make those distinctions concrete. Its task is to help us read the cast; detailed replay choices belong on Endings, while the basic controls remain on Home."
+          }
+        ]
+      },
+      {
+        "id": "endings",
+        "title": "Understand the demo’s story boundary",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Endings explains the shared Act 1 demo, a visible reply example and the difference between a changed exchange and a finished character route. We keep the four planned future routes clearly identified as plans, rather than presenting them as currently unlockable endings."
+          },
+          {
+            "type": "paragraph",
+            "text": "When we replay, we can make a save, inspect a different reply and compare what actually changes. A late-demo example carries the page’s spoiler notice. The page is useful even when we prefer to stop before that example and return after playing."
+          }
+        ]
+      },
+      {
+        "id": "editorial-contact",
+        "title": "Corrections and practical limits",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "We aim for clear, specific descriptions that match the version being discussed. A demo can change, and a browser player or older save can behave differently. Please report a precise passage, image or control that needs attention instead of assuming every version is identical."
+          },
+          {
+            "type": "paragraph",
+            "text": "The site provides no accounts, comments, advertising, analytics, payments or subscriptions. We do not invent an author biography, company history or official affiliation. Contact Us explains how to send a correction, accessibility report or rights concern, and the Legal pages describe the site’s actual features."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "contact",
+    "title": "Contact Us",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Contact this independent Bound By Insanity fan website about its pages, player controls, accessibility or a rights concern. The support address is shown as plain text immediately below. We do not collect messages through a website form or require a player account."
+      }
+    ],
+    "sections": [
+      {
+        "id": "corrections",
+        "title": "Page corrections and game-version differences",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Include the page address and identify the sentence, image or claim that needs attention. Explain what you see instead and, where relevant, which demo version you are using. A clear comparison helps us distinguish a writing error from a change to the game."
+          },
+          {
+            "type": "paragraph",
+            "text": "For a story concern, explain whether a detail should be more clearly marked as a spoiler. We can review the writing and its presentation, but cannot change the original game’s story, characters, development schedule or unreleased routes."
+          }
+        ]
+      },
+      {
+        "id": "player-problems",
+        "title": "Player and device problems",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tell us your browser and device, whether you selected Play Now, and what appeared afterward. Include the visible error message if there is one. For a fullscreen problem, specify whether you used Webpage Fullscreen or Browser Fullscreen and whether Escape returned you to the page."
+          },
+          {
+            "type": "paragraph",
+            "text": "If an issue happens inside the embedded game, describe the menu or action involved. This fan website is not the developer’s official support service. Problems with the game’s own saves or a separately hosted video may need help from that provider, and we cannot promise recovery of lost progress."
+          }
+        ]
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility feedback",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Identify the text, image, menu or control that is difficult to use. Tell us whether the issue involves a keyboard, touch input, a screen reader, zoom or a particular contrast or text-size setting. Describe the result you expected and what actually happened."
+          },
+          {
+            "type": "paragraph",
+            "text": "A screenshot can help explain a layout issue, but remove private information before sending it. A page address, device orientation and approximate viewport size are often enough to begin checking a responsive problem."
+          }
+        ]
+      },
+      {
+        "id": "rights-privacy",
+        "title": "Copyright and privacy enquiries",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For a rights concern, identify the affected page and exact material, explain your relationship to the rights holder and give a way to reply. The Copyright page explains the distinction between game assets, embedded videos and the site’s original writing."
+          },
+          {
+            "type": "paragraph",
+            "text": "For a privacy enquiry, identify information you previously sent or the feature you are asking about. Do not send identity documents, passwords or private save files in an initial message. We can address information within the site’s control, but not records held independently by game, video or email providers."
+          }
+        ]
+      },
+      {
+        "id": "email-expectations",
+        "title": "Before you send a message",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use a short, descriptive subject and send only details needed to understand the issue. Avoid payment information, credentials or unrelated personal data. There is no upload form, public ticket system or guaranteed response schedule."
+          },
+          {
+            "type": "paragraph",
+            "text": "The support address is provided for correspondence with this fan website. It does not imply a relationship with the original game website or creator. Email delivery depends on the services involved; if the problem is urgent or belongs to a third-party service, this address is not a substitute for that service’s support."
+          }
+        ]
+      }
+    ]
+  }
+]

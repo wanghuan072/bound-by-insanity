@@ -1,0 +1,57 @@
+{
+  "bound-by-insanity": {
+    "id": "bound-by-insanity",
+    "path": "/",
+    "kind": "game",
+    "hash": "594f518bd3c0558635aba7c7822f5da6b9f4e5ce6516f04ae99aa76f44127357"
+  },
+  "characters": {
+    "id": "characters",
+    "path": "/characters",
+    "kind": "static",
+    "hash": "b3df20e8b11c7a3f94b2f7dc92503362e4e12a88a23c47b1bc1a9adbec40a91c",
+    "date": "2026-10-09"
+  },
+  "endings": {
+    "id": "endings",
+    "path": "/endings",
+    "kind": "static",
+    "hash": "02d3fefb08cd34743c9127cf12548c41685f88ecc9ae5be9f3bb91fcc59e6d6f",
+    "date": "2026-10-09"
+  },
+  "privacy": {
+    "id": "privacy",
+    "path": "/privacy",
+    "kind": "static",
+    "hash": "fd52d96ccb6e3ade96b4f26ee834d44010326570892d5b169ca1ef7d9d39f718",
+    "date": "2026-10-09"
+  },
+  "terms": {
+    "id": "terms",
+    "path": "/terms",
+    "kind": "static",
+    "hash": "4f5c14e20ff4835fd379934d28655e330e52128639d5fdbb75776c9c32e2525c",
+    "date": "2026-10-09"
+  },
+  "copyright": {
+    "id": "copyright",
+    "path": "/copyright",
+    "kind": "static",
+    "hash": "89ff05566ca0eefb8e3d5d9077ae3ac92a7371773fd7b9cf3d157b84aee759a7",
+    "date": "2026-10-09"
+  },
+  "about": {
+    "id": "about",
+    "path": "/about",
+    "kind": "static",
+    "hash": "f71c16b8d2005d5bf145b7d57bff51d1d89e38434072e04a75c405a2be7d2eaf",
+    "date": "2026-10-09"
+  },
+  "contact": {
+    "id": "contact",
+    "path": "/contact",
+    "kind": "static",
+    "hash": "d50df63a0c6fcd30421023f9d69e088c4245b73e0927ad955f1978a874dcfadd",
+    "date": "2026-10-09"
+  }
+}

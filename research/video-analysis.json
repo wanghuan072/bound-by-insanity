@@ -1,0 +1,501 @@
+{
+  "checkedAt": "2026-10-09",
+  "method": "Isolated Playwright contexts; real privacy-enhanced YouTube playback in continuous sampled ranges at 2x, never downloaded video files",
+  "videos": [
+    {
+      "id": "video-opening-d5",
+      "gameId": "bound-by-insanity",
+      "videoId": "d5bH1oUMpv8",
+      "identity": "exact-game",
+      "durationSeconds": 1010.35,
+      "form": "partial-opening-session",
+      "embedStatus": "passed",
+      "versionScope": "Older four-icon reading UI; current configured game has six icons including history and rollback. Shared opening art and heart behavior only; not identical control/choice edition.",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35.305,
+          "action": "Advance opening tutorial and birthday narration",
+          "state": "Menu to introductory passage",
+          "result": "Long text expands before completion heart",
+          "supports": [
+            "opening reading rhythm",
+            "dark backgrounds are intentional"
+          ],
+          "cannotSupport": [
+            "route outcome",
+            "current history controls"
+          ],
+          "evidence": "research/evidence/flow-07/video-opening-contact.png"
+        },
+        {
+          "start": 60,
+          "end": 96.704,
+          "action": "Advance flashback text",
+          "state": "Birthday/eye/hand illustrations",
+          "result": "Story image changes accompany narration",
+          "supports": [
+            "narrative illustrations"
+          ],
+          "cannotSupport": [
+            "identity inferred from unnamed flashback",
+            "route choice"
+          ],
+          "evidence": "research/evidence/flow-07/video-first-encounter-0.png"
+        },
+        {
+          "start": 220,
+          "end": 267.596,
+          "action": "Advance narration",
+          "state": "Bed/eye/hand scene",
+          "result": "Illustration and text change; no choice observed",
+          "supports": [
+            "visual storytelling"
+          ],
+          "cannotSupport": [
+            "Miles identification without speaker label"
+          ],
+          "evidence": "research/evidence/flow-07/video-miles-0.png"
+        },
+        {
+          "start": 400,
+          "end": 435.618,
+          "action": "Read conversation",
+          "state": "Living room, labeled Miles speaker",
+          "result": "Hand offers glass; protagonist reply follows",
+          "supports": [
+            "Miles visible practical care",
+            "speaker/narration distinction"
+          ],
+          "cannotSupport": [
+            "trust or safety conclusion",
+            "affection points"
+          ],
+          "evidence": "research/evidence/flow-07/video-dialogue-0.png"
+        },
+        {
+          "start": 700,
+          "end": 733.768,
+          "action": "Advance dialogue",
+          "state": "Miles seated in living room",
+          "result": "Portrait and text vary within conversation",
+          "supports": [
+            "expression changes are not selectable choices"
+          ],
+          "cannotSupport": [
+            "ending unlocked"
+          ],
+          "evidence": "research/evidence/flow-07/video-late-0.png"
+        },
+        {
+          "start": 930,
+          "end": 1010.35,
+          "action": "Read final recorded conversation",
+          "state": "Still living-room conversation",
+          "result": "Recording stops during dialogue, no demo completion card",
+          "supports": [
+            "candidate is partial session"
+          ],
+          "cannotSupport": [
+            "demo ending",
+            "all routes"
+          ],
+          "evidence": "research/evidence/flow-07/video-end-7.png"
+        }
+      ],
+      "pageUses": [
+        "home: opening reading context only"
+      ],
+      "spoiler": "Opening narrative spoilers; public warning required",
+      "status": "analyzed-narrow-use"
+    },
+    {
+      "id": "video-kzea-reviewed",
+      "gameId": "bound-by-insanity",
+      "videoId": "kzea-ReNkME",
+      "identity": "exact-game",
+      "durationSeconds": 5025.081,
+      "embedStatus": "passed",
+      "versionScope": "Older four-icon UI; lacks current rollback/history buttons.",
+      "segments": [
+        {
+          "start": 4500,
+          "end": 4528.043,
+          "action": "Advance nighttime narration",
+          "state": "Protagonist leaves bed",
+          "result": "Text changes; no choice observed",
+          "supports": [
+            "narration rather than action gameplay"
+          ],
+          "cannotSupport": [
+            "ending identity",
+            "current controls"
+          ],
+          "evidence": "research/evidence/flow-07/video-kzea-late-0.png"
+        }
+      ],
+      "status": "excluded-from-public: narrow sample and version mismatch",
+      "pageUses": []
+    },
+    {
+      "id": "video-oze-reviewed",
+      "gameId": "bound-by-insanity",
+      "videoId": "OZeAJXw53Ok",
+      "identity": "exact-game",
+      "durationSeconds": 9568.433,
+      "embedStatus": "passed",
+      "versionScope": "Older four-icon UI; common scene art, not current controls. Author says revised demo ends at same point.",
+      "segments": [
+        {
+          "start": 5400,
+          "end": 5427.646,
+          "action": "Advance conversation",
+          "state": "Dark-haired Miles standing, protagonist discussing college acquaintances",
+          "result": "Conversation progresses without an on-screen option",
+          "supports": [
+            "Miles visual identity and distinct narrator"
+          ],
+          "cannotSupport": [
+            "affection points",
+            "route exclusivity"
+          ],
+          "evidence": "research/evidence/flow-07/video-oze-middle-0.png"
+        },
+        {
+          "start": 9350,
+          "end": 9377.94,
+          "action": "Advance confrontation",
+          "state": "Adrien labeled dialogue; emotionally threatening late scene",
+          "result": "Portrait shifts to hand/cutout; scene continues",
+          "supports": [
+            "Adrien distinct identity",
+            "late spoilers exist"
+          ],
+          "cannotSupport": [
+            "all routes",
+            "safety of character"
+          ],
+          "evidence": "research/evidence/flow-07/video-oze-final-0.png"
+        },
+        {
+          "start": 9490,
+          "end": 9560,
+          "action": "Advance final narration then apparent skip",
+          "state": "Phone image to final illustrated scene to menu",
+          "result": "Recording returns to main menu before creator outro",
+          "supports": [
+            "demo stopping rather than ending selector in this recording"
+          ],
+          "cannotSupport": [
+            "every branch",
+            "exact current web inputs"
+          ],
+          "evidence": "research/evidence/flow-07/video-oze-stop-contact.png"
+        }
+      ],
+      "status": "analyzed-version-bounded",
+      "pageUses": [
+        "endings: optional marked older demo stopping example"
+      ],
+      "spoiler": "Major late story spoilers; never use scene detail in teaser or alt"
+    },
+    {
+      "id": "video-current-ty",
+      "gameId": "bound-by-insanity",
+      "videoId": "TYJV8iJza7o",
+      "publisherName": "Voyia",
+      "title": "From Friends To Ownership | Bound By Insanity | Part 4 #gaming #gameplay",
+      "durationSeconds": 2216.421,
+      "identity": "exact-game",
+      "form": "later-demo-conversation",
+      "embedStatus": "passed",
+      "ageRestrictionStatus": "clear",
+      "versionScope": "Six-icon lower-right menu matches currently configured browser build; same Miles artwork and speaker panel. No binary/version number equivalence claimed.",
+      "segments": [
+        {
+          "id": "ty-reading-180",
+          "start": 180,
+          "end": 207.588773,
+          "state": "Close-up Miles dialogue with six-icon menu",
+          "action": "Player advances dialogue after completion",
+          "result": "Speaker changes Miles to protagonist while portrait remains",
+          "supports": [
+            "speaker attribution",
+            "portrait hold is not a choice",
+            "six-icon interface"
+          ],
+          "cannotSupport": [
+            "route outcome",
+            "hidden score",
+            "complete demo"
+          ],
+          "evidence": "research/evidence/flow-07/video-ty-opening-1.png"
+        },
+        {
+          "id": "ty-exchange-600",
+          "start": 600,
+          "end": 624.366095,
+          "state": "Miles standing portrait",
+          "action": "Advance protagonist and Miles exchange",
+          "result": "Short gesture/narration then both speakers respond",
+          "supports": [
+            "dialogue and narration distinction",
+            "read whole response"
+          ],
+          "cannotSupport": [
+            "player streamer opinion is a rule",
+            "safe relationship guarantee"
+          ],
+          "evidence": "research/evidence/flow-07/video-ty-600-3.png"
+        },
+        {
+          "id": "ty-pause-1500",
+          "start": 1500,
+          "end": 1524.976031,
+          "state": "Late close-up, tense conversation",
+          "action": "Player/streamer pauses and discusses while text stays",
+          "result": "Game does not move solely because commentary continues",
+          "supports": [
+            "recording contains mature later dialogue",
+            "video is not full-route guide"
+          ],
+          "cannotSupport": [
+            "commentator inference is canon",
+            "ending revealed by title"
+          ],
+          "evidence": "research/evidence/flow-07/video-ty-1500-0.png"
+        }
+      ],
+      "pageUses": [
+        {
+          "pageId": "home",
+          "sectionId": "reading-the-encounters",
+          "purpose": "Observe speaker changes and portrait hold/change, after-body optional spoiler video"
+        }
+      ],
+      "status": "adopted-after-media-review",
+      "spoiler": "Story spoilers and mature language; warning in visible description before iframe"
+    },
+    {
+      "id": "video-stream-9b",
+      "gameId": "bound-by-insanity",
+      "videoId": "9BDB7RYh1ZA",
+      "identity": "unconfirmed-in-reviewed-ranges",
+      "segments": [
+        {
+          "id": "9b-talk",
+          "start": 2335,
+          "end": 2359.789833,
+          "state": "Full-camera discussion",
+          "action": "Streamer speaks",
+          "result": "No game shown",
+          "supports": [
+            "not suitable at this interval"
+          ],
+          "cannotSupport": [
+            "game rules"
+          ],
+          "evidence": "research/evidence/flow-07/video-9b-encounter-0.png"
+        },
+        {
+          "id": "9b-chart",
+          "start": 6000,
+          "end": 6025.962203,
+          "state": "Paint relationship sketch",
+          "action": "Streamer draws",
+          "result": "Personal chart rather than game UI",
+          "supports": [
+            "not suitable for current interface"
+          ],
+          "cannotSupport": [
+            "canon relationships"
+          ],
+          "evidence": "research/evidence/flow-07/video-9b-game-0.png"
+        }
+      ],
+      "status": "rejected",
+      "pageUses": []
+    },
+    {
+      "id": "video-al-old",
+      "gameId": "bound-by-insanity",
+      "videoId": "A_lKR4teWrs",
+      "identity": "exact-game",
+      "segments": [
+        {
+          "id": "al-late",
+          "start": 900,
+          "end": 926.887363,
+          "state": "Late narration/shower and kitchen scene",
+          "action": "Advance narration",
+          "result": "Four-icon old menu visible",
+          "supports": [
+            "older scene art"
+          ],
+          "cannotSupport": [
+            "current controls"
+          ],
+          "evidence": "research/evidence/flow-07/video-al-middle-0.png"
+        }
+      ],
+      "status": "rejected-old-controls",
+      "pageUses": []
+    },
+    {
+      "id": "video-ending-xil",
+      "gameId": "bound-by-insanity",
+      "videoId": "xil9sA6b52k",
+      "identity": "exact-game",
+      "durationSeconds": 908.001,
+      "form": "late-scene-recording",
+      "embedStatus": "passed-real-playback",
+      "versionScope": "Older four-icon UI; not identical current reading controls",
+      "segments": [
+        {
+          "id": "xil-opening",
+          "start": 0,
+          "end": 20.926,
+          "state": "Dark torn-paper narration",
+          "action": "Recording advances passage",
+          "result": "Narration changes; four icons visible",
+          "supports": [
+            "Older narrative presentation"
+          ],
+          "cannotSupport": [
+            "Current control behavior",
+            "Choice result"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/ending-video-opening.png"
+        },
+        {
+          "id": "xil-late",
+          "start": 760,
+          "end": 780.894,
+          "state": "Late underwater scene with Adrien and knife",
+          "action": "Recording advances dialogue",
+          "result": "Story continues; major spoiler image",
+          "supports": [
+            "Older late scene identity"
+          ],
+          "cannotSupport": [
+            "A complete ending or route unlock"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/ending-video-late.png"
+        },
+        {
+          "id": "xil-cut",
+          "start": 866,
+          "end": 908.001,
+          "state": "Close-up Miles late dialogue",
+          "action": "Recording advances until video ends",
+          "result": "Video ends on an in-scene still; no completion or title menu",
+          "supports": [
+            "Video cut is not completion proof"
+          ],
+          "cannotSupport": [
+            "Demo ending",
+            "All routes"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/ending-video-final.png"
+        }
+      ],
+      "pageUses": [],
+      "spoiler": "Major late plot scene; rejected publicly",
+      "status": "research-only-rejected-embed",
+      "decisionReason": "Older UI and in-scene cut; ending label cannot establish available ending."
+    },
+    {
+      "id": "video-adrien-xbk",
+      "gameId": "bound-by-insanity",
+      "videoId": "XBK7KbzH9ns",
+      "identity": "exact-game",
+      "durationSeconds": 2664.621,
+      "form": "commentated-partial-session",
+      "embedStatus": "passed-real-playback",
+      "versionScope": "Six-icon UI aligns with current menu; exact revised script equivalence not proven",
+      "segments": [
+        {
+          "id": "xbk-opening",
+          "start": 0,
+          "end": 22.00178,
+          "state": "Dark timestamp narration",
+          "action": "Recording advances passage with commentary subtitles",
+          "result": "Text continues in six-icon UI",
+          "supports": [
+            "Reading UI identity"
+          ],
+          "cannotSupport": [
+            "Full demo completion"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-opening.png"
+        },
+        {
+          "id": "xbk-miles",
+          "start": 300,
+          "end": 321.120441,
+          "state": "Miles close-up with chains in room",
+          "action": "Recording continues conversation",
+          "result": "Visible Miles scene; subtitle obscures part of underlying text",
+          "supports": [
+            "Character visual identity"
+          ],
+          "cannotSupport": [
+            "Authoritative interpretation of dialogue",
+            "Route score"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-300.png"
+        },
+        {
+          "id": "xbk-adrien",
+          "start": 1200,
+          "end": 1221.714041,
+          "state": "Adrien close-up, hand behind head",
+          "action": "Recording continues scene",
+          "result": "Expression presented with commentary overlay",
+          "supports": [
+            "Adrien visual presentation"
+          ],
+          "cannotSupport": [
+            "Route-ending condition",
+            "All future branches"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-1200.png"
+        },
+        {
+          "id": "xbk-late",
+          "start": 2600,
+          "end": 2621.526534,
+          "state": "Dark later-that-night passage",
+          "action": "Recording advances narration",
+          "result": "Narration continues without completion card",
+          "supports": [
+            "Episode still progresses near end"
+          ],
+          "cannotSupport": [
+            "Demo endpoint"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-2600.png"
+        },
+        {
+          "id": "xbk-final",
+          "start": 2621,
+          "end": 2664.621,
+          "state": "Continuing late narration then edited outro art",
+          "action": "Recording cuts to creator’s video endscreen",
+          "result": "Video ends with episode graphic rather than game completion screen",
+          "supports": [
+            "Episode ending distinct from game ending"
+          ],
+          "cannotSupport": [
+            "Completed demo or unlocked route"
+          ],
+          "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-final.png"
+        }
+      ],
+      "pageUses": [],
+      "spoiler": "Later story material and commentary overlays",
+      "status": "research-only-no-new-embed",
+      "decisionReason": "Current UI but episode cut and commentary overlays do not improve the two topic tasks enough to add a spoiler-heavy duplicate video."
+    }
+  ]
+}

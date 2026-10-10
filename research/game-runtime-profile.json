@@ -1,0 +1,67 @@
+{
+  "gameName": "Bound By Insanity",
+  "primaryKeyword": "Bound By Insanity",
+  "gameId": "bound-by-insanity",
+  "observedAt": "2026-10-08",
+  "gameUrlStatus": "configured",
+  "configPath": "data/games/main-game.json.player.iframeSrc",
+  "runtimeStatus": "provisional",
+  "embed": {
+    "conclusion": "unknown",
+    "finalUrlStatus": "stable",
+    "httpsCompatible": "yes",
+    "xFrameOptions": "not_present",
+    "frameAncestors": "not_present",
+    "iframeVisualTest": "passed",
+    "testedFromSiteOrigin": "no",
+    "testOrigin": "http://127.0.0.1:4187",
+    "formalOrigin": "https://boundbyinsanity.org",
+    "cleanBrowserContext": "no",
+    "effectiveReferrerPolicy": null,
+    "finalFrameUrlStatus": "expected",
+    "frameCount": 1,
+    "srcMatchesCurrentConfig": true,
+    "criticalNetworkErrors": [],
+    "networkCoverage": "Parent console only; no exhaustive child network inspection",
+    "interactiveInputTest": "not_run",
+    "crossSiteStorage": "unknown",
+    "sandbox": null,
+    "notes": [
+      "Best-effort initial warning screen only; no Confirm click or gameplay input.",
+      "Existing signed-in IAB context is not clean.",
+      "No main URL replacement requested or performed.",
+      "Load event/first screen does not prove the game playable.",
+      "Temporary server PID32716 stopped; temporary precheck script removed."
+    ]
+  },
+  "orientation": "unknown",
+  "aspectRatio": null,
+  "inputs": {
+    "mouse": "unknown",
+    "keyboard": "unknown",
+    "touch": "unknown",
+    "gamepad": "unknown"
+  },
+  "audio": "unknown",
+  "storage": "unknown",
+  "fullscreen": "unknown",
+  "iframeCapabilities": [],
+  "mobilePlayability": "unknown",
+  "knownLimits": [
+    "Official native demo and supplied browser target have distinct version scopes"
+  ],
+  "needsSecondaryCheck": [
+    "Player safety/failure/retry checks in actual site at stages06/10",
+    "Observed reading controls and version-specific media",
+    "No user replacement required for progression"
+  ],
+  "risk": {
+    "adultOrSexualContent": "uncertain",
+    "violenceOrHorror": "present",
+    "gambling": "not_observed",
+    "minors": "uncertain",
+    "browserSecurity": "uncertain",
+    "basis": "Official mature advisory includes gore, manipulation, captivity and possible future erotic content; initial iframe displays18+ warning.",
+    "spoilerPolicy": "marked"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "gameId": "bound-by-insanity",
+  "checkedAt": "2026-10-08",
+  "context": "Fresh Playwright context, direct configured address; not production-site acceptance",
+  "status": "partial-real-input-observed; final player still provisional",
+  "actions": [
+    {
+      "action": "Confirm mature content warning; focus Start then Enter",
+      "result": "Tutorial and birthday narration displayed",
+      "evidence": "research/evidence/flow-07/reading-panel.png"
+    },
+    {
+      "action": "Options text-speed adjustment; Back",
+      "result": "Six-icon reading UI and updated text behavior visible",
+      "evidence": "research/evidence/flow-07/options.png"
+    },
+    {
+      "action": "Twelve deliberate Enter advances",
+      "result": "Opening long passage expands in multiple steps; heart appears on completion",
+      "evidence": "research/evidence/flow-07/game-opening-contact.png"
+    },
+    {
+      "action": "One upward mouse wheel step",
+      "result": "Previous complete birthday passage restored",
+      "evidence": "research/evidence/flow-07/passage-restored.png"
+    },
+    {
+      "action": "H twice",
+      "result": "Dialogue hidden then restored at same passage",
+      "evidence": "research/evidence/flow-07/reading-panel-hidden.png"
+    }
+  ],
+  "notVerified": [
+    "complete demo",
+    "route outcomes",
+    "mobile input",
+    "save persistence across versions"
+  ]
+}

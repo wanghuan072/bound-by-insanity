@@ -1,0 +1,12 @@
+{
+  "observedAt": "2026-10-08",
+  "priorLimitation": "Connected IAB cannot create clean contexts; existing user profile left untouched",
+  "userAuthorization": "使用 Playwright 隔离上下文",
+  "automation": "Bundled Playwright 1.62.1 with installed Chrome",
+  "profile": "Dedicated project-local temporary host profile",
+  "isolation": "Separate newContext per game; empty initial cookies verified",
+  "supportedIsolatedContextCreation": true,
+  "userQuestionStatus": "resolved",
+  "effect": "Eight additional candidates passed preliminary clean-context controlled embedding and effective input; main remains provisional",
+  "finalAcceptance": "Production route checks pending stage10"
+}

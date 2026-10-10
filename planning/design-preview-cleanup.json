@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-08T08:31:09.612Z",
+  "serverClosed": true,
+  "browserClosed": true,
+  "port": 58630,
+  "probe": "ECONNREFUSED",
+  "removed": [
+    "D:/wh/202610/Bound By Insanity/Bound By Insanity/bound-by-insanity/planning/.design-browser-profile",
+    "D:/wh/202610/Bound By Insanity/Bound By Insanity/bound-by-insanity/planning/.design-browser-temp"
+  ]
+}

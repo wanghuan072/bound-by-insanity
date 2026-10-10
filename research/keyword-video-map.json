@@ -1,0 +1,575 @@
+{
+  "status": "main-game-secondary-research-complete",
+  "observedAt": "2026-10-09",
+  "language": "en",
+  "market": "Global English-speaking adult players",
+  "games": [
+    {
+      "gameId": "bound-by-insanity",
+      "title": "Bound By Insanity",
+      "language": "en",
+      "market": "Global English-speaking adult players",
+      "queries": [
+        {
+          "task": "Identify actual demo gameplay and reading behavior",
+          "query": "Bound By Insanity gameplay",
+          "entrance": "YouTube self-search",
+          "status": "observed",
+          "resultScope": "Observed gameplay results including the four recorded candidates",
+          "observedAt": "2026-10-08"
+        },
+        {
+          "task": "Resolve current version, demo branching and reading controls",
+          "query": "Bound By Insanity official demo developer",
+          "entrance": "Primary author page/profile opened directly",
+          "status": "observed",
+          "resultScope": "Official page and creator replies; not a measured Google query",
+          "observedAt": "2026-10-08"
+        },
+        {
+          "task": "Find text-completion, options and available-demo choice behavior",
+          "query": "Bound By Insanity pulsing heart text speed demo choices",
+          "entrance": "YouTube self-search in isolated Playwright context",
+          "status": "observed",
+          "resultScope": "Search result metadata only; separately screened records carry visual evidence",
+          "observedAt": "2026-10-08"
+        },
+        {
+          "task": "Complete/recover passages",
+          "query": "Bound By Insanity pulsing heart back text speed demo",
+          "entrance": "YouTube self-search in isolated Playwright context",
+          "status": "observed",
+          "observedAt": "2026-10-08",
+          "resultScope": "research/youtube-secondary-searches.json"
+        },
+        {
+          "task": "Understand demo choices and scope",
+          "query": "Bound By Insanity demo choices Miles Adrien",
+          "entrance": "YouTube self-search in isolated Playwright context",
+          "status": "observed",
+          "observedAt": "2026-10-08",
+          "resultScope": "research/youtube-secondary-searches.json"
+        },
+        {
+          "task": "Read character behavior",
+          "query": "Bound By Insanity characters Miles Adrien gameplay",
+          "entrance": "YouTube self-search in isolated Playwright context",
+          "status": "observed",
+          "observedAt": "2026-10-08",
+          "resultScope": "research/youtube-secondary-searches.json"
+        },
+        {
+          "task": "Locate current six-icon video edition",
+          "query": "Bound By Insanity gameplay; recent-result check",
+          "entrance": "YouTube isolated self-search",
+          "status": "observed",
+          "evidence": "research/youtube-stage08-recent-search.json"
+        },
+        {
+          "task": "Character identity, early scenes and current UI",
+          "query": "Bound By Insanity characters Miles Adrien",
+          "entrance": "YouTube isolated self-search",
+          "status": "observed",
+          "resultScope": "XBK7KbzH9ns,9BDB7RYh1ZA,OZeAJXw53Ok,TYJV8iJza7o,d5bH1oUMpv8,deiBT0xpUsY,kzea-ReNkME,xil9sA6b52k,euIPNMZ8Q70,Rq54I5jESiI",
+          "observedAt": "2026-10-09"
+        },
+        {
+          "task": "Separate planned routes, demo endpoint and local choices",
+          "query": "Bound By Insanity endings choices demo",
+          "entrance": "YouTube isolated self-search",
+          "status": "observed",
+          "resultScope": "xil9sA6b52k,d5bH1oUMpv8,lBjR1HxE0O4,OZeAJXw53Ok,XBK7KbzH9ns,talgcoPkfxo,Y-zZMnJAb6Q,A_lKR4teWrs,deiBT0xpUsY,Rq54I5jESiI",
+          "observedAt": "2026-10-09"
+        },
+        {
+          "task": "Discover official profiles and route plan",
+          "query": "Bound By Insanity Miles Adrien character ages endings routes",
+          "entrance": "Ordinary web search and primary-page follow-up",
+          "status": "observed",
+          "resultScope": "Official itch.io creator page, devlog and author replies verified. Tumblr mirrors discovery only; unsupported trivia excluded.",
+          "observedAt": "2026-10-09"
+        },
+        {
+          "task": "Discover relevant gameplay videos",
+          "query": "Bound By Insanity endings choices gameplay youtube",
+          "entrance": "Ordinary web video search",
+          "status": "observed",
+          "resultScope": "Numerous unrelated or broad matches; self-search used to find exact game videos.",
+          "observedAt": "2026-10-09"
+        }
+      ],
+      "plannedQueries": [
+        {
+          "task": "Find visual examples for long text and recovery",
+          "query": "Bound By Insanity pulsing heart back text speed demo",
+          "status": "completed"
+        },
+        {
+          "task": "Check current demo decision impact without future-route conflation",
+          "query": "Bound By Insanity demo choices Miles Adrien",
+          "status": "completed"
+        }
+      ],
+      "candidates": [
+        {
+          "videoId": "d5bH1oUMpv8",
+          "title": "Bound By Insanity (No Commentary)",
+          "publisher": "Rin Gaming",
+          "durationSeconds": 1010.333,
+          "publishedAt": null,
+          "datePrecision": "unavailable",
+          "identity": "exact-game",
+          "identityScope": "Bound By Insanity title, LenaXiaoS credit, torn-paper menu and Miles scene match official demo identity. This video is not proof the provisional mirror is playable.",
+          "form": "partial-opening-session",
+          "versionScope": "Older four-icon UI, shared opening art/heart only",
+          "screeningStatus": "initial-screening",
+          "embedStatus": "passed",
+          "playerQuestions": [
+            "How does text advance and display complete?",
+            "Does the observed demo contain consequential route choices?"
+          ],
+          "observedSegments": [
+            {
+              "start": 0,
+              "end": 35.305,
+              "action": "Advance opening tutorial and birthday narration",
+              "state": "Menu to introductory passage",
+              "result": "Long text expands before completion heart",
+              "supports": [
+                "opening reading rhythm",
+                "dark backgrounds are intentional"
+              ],
+              "cannotSupport": [
+                "route outcome",
+                "current history controls"
+              ],
+              "evidence": "research/evidence/flow-07/video-opening-contact.png"
+            },
+            {
+              "start": 60,
+              "end": 96.704,
+              "action": "Advance flashback text",
+              "state": "Birthday/eye/hand illustrations",
+              "result": "Story image changes accompany narration",
+              "supports": [
+                "narrative illustrations"
+              ],
+              "cannotSupport": [
+                "identity inferred from unnamed flashback",
+                "route choice"
+              ],
+              "evidence": "research/evidence/flow-07/video-first-encounter-0.png"
+            },
+            {
+              "start": 220,
+              "end": 267.596,
+              "action": "Advance narration",
+              "state": "Bed/eye/hand scene",
+              "result": "Illustration and text change; no choice observed",
+              "supports": [
+                "visual storytelling"
+              ],
+              "cannotSupport": [
+                "Miles identification without speaker label"
+              ],
+              "evidence": "research/evidence/flow-07/video-miles-0.png"
+            },
+            {
+              "start": 400,
+              "end": 435.618,
+              "action": "Read conversation",
+              "state": "Living room, labeled Miles speaker",
+              "result": "Hand offers glass; protagonist reply follows",
+              "supports": [
+                "Miles visible practical care",
+                "speaker/narration distinction"
+              ],
+              "cannotSupport": [
+                "trust or safety conclusion",
+                "affection points"
+              ],
+              "evidence": "research/evidence/flow-07/video-dialogue-0.png"
+            },
+            {
+              "start": 700,
+              "end": 733.768,
+              "action": "Advance dialogue",
+              "state": "Miles seated in living room",
+              "result": "Portrait and text vary within conversation",
+              "supports": [
+                "expression changes are not selectable choices"
+              ],
+              "cannotSupport": [
+                "ending unlocked"
+              ],
+              "evidence": "research/evidence/flow-07/video-late-0.png"
+            },
+            {
+              "start": 930,
+              "end": 1010.35,
+              "action": "Read final recorded conversation",
+              "state": "Still living-room conversation",
+              "result": "Recording stops during dialogue, no demo completion card",
+              "supports": [
+                "candidate is partial session"
+              ],
+              "cannotSupport": [
+                "demo ending",
+                "all routes"
+              ],
+              "evidence": "research/evidence/flow-07/video-end-7.png"
+            }
+          ],
+          "segmentsToWatch": [
+            "Reading progression, completion-heart states and rollback",
+            "Choice before/after states in current demo",
+            "Version-relevant save/options and recovery"
+          ],
+          "stage07Analysis": "completed-bounded",
+          "exclusionReason": null,
+          "initialScreeningEvidence": "research/evidence/main-video-isolated-243s.png",
+          "initialScreening": {
+            "gameId": "bound-by-insanity",
+            "videoId": "d5bH1oUMpv8",
+            "checkedAt": "2026-10-08T07:51:50.102Z",
+            "testOrigin": "http://127.0.0.1:58685",
+            "embedStatus": "passed",
+            "consoleErrors": [],
+            "networkErrors": [
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/qoe?fmt=398&afmt=251&cpn=2Sy4OcfcXTtXW8sZ&el=embedded&ns=yt&fexp=v1%2C100673025%2C626%2C-76669007%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C100702%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C13015%2C16088%2C6621%2C895%2C1888%2C6630%2C17196%2C9500%2C1840%2C94838%2C20588%2C34313%2C9181%2C32875%2C20108%2C6032%2C191%2C977%2C372%2C7758%2C30206%2C4115%2C11462%2C26848%2C1352%2C13721%2C4367%2C9717%2C3613%2C10449%2C16090%2C3844%2C17159%2C1340%2C10904%2C3242%2C2%2C16113%2C1227%2C9038%2C1537%2C1809%2C4015%2C20491%2C2060%2C15895%2C3678%2C11712%2C9177%2C9694%2C4596%2C6725%2C2554%2C3639%2C9%2C5315%2C4012%2C3038%2C8893%2C5016%2C2973%2C4250%2C3749%2C8417%2C309%2C817%2C589%2C703%2C9903%2C1812%2C1631%2C2803%2C14024&cl=994693141&seq=1&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&event=streamingstats&plid=AAZdT4E0sZGdtMGJ&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.579:B,3.890:B,3.890:B&cat=streaming,sabr&cmt=0.579:0.000,3.890:0.000&afs=3.868:251::i:fl.-25.63;tl.-14;vg.0;nm.1;sms.2:CAEoAQ&vfs=3.890:398:398::a:sms.2:CAEoAQ&view=3.890:1280:720&bwm=3.890:35277:3.178&bwe=3.890:253712&bat=3.890:1:1&vis=3.890:0&bh=3.890:0.000&qclc=ChAyU3k0T2NmY1hUdFhXOHNaEAE",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://rr4---sn-oji3b5-5n.googlevideo.com/videoplayback?expire=1791467511&ei=l0vHaoDxLtaB2roP3O3SsQg&ip=203.175.14.45&id=o-AK_Qo_FfHez5kfnGUBvRsrBSgvfgBuGybrq08vfAo8oP&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=197&met=1791445911%2C&mh=DY&mm=31%2C29&mn=sn-oji3b5-5n%2Csn-i3belnls&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=3326625&spc=I-rgId3duknXMKchZKVdt0xvF-mD_lavRP-eD3vULk7z_OpIkCqzxKHPkhfOMvqRREk27E4mSZ4&svpuc=1&ns=4vgQzPIPnqSWxRHlDzR6VYsZ&sabr=1&rqh=1&mt=1791445318&fvip=5&keepalive=yes&fexp=51565115%2C52112905%2C52184232%2C52250513&c=WEB_EMBEDDED_PLAYER&n=xDMjZrx77JSF0A&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AE0s2JYwRQIgC3hJuR6GgWMK1imgfDrY13YWNIFivBpkKtOCloqP56ICIQCpbPHIHJL2Pj_o5_ZKIEClDfKz0f00kOWB28Zxw6iyhw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgWUFNN0Arr1a3Adbmt4B18g61TFaWocKgj6qKOimQAn4CICYVELnKIeRjBp1ceKSzy9h_QCIj4RY3tRZM-gnu4pXJ&cpn=2Sy4OcfcXTtXW8sZ&cver=2.20261007.00.00&rn=1&alr=yes",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/playback?ns=yt&el=embedded&cpn=2Sy4OcfcXTtXW8sZ&ver=2&cmt=243.018&fmt=398&fs=0&rt=6.116&euri=http%3A%2F%2F127.0.0.1%3A58685%2F&lact=5559&cl=994693141&mos=0&volume=100&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&epm=1&hl=zh_CN&cr=US&len=1010.35&fexp=v1%2C100673025%2C626%2C-76669007%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C100702%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C13015%2C16088%2C6621%2C895%2C1888%2C6630%2C17196%2C9500%2C1840%2C94838%2C20588%2C34313%2C9181%2C32875%2C20108%2C6032%2C191%2C977%2C372%2C7758%2C30206%2C4115%2C11462%2C26848%2C1352%2C13721%2C4367%2C9717%2C3613%2C10449%2C16090%2C3844%2C17159%2C1340%2C10904%2C3242%2C2%2C16113%2C1227%2C9038%2C1537%2C1809%2C4015%2C20491%2C2060%2C15895%2C3678%2C11712%2C9177%2C9694%2C4596%2C6725%2C2554%2C3639%2C9%2C5315%2C4012%2C3038%2C8893%2C5016%2C2973%2C4250%2C3749%2C8417%2C309%2C817%2C589%2C703%2C9903%2C1812%2C1631%2C2803%2C14024&rtn=12&afmt=251&size=1280%3A720&inview=1&muted=0&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&plid=AAZdT4E0sZGdtMGJ&referrer=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2Fd5bH1oUMpv8&of=odq4gzseUBpt5gEGx8kUCw&vm=CAEQABgEOjJBSHFpSlRJWEZTQnduZG9Ea09GcDhuZWRrWVRKalZMM1lQUVhlUktEMEtHaUhzZnJZUWJeQUNPdTRMU0pQV3dfSHlKaHljLTdLWkJ0TVpsekhBaExVMDJEb053My03NW83QWJnMlpVYWJQMktqYmRTdmswemxtTkNzYnFtV2hlcWI1QVZTSjNfTVgyY3J6SUJzZw",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/ptracking?html5=1&video_id=d5bH1oUMpv8&cpn=2Sy4OcfcXTtXW8sZ&ei=l0vHaoDxLtaB2roP3O3SsQg&ptk=youtube_single&oid=TlJYEr8wuqR35aGMT7NtNw&pltype=contentugc",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/qoe?fmt=398&afmt=251&cpn=2Sy4OcfcXTtXW8sZ&el=embedded&ns=yt&fexp=v1%2C100673025%2C626%2C-76669007%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C100702%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C13015%2C16088%2C6621%2C895%2C1888%2C6630%2C17196%2C9500%2C1840%2C94838%2C20588%2C34313%2C9181%2C32875%2C20108%2C6032%2C191%2C977%2C372%2C7758%2C30206%2C4115%2C11462%2C26848%2C1352%2C13721%2C4367%2C9717%2C3613%2C10449%2C16090%2C3844%2C17159%2C1340%2C10904%2C3242%2C2%2C16113%2C1227%2C9038%2C1537%2C1809%2C4015%2C20491%2C2060%2C15895%2C3678%2C11712%2C9177%2C9694%2C4596%2C6725%2C2554%2C3639%2C9%2C5315%2C4012%2C3038%2C8893%2C5016%2C2973%2C4250%2C3749%2C8417%2C309%2C817%2C589%2C703%2C9903%2C1812%2C1631%2C2803%2C14024&cl=994693141&seq=2&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&event=streamingstats&plid=AAZdT4E0sZGdtMGJ&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&user_intent=0.559&cmt=4.015:243.000,6.048:243.000,6.115:243.018,6.867:243.753,10.565:247.451&vps=4.015:S:ss.104,6.048:B,6.115:PL,10.565:PL&bh=6.115:20.500,10.565:16.319&bwm=10.565:925580:2.244&bwe=10.565:362334&bat=10.565:1:1&df=10.565:0&qclc=ChAyU3k0T2NmY1hUdFhXOHNaEAI",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/watchtime?ns=yt&el=embedded&cpn=2Sy4OcfcXTtXW8sZ&ver=2&cmt=248.901&fmt=398&fs=0&rt=12.015&euri=http%3A%2F%2F127.0.0.1%3A58685%2F&lact=11458&cl=994693141&state=playing&volume=100&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=zh_CN&cr=US&len=1010.35&rtn=22&afmt=251&idpj=-5&ldpj=-37&rti=12&size=1280%3A720&inview=1&st=243.018&et=248.901&muted=0&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&plid=AAZdT4E0sZGdtMGJ&referrer=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2Fd5bH1oUMpv8&of=odq4gzseUBpt5gEGx8kUCw&vm=CAEQABgEOjJBSHFpSlRJWEZTQnduZG9Ea09GcDhuZWRrWVRKalZMM1lQUVhlUktEMEtHaUhzZnJZUWJeQUNPdTRMU0pQV3dfSHlKaHljLTdLWkJ0TVpsekhBaExVMDJEb053My03NW83QWJnMlpVYWJQMktqYmRTdmswemxtTkNzYnFtV2hlcWI1QVZTSjNfTVgyY3J6SUJzZw",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/watchtime?ns=yt&el=embedded&cpn=2Sy4OcfcXTtXW8sZ&ver=2&cmt=258.901&fmt=398&fs=0&rt=22.015&euri=http%3A%2F%2F127.0.0.1%3A58685%2F&lact=21458&cl=994693141&state=playing&volume=100&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=zh_CN&cr=US&len=1010.35&rtn=32&afmt=251&idpj=-5&ldpj=-37&rti=22&size=1280%3A720&inview=1&st=248.901&et=258.901&muted=0&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&plid=AAZdT4E0sZGdtMGJ&referrer=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2Fd5bH1oUMpv8&of=odq4gzseUBpt5gEGx8kUCw&vm=CAEQABgEOjJBSHFpSlRJWEZTQnduZG9Ea09GcDhuZWRrWVRKalZMM1lQUVhlUktEMEtHaUhzZnJZUWJeQUNPdTRMU0pQV3dfSHlKaHljLTdLWkJ0TVpsekhBaExVMDJEb053My03NW83QWJnMlpVYWJQMktqYmRTdmswemxtTkNzYnFtV2hlcWI1QVZTSjNfTVgyY3J6SUJzZw",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/watchtime?ns=yt&el=embedded&cpn=2Sy4OcfcXTtXW8sZ&ver=2&cmt=268.902&fmt=398&fs=0&rt=32.016&euri=http%3A%2F%2F127.0.0.1%3A58685%2F&lact=31459&cl=994693141&state=playing&volume=100&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=zh_CN&cr=US&len=1010.35&rtn=40&afmt=251&idpj=-5&ldpj=-37&rti=32&size=1280%3A720&inview=1&st=258.901&et=268.902&muted=0&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&plid=AAZdT4E0sZGdtMGJ&referrer=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2Fd5bH1oUMpv8&of=odq4gzseUBpt5gEGx8kUCw&vm=CAEQABgEOjJBSHFpSlRJWEZTQnduZG9Ea09GcDhuZWRrWVRKalZMM1lQUVhlUktEMEtHaUhzZnJZUWJeQUNPdTRMU0pQV3dfSHlKaHljLTdLWkJ0TVpsekhBaExVMDJEb053My03NW83QWJnMlpVYWJQMktqYmRTdmswemxtTkNzYnFtV2hlcWI1QVZTSjNfTVgyY3J6SUJzZw",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/qoe?fmt=398&afmt=251&cpn=2Sy4OcfcXTtXW8sZ&el=embedded&ns=yt&fexp=v1%2C100673025%2C626%2C-76669007%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C100702%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C13015%2C16088%2C6621%2C895%2C1888%2C6630%2C17196%2C9500%2C1840%2C94838%2C20588%2C34313%2C9181%2C32875%2C20108%2C6032%2C191%2C977%2C372%2C7758%2C30206%2C4115%2C11462%2C26848%2C1352%2C13721%2C4367%2C9717%2C3613%2C10449%2C16090%2C3844%2C17159%2C1340%2C10904%2C3242%2C2%2C16113%2C1227%2C9038%2C1537%2C1809%2C4015%2C20491%2C2060%2C15895%2C3678%2C11712%2C9177%2C9694%2C4596%2C6725%2C2554%2C3639%2C9%2C5315%2C4012%2C3038%2C8893%2C5016%2C2973%2C4250%2C3749%2C8417%2C309%2C817%2C589%2C703%2C9903%2C1812%2C1631%2C2803%2C14024&cl=994693141&seq=3&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&event=streamingstats&plid=AAZdT4E0sZGdtMGJ&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=40.565:PL&bwm=40.565:2358962:1.935&bwe=40.565:2846764&bat=40.565:1:1&cmt=40.565:277.450&bh=40.565:52.300&qclc=ChAyU3k0T2NmY1hUdFhXOHNaEAM",
+                "error": "net::ERR_ABORTED"
+              },
+              {
+                "url": "https://www.youtube-nocookie.com/api/stats/qoe?fmt=398&afmt=251&cpn=2Sy4OcfcXTtXW8sZ&el=embedded&ns=yt&fexp=v1%2C100673025%2C626%2C-76669007%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C100702%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C13015%2C16088%2C6621%2C895%2C1888%2C6630%2C17196%2C9500%2C1840%2C94838%2C20588%2C34313%2C9181%2C32875%2C20108%2C6032%2C191%2C977%2C372%2C7758%2C30206%2C4115%2C11462%2C26848%2C1352%2C13721%2C4367%2C9717%2C3613%2C10449%2C16090%2C3844%2C17159%2C1340%2C10904%2C3242%2C2%2C16113%2C1227%2C9038%2C1537%2C1809%2C4015%2C20491%2C2060%2C15895%2C3678%2C11712%2C9177%2C9694%2C4596%2C6725%2C2554%2C3639%2C9%2C5315%2C4012%2C3038%2C8893%2C5016%2C2973%2C4250%2C3749%2C8417%2C309%2C817%2C589%2C703%2C9903%2C1812%2C1631%2C2803%2C14024&cl=994693141&seq=4&docid=d5bH1oUMpv8&ei=l0vHaoDxLtaB2roP3O3SsQg&event=streamingstats&plid=AAZdT4E0sZGdtMGJ&cbr=HeadlessChrome&cbrver=155.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261007.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=70.565:PL&bwm=70.565:1449189:1.855&bwe=70.565:1375772&bat=70.565:1:1&cmt=70.565:307.449&bh=70.565:77.783&qclc=ChAyU3k0T2NmY1hUdFhXOHNaEAQ",
+                "error": "net::ERR_ABORTED"
+              }
+            ],
+            "observations": [],
+            "media": {
+              "time": 0.007839,
+              "duration": 1010.35,
+              "paused": false
+            },
+            "identity": "exact-game",
+            "shape": "full-session",
+            "observation": "Bound By Insanity title, LenaXiaoS credit, torn-paper menu and Miles scene match official demo identity. This video is not proof the provisional mirror is playable.",
+            "versionScope": "Creator demo; mirror-specific version equivalence remains unknown",
+            "evidence": "research/evidence/main-video-isolated-243s.png",
+            "deepAnalysis": "stage07 required",
+            "spoiler": "narrative scene; spoiler control required"
+          },
+          "initialSelection": "retained-for-stage07"
+        },
+        {
+          "videoId": "OZeAJXw53Ok",
+          "title": "Two Crazy Yandere - Bound By Insanity Game - All Routes",
+          "publisher": "Your Game",
+          "durationSeconds": null,
+          "publishedAt": null,
+          "datePrecision": "unavailable",
+          "identity": "exact-game",
+          "identityScope": "Title-only discovery, not visual confirmation",
+          "form": "full-session",
+          "versionScope": "Older four-icon UI; see video-analysis intervals",
+          "screeningStatus": "search-only",
+          "embedStatus": "passed",
+          "playerQuestions": [
+            "How does text advance and display complete?",
+            "Does the observed demo contain consequential route choices?"
+          ],
+          "observedSegments": [],
+          "segmentsToWatch": [
+            "Reading progression, completion-heart states and rollback",
+            "Choice before/after states in current demo",
+            "Version-relevant save/options and recovery"
+          ],
+          "stage07Analysis": "completed-bounded",
+          "exclusionReason": null,
+          "initialSelection": "not-selected"
+        },
+        {
+          "videoId": "kzea-ReNkME",
+          "title": "Two Insane Yandere Men Fight To Claim Me | Bound By Insanity DEMO",
+          "publisher": "Hello Yinny",
+          "durationSeconds": null,
+          "publishedAt": null,
+          "datePrecision": "unavailable",
+          "identity": "exact-game",
+          "identityScope": "Title-only discovery, not visual confirmation",
+          "form": "full-session",
+          "versionScope": "Older four-icon UI; see video-analysis intervals",
+          "screeningStatus": "search-only",
+          "embedStatus": "passed",
+          "playerQuestions": [
+            "How does text advance and display complete?",
+            "Does the observed demo contain consequential route choices?"
+          ],
+          "observedSegments": [],
+          "segmentsToWatch": [
+            "Reading progression, completion-heart states and rollback",
+            "Choice before/after states in current demo",
+            "Version-relevant save/options and recovery"
+          ],
+          "stage07Analysis": "completed-bounded",
+          "exclusionReason": null,
+          "initialSelection": "not-selected"
+        },
+        {
+          "videoId": "deiBT0xpUsY",
+          "title": "These YANDERES Want to KILL Each Other for Me | Bound By Insanity",
+          "publisher": "LoiBoi",
+          "durationSeconds": null,
+          "publishedAt": null,
+          "datePrecision": "unavailable",
+          "identity": "unknown",
+          "identityScope": "Title-only discovery, not visual confirmation",
+          "form": "full-session",
+          "versionScope": "Demo claimed by metadata or visuals; exact current web version unknown",
+          "screeningStatus": "search-only",
+          "embedStatus": "not_tested",
+          "playerQuestions": [
+            "How does text advance and display complete?",
+            "Does the observed demo contain consequential route choices?"
+          ],
+          "observedSegments": [],
+          "segmentsToWatch": [
+            "Reading progression, completion-heart states and rollback",
+            "Choice before/after states in current demo",
+            "Version-relevant save/options and recovery"
+          ],
+          "stage07Analysis": "pending_initial_visual_screening",
+          "exclusionReason": "No need for further candidate after sufficient narrowly usable opening playback; remains search-only, not adopted",
+          "initialSelection": "not-selected"
+        },
+        {
+          "videoId": "TYJV8iJza7o",
+          "identity": "exact-game",
+          "stage07Analysis": "recorded-intervals",
+          "embedStatus": "passed",
+          "exclusionReason": null,
+          "analysisId": "video-current-ty"
+        },
+        {
+          "videoId": "9BDB7RYh1ZA",
+          "identity": "unconfirmed-in-reviewed-ranges",
+          "stage07Analysis": "recorded-intervals",
+          "embedStatus": "played",
+          "exclusionReason": "rejected",
+          "analysisId": "video-stream-9b"
+        },
+        {
+          "videoId": "A_lKR4teWrs",
+          "identity": "exact-game",
+          "stage07Analysis": "recorded-intervals",
+          "embedStatus": "played",
+          "exclusionReason": "rejected-old-controls",
+          "analysisId": "video-al-old"
+        },
+        {
+          "videoId": "xil9sA6b52k",
+          "title": "Bound By Insanity Ending (No Commentary)",
+          "publisher": "Rin Gaming",
+          "durationSeconds": 908.001,
+          "publishedAt": null,
+          "datePrecision": "not-used",
+          "identity": "exact-game",
+          "versionScope": "Older four-icon UI; not identical current reading controls",
+          "screeningStatus": "deep-analysis-complete",
+          "embedStatus": "passed-real-playback",
+          "playerQuestions": [
+            "Which character is shown?",
+            "Does the video ending prove game completion?"
+          ],
+          "observedSegments": [
+            {
+              "id": "xil-opening",
+              "start": 0,
+              "end": 20.926,
+              "state": "Dark torn-paper narration",
+              "action": "Recording advances passage",
+              "result": "Narration changes; four icons visible",
+              "supports": [
+                "Older narrative presentation"
+              ],
+              "cannotSupport": [
+                "Current control behavior",
+                "Choice result"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/ending-video-opening.png"
+            },
+            {
+              "id": "xil-late",
+              "start": 760,
+              "end": 780.894,
+              "state": "Late underwater scene with Adrien and knife",
+              "action": "Recording advances dialogue",
+              "result": "Story continues; major spoiler image",
+              "supports": [
+                "Older late scene identity"
+              ],
+              "cannotSupport": [
+                "A complete ending or route unlock"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/ending-video-late.png"
+            },
+            {
+              "id": "xil-cut",
+              "start": 866,
+              "end": 908.001,
+              "state": "Close-up Miles late dialogue",
+              "action": "Recording advances until video ends",
+              "result": "Video ends on an in-scene still; no completion or title menu",
+              "supports": [
+                "Video cut is not completion proof"
+              ],
+              "cannotSupport": [
+                "Demo ending",
+                "All routes"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/ending-video-final.png"
+            }
+          ],
+          "stage07Analysis": "research-only-rejected-embed",
+          "exclusionReason": "Older UI and in-scene cut; ending label cannot establish available ending."
+        },
+        {
+          "videoId": "XBK7KbzH9ns",
+          "title": "My New Roommate Adrian | Bound By Insanity | Part 5",
+          "publisher": "Voyia",
+          "durationSeconds": 2664.621,
+          "publishedAt": null,
+          "datePrecision": "not-used",
+          "identity": "exact-game",
+          "versionScope": "Six-icon UI aligns with current menu; exact revised script equivalence not proven",
+          "screeningStatus": "deep-analysis-complete",
+          "embedStatus": "passed-real-playback",
+          "playerQuestions": [
+            "Which character is shown?",
+            "Does the video ending prove game completion?"
+          ],
+          "observedSegments": [
+            {
+              "id": "xbk-opening",
+              "start": 0,
+              "end": 22.00178,
+              "state": "Dark timestamp narration",
+              "action": "Recording advances passage with commentary subtitles",
+              "result": "Text continues in six-icon UI",
+              "supports": [
+                "Reading UI identity"
+              ],
+              "cannotSupport": [
+                "Full demo completion"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-opening.png"
+            },
+            {
+              "id": "xbk-miles",
+              "start": 300,
+              "end": 321.120441,
+              "state": "Miles close-up with chains in room",
+              "action": "Recording continues conversation",
+              "result": "Visible Miles scene; subtitle obscures part of underlying text",
+              "supports": [
+                "Character visual identity"
+              ],
+              "cannotSupport": [
+                "Authoritative interpretation of dialogue",
+                "Route score"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-300.png"
+            },
+            {
+              "id": "xbk-adrien",
+              "start": 1200,
+              "end": 1221.714041,
+              "state": "Adrien close-up, hand behind head",
+              "action": "Recording continues scene",
+              "result": "Expression presented with commentary overlay",
+              "supports": [
+                "Adrien visual presentation"
+              ],
+              "cannotSupport": [
+                "Route-ending condition",
+                "All future branches"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-1200.png"
+            },
+            {
+              "id": "xbk-late",
+              "start": 2600,
+              "end": 2621.526534,
+              "state": "Dark later-that-night passage",
+              "action": "Recording advances narration",
+              "result": "Narration continues without completion card",
+              "supports": [
+                "Episode still progresses near end"
+              ],
+              "cannotSupport": [
+                "Demo endpoint"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-2600.png"
+            },
+            {
+              "id": "xbk-final",
+              "start": 2621,
+              "end": 2664.621,
+              "state": "Continuing late narration then edited outro art",
+              "action": "Recording cuts to creator’s video endscreen",
+              "result": "Video ends with episode graphic rather than game completion screen",
+              "supports": [
+                "Episode ending distinct from game ending"
+              ],
+              "cannotSupport": [
+                "Completed demo or unlocked route"
+              ],
+              "evidence": "reports/topic-enrichment-2026-10-09/adrien-video-final.png"
+            }
+          ],
+          "stage07Analysis": "research-only-no-new-embed",
+          "exclusionReason": "Current UI but episode cut and commentary overlays do not improve the two topic tasks enough to add a spoiler-heavy duplicate video."
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "scope": "Active main-game records only; counts derived from current stored records",
+    "gameRecords": 1,
+    "queryRecords": 11,
+    "candidateVideoRecords": 9,
+    "approvedEmbeddedVideos": 1
+  }
+}

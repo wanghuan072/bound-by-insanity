@@ -1,0 +1,109 @@
+{
+  "status": "planned",
+  "links": [
+    {
+      "from": "sitewide-navigation",
+      "to": "home",
+      "path": "/",
+      "purpose": "Selected main navigation",
+      "anchor": "Home"
+    },
+    {
+      "from": "sitewide-navigation",
+      "to": "characters",
+      "path": "/characters",
+      "purpose": "Selected main navigation",
+      "anchor": "Characters"
+    },
+    {
+      "from": "sitewide-navigation",
+      "to": "endings",
+      "path": "/endings",
+      "purpose": "Selected main navigation",
+      "anchor": "Endings"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "privacy",
+      "path": "/privacy",
+      "purpose": "Describe only site-enabled processing and actual third-party iframe boundaries",
+      "anchor": "Privacy Policy",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "terms",
+      "path": "/terms",
+      "purpose": "Describe use conditions and availability for the actual reading/player site",
+      "anchor": "Terms of Service",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "copyright",
+      "path": "/copyright",
+      "purpose": "Distinguish original site text/visuals from game and video rights",
+      "anchor": "Copyright",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "about",
+      "path": "/about",
+      "purpose": "Explain the independent player site without invented publisher/team identity",
+      "anchor": "About Us",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "contact",
+      "path": "/contact",
+      "purpose": "Plain text support@boundbyinsanity.org; no form or mailto",
+      "anchor": "Contact Us",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "home",
+      "to": "characters",
+      "path": "/characters",
+      "purpose": "Interpret early roles after a first encounter",
+      "anchor": "Meet the characters"
+    },
+    {
+      "from": "home",
+      "to": "endings",
+      "path": "/endings",
+      "purpose": "Understand current choice and demo completion limits",
+      "anchor": "Explore choices and endings"
+    },
+    {
+      "from": "characters",
+      "to": "home",
+      "path": "/",
+      "purpose": "Apply this page’s advice in the player",
+      "anchor": "Return to Bound By Insanity"
+    },
+    {
+      "from": "endings",
+      "to": "home",
+      "path": "/",
+      "purpose": "Apply this page’s advice in the player",
+      "anchor": "Return to Bound By Insanity"
+    },
+    {
+      "from": "characters",
+      "to": "endings",
+      "path": "/endings",
+      "purpose": "Separate character encounter interpretation from current reply consequences",
+      "anchor": "Demo choices and endings"
+    },
+    {
+      "from": "endings",
+      "to": "characters",
+      "path": "/characters",
+      "purpose": "Compare the people involved before revisiting a reply"
+    }
+  ],
+  "additionalGameRelationships": [],
+  "scope": "Main-keyword only after user amendment"
+}

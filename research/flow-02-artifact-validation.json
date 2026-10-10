@@ -1,0 +1,40 @@
+{
+  "executedAt": "2026-10-08T08:06:54.536Z",
+  "scope": "Stage02 research/precheck integrity only; no website or production acceptance",
+  "result": "passed",
+  "checkCount": 7,
+  "checks": [
+    {
+      "name": "Standard parse, configured boundary and execution scope",
+      "result": "passed"
+    },
+    {
+      "name": "Draft-only Game data and exact startup main address",
+      "result": "passed"
+    },
+    {
+      "name": "Candidate count and preliminary eligibility",
+      "result": "passed"
+    },
+    {
+      "name": "Every eligible game has actual isolated input record",
+      "result": "passed"
+    },
+    {
+      "name": "Evidence references and video identity scopes",
+      "result": "passed"
+    },
+    {
+      "name": "Main exception is accurately provisional",
+      "result": "passed"
+    },
+    {
+      "name": "Owned temporary runtime cleaned before handoff",
+      "result": "passed"
+    }
+  ],
+  "stage02Status": "completed",
+  "websiteChecks": "not_run: stage06 not reached",
+  "productionBuild": "not_run: stage06 not reached",
+  "lighthouse": "not_run: production website does not exist"
+}

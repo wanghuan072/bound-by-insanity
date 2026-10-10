@@ -1,0 +1,7 @@
+{
+  "reason": "Next 16.4 cacheComponents streaming unknown dynamic Guide path returned HTTP 200 with notFound UI. Must return 404.",
+  "solution": "Published Guide JSON generates an exact thin App Router page; shared Guide renderer/metadata still read sole JSON. Unknown paths use normal 404. Initial Next/React/App Router architecture retained.",
+  "productionCache": ".next-production",
+  "productionTsconfig": "tsconfig.production.json",
+  "output": "Materialized standalone Windows x64 Node 24 package; no deployment"
+}

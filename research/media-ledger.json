@@ -1,0 +1,934 @@
+[
+  {
+    "id": "media-main-cover",
+    "kind": "image",
+    "originalLocation": "https://img.itch.zone/aW1nLzI4MzYzMDY1LnBuZw==/original/tOgWzA.png",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "download",
+    "videoTimecode": "",
+    "contentDescription": "Exact main title and two faces, whole 630×500 image",
+    "versionScope": "Current author artwork or original task design",
+    "localPath": "/images/games/bound-by-insanity-cover.webp",
+    "width": 630,
+    "height": 500,
+    "fileBytes": 47436,
+    "hash": "481ed724c0a2ea573550c648fddf418346bfa6860f87cb9031015cc119b73f88",
+    "usedOn": [
+      "/"
+    ],
+    "altDirection": "Exact main title and two faces, whole 630×500 image",
+    "slotId": "home-player-cover",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Exact main title and two faces, whole 630×500 image",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Exact main title and two faces, whole 630×500 image",
+    "status": "adopted"
+  },
+  {
+    "id": "media-passage",
+    "kind": "game-capture",
+    "originalLocation": "research/evidence/flow-07/passage-restored.png",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "game-capture",
+    "videoTimecode": "",
+    "contentDescription": "Completed opening passage and heart",
+    "versionScope": "Configured browser demo observed 2026-10-08",
+    "localPath": "/images/games/bound-by-insanity-complete-passage.webp",
+    "width": 1200,
+    "height": 675,
+    "fileBytes": 23276,
+    "hash": "fb1d330c4279cce1ab8481dc29a803dcb3b5f2affc32e67fe61d5e148de45e01",
+    "usedOn": [
+      "/"
+    ],
+    "altDirection": "Completed opening passage and heart",
+    "slotId": "home-start-and-read-shot",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Completed opening passage and heart",
+    "cropStrategy": "letterbox-only-trim; contain",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Completed opening passage and heart",
+    "status": "adopted"
+  },
+  {
+    "id": "media-miles-dialogue",
+    "kind": "game-capture",
+    "originalLocation": "research/evidence/flow-07/direct-current.png",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "game-capture",
+    "videoTimecode": "",
+    "contentDescription": "Named Miles dialogue, portrait and six controls",
+    "versionScope": "Configured browser demo observed 2026-10-08",
+    "localPath": "/images/games/bound-by-insanity-miles-dialogue.webp",
+    "width": 1200,
+    "height": 675,
+    "fileBytes": 47072,
+    "hash": "f8b9467ab8af01bb4a90ecbc88731cbafbe7e81dde3980c67661ef4fbdd0f5c4",
+    "usedOn": [
+      "/"
+    ],
+    "altDirection": "Named Miles dialogue, portrait and six controls",
+    "slotId": "home-reading-the-encounters-shot",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Named Miles dialogue, portrait and six controls",
+    "cropStrategy": "letterbox-only-trim; contain",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Named Miles dialogue, portrait and six controls",
+    "status": "adopted"
+  },
+  {
+    "id": "media-options",
+    "kind": "game-capture",
+    "originalLocation": "research/evidence/flow-07/options.png",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "game-capture",
+    "videoTimecode": "",
+    "contentDescription": "Distinct Text Speed and Auto-Forward settings",
+    "versionScope": "Configured browser demo observed 2026-10-08",
+    "localPath": "/images/games/bound-by-insanity-options.webp",
+    "width": 1200,
+    "height": 675,
+    "fileBytes": 94908,
+    "hash": "db76feff32dae51b332003af2d51ab7d5d0c5c0d9ac093e9eb7406c09d5f06a6",
+    "usedOn": [
+      "/"
+    ],
+    "altDirection": "Distinct Text Speed and Auto-Forward settings",
+    "slotId": "home-choices-and-demo-progress-shot",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Distinct Text Speed and Auto-Forward settings",
+    "cropStrategy": "letterbox-only-trim; contain",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Distinct Text Speed and Auto-Forward settings",
+    "status": "adopted"
+  },
+  {
+    "id": "media-miles-portrait",
+    "kind": "image",
+    "originalLocation": "https://img.itch.zone/aW1nLzI4MjY4NTMzLnBuZw%3D%3D/original/7t74MT.png",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "download",
+    "videoTimecode": "",
+    "contentDescription": "Miles full visible figure; original empty right area omitted",
+    "versionScope": "Current author artwork or original task design",
+    "localPath": "/images/topics/miles-portrait.webp",
+    "width": 635,
+    "height": 1080,
+    "fileBytes": 74128,
+    "hash": "6246aeb90275770815904ef85b6a602ec9e68f57a0e5b54e76349f10df35201b",
+    "usedOn": [
+      "/characters"
+    ],
+    "altDirection": "Miles full visible figure; original empty right area omitted",
+    "slotId": "characters-meeting-miles-shot",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Miles full visible figure; original empty right area omitted",
+    "cropStrategy": "dedicated-canvas preserves complete left figure",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Miles full visible figure; original empty right area omitted",
+    "status": "adopted"
+  },
+  {
+    "id": "media-adrien-portrait",
+    "kind": "image",
+    "originalLocation": "https://img.itch.zone/aW1nLzI4MjY4NTQ5LnBuZw%3D%3D/original/JgoqpH.png",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "download",
+    "videoTimecode": "",
+    "contentDescription": "Adrien full visible figure; no biography copied",
+    "versionScope": "Current author artwork or original task design",
+    "localPath": "/images/topics/adrien-portrait.webp",
+    "width": 540,
+    "height": 1080,
+    "fileBytes": 86892,
+    "hash": "172239561d4f7a6f0c6c24812c8a644d68f71c589204c4bca602a758d9b6cc42",
+    "usedOn": [
+      "/characters"
+    ],
+    "altDirection": "Adrien full visible figure; no biography copied",
+    "slotId": "characters-meeting-adrien-shot",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Adrien full visible figure; no biography copied",
+    "cropStrategy": "dedicated-canvas preserves complete left figure",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Adrien full visible figure; no biography copied",
+    "status": "adopted"
+  },
+  {
+    "id": "media-characters-cover",
+    "kind": "site-design",
+    "originalLocation": "Two individually reviewed author portraits plus original comparison canvas",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-08, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task. Original typography/comparison layout.",
+    "captureMethod": "generated-original",
+    "videoTimecode": "",
+    "contentDescription": "Distinct two-character comparison without story revelations",
+    "versionScope": "Current author artwork or original task design",
+    "localPath": "/images/topics/characters-cover.webp",
+    "width": 840,
+    "height": 500,
+    "fileBytes": 30252,
+    "hash": "8aa4c3b74636e75d0efc64c193ad6d9fd39a170cd40dcbdf02798cf3902729da",
+    "usedOn": [
+      "/",
+      "/characters"
+    ],
+    "altDirection": "Distinct two-character comparison without story revelations",
+    "slotId": "characters-header-cover",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Distinct two-character comparison without story revelations",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Distinct two-character comparison without story revelations",
+    "status": "adopted"
+  },
+  {
+    "id": "media-endings-cover",
+    "kind": "site-design",
+    "originalLocation": "reports/topic-enrichment-2026-10-09/route-plan-original.svg",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Original site diagram of creator-confirmed current demo scope and planned route counts; no game artwork or third-party graphic copied.",
+    "captureMethod": "Original vector diagram rasterized to WebP",
+    "videoTimecode": "",
+    "contentDescription": "Current Act 1 shared demo contrasted with planned two routes per character; future plans explicitly separated",
+    "versionScope": "Current official demo and historical author full-game plan; not a release promise",
+    "localPath": "/images/topics/endings-cover.webp",
+    "width": 630,
+    "height": 500,
+    "fileBytes": 21980,
+    "hash": "d282e7f9b851ab2eed38b80d615a7894fcf4aa2f5f8c72a9f26bba6b27445b16",
+    "usedOn": [
+      "/",
+      "/endings"
+    ],
+    "altDirection": "Act 1 demo story contrasted with four planned future routes, two for Miles and two for Adrien",
+    "slotId": "endings-header-cover",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Separate playable shared demo from planned future routes",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1464,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-1464.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-768.png"
+      },
+      {
+        "viewport": 375,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-375.png"
+      }
+    ],
+    "pagePurpose": "Separate playable shared demo from planned future routes",
+    "status": "adopted"
+  },
+  {
+    "id": "media-logo",
+    "kind": "site-design",
+    "originalLocation": "planning/design/logo-wordmark.svg",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Original site vector artwork and licensed Kalam font; no claim of official creator identity.",
+    "captureMethod": "Original vector composition rendered in isolated Playwright using licensed local fonts",
+    "videoTimecode": "",
+    "contentDescription": "Original broken-heart outline and hand-lettered fan-site wordmark",
+    "versionScope": "Independent fan-site visual identity, 2026-10-09",
+    "localPath": "/images/logo.png",
+    "width": 560,
+    "height": 112,
+    "fileBytes": 8407,
+    "hash": "ce8e68a3bab33168be1a4f6d99dec29b70feea03f5ffdccf33ad30f26edcb7a1",
+    "usedOn": [
+      "/",
+      "/characters",
+      "/endings",
+      "/privacy",
+      "/terms",
+      "/copyright",
+      "/about",
+      "/contact"
+    ],
+    "altDirection": "Original broken-heart image wordmark",
+    "slotId": "site-header-logo",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Readable independent site identity in Header/Footer",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": {
+          "width": 1025,
+          "height": 900
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-1025-900.png",
+        "crop": "contain, image within viewport"
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-1024-600.png",
+        "crop": "contain, image within viewport"
+      },
+      {
+        "viewport": {
+          "width": 769,
+          "height": 600
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-769-600.png",
+        "crop": "contain, image within viewport"
+      },
+      {
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-768-900.png",
+        "crop": "contain, image within viewport"
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 640
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-320-640.png",
+        "crop": "contain, image within viewport"
+      },
+      {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-844-390.png",
+        "crop": "contain, image within viewport"
+      },
+      {
+        "viewport": {
+          "width": 1464,
+          "height": 600
+        },
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/header-1464-600.png",
+        "crop": "contain, image within viewport"
+      }
+    ],
+    "pagePurpose": "Original broken-heart image wordmark",
+    "status": "adopted"
+  },
+  {
+    "id": "media-og",
+    "kind": "site-design",
+    "originalLocation": "planning/design/og-composition.svg",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Original composition and licensed Kalam/Source Sans 3 fonts; real game cover reused under the separately approved media-main-cover basis, intact and contained.",
+    "captureMethod": "Original vector composition rendered in isolated Playwright using licensed local fonts",
+    "videoTimecode": "",
+    "contentDescription": "Original monochrome storyboard composition with the complete adopted main game cover",
+    "versionScope": "Independent fan-site visual identity, 2026-10-09",
+    "localPath": "/images/og-image.png",
+    "width": 1200,
+    "height": 630,
+    "fileBytes": 352783,
+    "hash": "38a179e461387fea6fca37ed2a05bb2727db920301cc30e461399d81ee23a338",
+    "usedOn": [
+      "/",
+      "/characters",
+      "/endings",
+      "/privacy",
+      "/terms",
+      "/copyright",
+      "/about",
+      "/contact"
+    ],
+    "altDirection": "Original site social composition",
+    "slotId": "site-social-image",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Identify the main game and independent fan-site purpose in shared 1200×630 social cards",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": "native",
+        "result": "passed",
+        "evidence": "reports/site-polish-2026-10-09/og-image-render.png"
+      }
+    ],
+    "pagePurpose": "Original site social composition",
+    "status": "adopted"
+  },
+  {
+    "id": "media-icon",
+    "kind": "site-design",
+    "originalLocation": "Original logo mark",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "Original site design.",
+    "captureMethod": "generated-original",
+    "videoTimecode": "",
+    "contentDescription": "Original site icon",
+    "versionScope": "Current author artwork or original task design",
+    "localPath": "/images/icon.png",
+    "width": 64,
+    "height": 64,
+    "fileBytes": 3775,
+    "hash": "3f5db9e7cec1ca11ebfcee6456777f4635e481afd75d6867354e3b8b23b5c0f3",
+    "usedOn": [],
+    "altDirection": "Original site icon",
+    "slotId": "site-icon",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Original site icon",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "Original site icon",
+    "status": "adopted"
+  },
+  {
+    "id": "media-video-current",
+    "kind": "video-embed",
+    "originalLocation": "https://www.youtube.com/watch?v=TYJV8iJza7o",
+    "capturedOrAccessedAt": "2026-10-08",
+    "rightsStatus": "approved",
+    "rightsBasis": "YouTube privacy-enhanced embedding enabled; actual play succeeds without sign-in, restriction or geographic block. No download, rehosting or public frame reuse.",
+    "captureMethod": "youtube-embed",
+    "videoTimecode": "",
+    "contentDescription": "Later conversation reading rhythm",
+    "versionScope": "Six-icon lower-right menu matches currently configured browser build; same Miles artwork and speaker panel. No binary/version number equivalence claimed.",
+    "localPath": "",
+    "width": 0,
+    "height": 0,
+    "fileBytes": 0,
+    "usedOn": [
+      "/"
+    ],
+    "altDirection": "Visible warning for story spoilers and mature language",
+    "slotId": "home-after-body-video",
+    "videoId": "TYJV8iJza7o",
+    "videoAnalysisId": "video-current-ty",
+    "reviewedRangeIds": [
+      "ty-reading-180",
+      "ty-exchange-600",
+      "ty-pause-1500"
+    ],
+    "publisherName": "Voyia",
+    "reviewedTimeRange": "03:00–03:27.589; 10:00–10:24.366; 25:00–25:24.976",
+    "embedStatus": "verified",
+    "ageRestrictionStatus": "clear",
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Observe actual dialogue/speaker/portrait progression, not outcomes",
+    "cropStrategy": "direct-iframe",
+    "contrastChecks": [
+      {
+        "viewport": 1440,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1440.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/evidence/flow-08-home-768.png"
+      }
+    ],
+    "pagePurpose": "home/reading-the-encounters",
+    "status": "adopted"
+  },
+  {
+    "id": "media-protagonist-art",
+    "kind": "image",
+    "originalLocation": "https://img.itch.zone/aW1nLzI4MjY4MzYyLmdpZg==/original/Oya2VM.gif",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-09, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "Faithful static first frame + WebP compression",
+    "videoTimecode": "",
+    "contentDescription": "Recognize the defined protagonist without assigning an unverified canonical name",
+    "versionScope": "Official protagonist promotional art; faithful static first frame of creator GIF",
+    "localPath": "/images/topics/protagonist-art.webp",
+    "width": 630,
+    "height": 500,
+    "fileBytes": 38270,
+    "hash": "e276d5872d25929a8592152f2e03173a81247e1a87521a416bc1c86cf99543f8",
+    "usedOn": [
+      "/characters"
+    ],
+    "altDirection": "The protagonist with dark hair and a hand raised beside her face",
+    "slotId": "characters-a-defined-protagonist-protagonist-art.webp",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Recognize the defined protagonist without assigning an unverified canonical name",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1464,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-1464.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-768.png"
+      },
+      {
+        "viewport": 375,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-375.png"
+      }
+    ],
+    "pagePurpose": "Recognize the defined protagonist without assigning an unverified canonical name",
+    "status": "adopted",
+    "rawEvidence": "reports/topic-enrichment-2026-10-09/official-protagonist.gif"
+  },
+  {
+    "id": "media-miles-moving-scene",
+    "kind": "image",
+    "originalLocation": "https://img.itch.zone/aW1hZ2UvNDY5NjU3OS8yODAwMzUwMS5wbmc=/original/JNac3N.png",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-09, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "Official original gallery download; uncropped proportional resize and WebP compression",
+    "videoTimecode": "",
+    "contentDescription": "Compare Miles’s spoken concern about moving with the protagonist’s independence",
+    "versionScope": "Official gallery; older four-icon interface, scene interpretation only",
+    "localPath": "/images/topics/miles-moving-conversation.webp",
+    "width": 1280,
+    "height": 720,
+    "fileBytes": 57570,
+    "hash": "a35b932d21fd5bc54cf1de2e4d7ab1b53504dd7ffcfd992f173cf6ccd77cd770",
+    "usedOn": [
+      "/characters"
+    ],
+    "altDirection": "Miles speaking outdoors with his arms crossed",
+    "slotId": "characters-two-conversations-to-compare-miles-moving-conversation.webp",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Compare Miles’s spoken concern about moving with the protagonist’s independence",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1464,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-1464.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-768.png"
+      },
+      {
+        "viewport": 375,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-375.png"
+      }
+    ],
+    "pagePurpose": "Compare Miles’s spoken concern about moving with the protagonist’s independence",
+    "status": "adopted",
+    "rawEvidence": "reports/topic-enrichment-2026-10-09/official-gallery-2.png"
+  },
+  {
+    "id": "media-adrien-classroom-scene",
+    "kind": "image",
+    "originalLocation": "https://img.itch.zone/aW1hZ2UvNDY5NjU3OS8yODAwMzUwNS5wbmc=/original/GJ3Rdh.png",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-09, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "Official original gallery download; uncropped proportional resize and WebP compression",
+    "videoTimecode": "",
+    "contentDescription": "Observe the protagonist’s classroom question alongside Adrien’s expression; his spoken answer is not shown",
+    "versionScope": "Official gallery; older four-icon interface, scene interpretation only",
+    "localPath": "/images/topics/adrien-classroom.webp",
+    "width": 1280,
+    "height": 720,
+    "fileBytes": 69372,
+    "hash": "0ea21e4e661f9dd6471d2ed7fa1a3f7e0b6570a9344924260a5294518f19874d",
+    "usedOn": [
+      "/characters"
+    ],
+    "altDirection": "Adrien in a classroom close-up while the protagonist asks about art and grades",
+    "slotId": "characters-two-conversations-to-compare-adrien-classroom.webp",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Observe the protagonist’s classroom question alongside Adrien’s expression; his spoken answer is not shown",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1464,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-1464.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-768.png"
+      },
+      {
+        "viewport": 375,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/characters-375.png"
+      }
+    ],
+    "pagePurpose": "Observe the protagonist’s classroom question alongside Adrien’s expression; his spoken answer is not shown",
+    "status": "adopted",
+    "rawEvidence": "reports/topic-enrichment-2026-10-09/official-gallery-1.png"
+  },
+  {
+    "id": "media-demo-save-slots",
+    "kind": "image",
+    "originalLocation": "https://static.kingdomofmarionettes.org/games/bound-by-insanity/index.html",
+    "capturedOrAccessedAt": "2026-10-09",
+    "rightsStatus": "approved",
+    "rightsBasis": "Game creator claims own drawing/design and explicitly invites content about the game on official page (2026-10-09, credits). Limited independent game-focused explanatory use; no claim of open licence or asset redistribution rights. Preserve artwork, no hue filters; bounded resizing/cropping for stated task.",
+    "captureMethod": "Direct isolated Playwright capture; only empty top/bottom letterboxing trimmed",
+    "videoTimecode": "",
+    "contentDescription": "Check empty numbered slots before using a save to compare a reply",
+    "versionScope": "Configured browser game observed 2026-10-09; direct isolated research, not final site gameplay certification",
+    "localPath": "/images/topics/demo-save-slots.webp",
+    "width": 1280,
+    "height": 720,
+    "fileBytes": 90982,
+    "hash": "225f1a5a76ba7bd55f9014c62bd10d7af48ceb77548d9ba6d989be66c223373c",
+    "usedOn": [
+      "/endings"
+    ],
+    "altDirection": "The demo Save Load screen showing six empty numbered slots and page controls",
+    "slotId": "endings-replay-with-a-purpose-demo-save-slots.webp",
+    "videoId": null,
+    "videoAnalysisId": null,
+    "reviewedRangeIds": [],
+    "publisherName": null,
+    "reviewedTimeRange": null,
+    "embedStatus": null,
+    "ageRestrictionStatus": null,
+    "posterMediaId": null,
+    "posterLocalPath": null,
+    "subjectGameId": "bound-by-insanity",
+    "semanticPurpose": "Check empty numbered slots before using a save to compare a reply",
+    "cropStrategy": "contain",
+    "contrastChecks": [
+      {
+        "viewport": 1464,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-1464.png"
+      },
+      {
+        "viewport": 1024,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-1024.png"
+      },
+      {
+        "viewport": 768,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-768.png"
+      },
+      {
+        "viewport": 375,
+        "result": "passed",
+        "evidence": "reports/topic-enrichment-2026-10-09/endings-375.png"
+      }
+    ],
+    "pagePurpose": "Check empty numbered slots before using a save to compare a reply",
+    "status": "adopted",
+    "rawEvidence": "reports/topic-enrichment-2026-10-09/research-current-save-screen.png"
+  }
+]

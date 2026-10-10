@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "next-env.d.ts",
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "dev/**/*.tsx",
+    "next.config.ts",
+    "playwright.config.ts",
+    ".next-types/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next",
+    ".next-preview",
+    "artifacts",
+    ".next-production"
+  ]
+}

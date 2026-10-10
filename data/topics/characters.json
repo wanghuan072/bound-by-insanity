@@ -1,0 +1,224 @@
+{
+  "id": "characters",
+  "slug": "characters",
+  "status": "published",
+  "title": "Bound By Insanity Characters",
+  "introduction": "Meet the defined protagonist, Miles Falken and Adrien Lockhart. We can compare their words, gestures and boundaries without jumping ahead to hidden histories.",
+  "tags": ["Characters", "Spoiler-aware"],
+  "spoilerPolicy": "marked",
+  "cover": {
+    "src": "/images/topics/characters-cover.webp",
+    "alt": "Miles Falken and Adrien Lockhart shown side by side for a character comparison",
+    "width": 840,
+    "height": 500
+  },
+  "sections": [
+    {
+      "id": "a-defined-protagonist",
+      "title": "Read the protagonist as a person",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We follow a young woman with her own appearance, background and way of responding. The opening lets us enter a name, but the narration still belongs to a defined protagonist. This is a useful distinction when a scene asks us to understand an uneasy reaction: we are reading her experience, not selecting every part of her identity."
+        },
+        {
+          "type": "image",
+          "src": "/images/topics/protagonist-art.webp",
+          "width": 630,
+          "height": 500,
+          "alt": "The protagonist with dark hair and a hand raised beside her face",
+          "caption": "A name we enter belongs to a protagonist who already has her own appearance and personality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her internal narration and her spoken replies do different work. An unlabelled description can show hesitation that is absent from an outward answer. We can pause over that gap rather than treat the spoken line as the whole scene. If a conversation feels contradictory, check whether we are comparing what she thinks with what she is willing to say."
+        },
+        {
+          "type": "paragraph",
+          "text": "A name is also a poor shortcut for interpreting other people’s dialogue. When a character addresses the protagonist, the important detail is how they behave toward her: do they ask, presume, reassure or pressure? We can carry those questions through the demo without needing a complete biography before the first encounter."
+        }
+      ]
+    },
+    {
+      "id": "meeting-miles",
+      "title": "Miles Falken: familiarity with an edge",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "/images/topics/miles-portrait.webp",
+          "width": 635,
+          "height": 1080,
+          "alt": "Miles Falken portrait with dark hair and sleeveless clothing",
+          "caption": "Read the character’s actions and dialogue alongside his outward presentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miles is one of the two central characters. His sharper, more impulsive manner contrasts with Adrien’s quieter presentation. He is a forensic-pathology student, but an occupation alone cannot explain a relationship. We get a clearer picture by watching his behaviour in the scenes the demo actually gives us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miles helped the protagonist leave an abusive relationship and saved her in an accident. His lip scar and the mark at his collarbone belong to that history. This gives their familiarity a concrete foundation: help, gratitude and dependence were present before the conversations we are reading. We should keep that background in mind when a protective gesture starts to sound like an instruction."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the living-room exchange, practical care and sharp conversation occupy the same space. We can notice the offered glass, the changing expression and the way the protagonist responds. These are concrete parts of an interaction. They do not require us to decide, on the strength of one image, that every protective gesture is safe or every sarcastic line proves a hidden motive."
+        },
+        {
+          "type": "paragraph",
+          "text": "A good question for this encounter is whether reassurance leaves room for the protagonist’s own feelings. Compare a gesture with the next complete line, not with an isolated thumbnail. If a pose changes while the dialogue continues, we should read the words attached to that change before interpreting it as a new relationship state. There is no visible affection total that we can calculate from a smile."
+        },
+        {
+          "type": "paragraph",
+          "text": "When we revisit Miles, choose one small comparison: how he responds to discomfort, how quickly he moves from humour to seriousness, or whether his confidence helps the protagonist speak. Those observations are more useful than assigning him a permanent label before the demo has revealed the context."
+        }
+      ]
+    },
+    {
+      "id": "meeting-adrien",
+      "title": "Adrien Lockhart: quietness asks us to listen",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "/images/topics/adrien-portrait.webp",
+          "width": 540,
+          "height": 1080,
+          "alt": "Adrien Lockhart portrait with warm brown hair and yellow eyes",
+          "caption": "A quiet presentation gives us a reason to listen carefully, rather than assume safety."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adrien is the other central character, introduced through the protagonist’s college-world encounters. His quieter voice and reserved presence make a different kind of impression. We can watch how attention is given: a pause, a brief line and the protagonist’s reaction may carry more weight than a long explanation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quietness is a style of presentation, not a guarantee of kindness. The useful first-reading question is what a character does with the other person’s uncertainty. Does the exchange make the protagonist more comfortable, or does it leave something unsaid? We can ask that without disclosing later scenes or claiming that we already know every motive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep Adrien’s spoken dialogue separate from what the protagonist infers about him. If a scene feels familiar to her, that feeling belongs to the moment; it does not give us permission to turn an early introduction into a complete history. We can notice the feeling and keep reading for what the story actually confirms."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a replay, follow the pace of an exchange rather than search for a secret numeric reward. Read his line, read the protagonist’s response, and note whether the next action changes the distance between them. A restrained conversation can be tense without being an on-screen choice or a completed route."
+        }
+      ]
+    },
+    {
+      "id": "two-conversations-to-compare",
+      "title": "Two conversations worth slowing down for",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The difference between Miles and Adrien becomes easier to read when we put their words beside an ordinary situation. In the outdoor exchange, Miles questions the idea of living with strangers. We can ask whether he is responding to the practical risk of moving, or making it harder for the protagonist to decide for herself. The line is spoken dialogue; the picture does not show a selectable answer."
+        },
+        {
+          "type": "image",
+          "src": "/images/topics/miles-moving-conversation.webp",
+          "width": 1280,
+          "height": 720,
+          "alt": "Miles speaking outdoors with his arms crossed",
+          "caption": "Miles brings the conversation back to where the protagonist would live. Read the concern and the pressure together."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adrien’s classroom scene puts the protagonist’s question about art and easy marks on screen. We can read what she is asking before interpreting his expression: is she making conversation, teasing, or looking for a reason he is in the class? The image catches the question, so we should continue to his answer before deciding how he responds. A classroom setting does not establish an occupation or explain everything he knows about her."
+        },
+        {
+          "type": "image",
+          "src": "/images/topics/adrien-classroom.webp",
+          "width": 1280,
+          "height": 720,
+          "alt": "Adrien in a classroom close-up while the protagonist asks about art and grades",
+          "caption": "The protagonist opens a conversation about art and easy marks. Adrien’s expression is visible; read on for his answer."
+        },
+        {
+          "type": "callout",
+          "tone": "info",
+          "body": "These scene images show an earlier four-icon reading interface. Their dialogue and character presentation help us compare the encounters; use the controls visible in our own game window when saving or recovering text."
+        }
+      ]
+    },
+    {
+      "id": "compare-without-spoilers",
+      "title": "Compare what happens, rather than rank the cast",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": ["What we compare", "Miles", "Adrien"],
+          "rows": [
+            [
+              "Starting relationship",
+              "Already part of the protagonist’s life; shared help and an accident",
+              "A reserved college encounter that feels familiar to her"
+            ],
+            [
+              "Role we can name",
+              "Forensic-pathology student",
+              "College acquaintance"
+            ],
+            [
+              "Presentation",
+              "Sharper and more outwardly familiar",
+              "Quieter and more restrained"
+            ],
+            [
+              "Useful reading question",
+              "How does practical care sit beside pressure or sarcasm?",
+              "What does a pause or brief reply leave the protagonist feeling?"
+            ],
+            [
+              "What not to assume",
+              "A helpful gesture proves every intention is safe",
+              "A soft voice proves every intention is safe"
+            ],
+            [
+              "Replay focus",
+              "Match a changed expression to its accompanying line",
+              "Match a reserved reply to the protagonist’s next reaction"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The point of this comparison is attention, not a contest for the best character. We can prefer one presentation while still checking what actually happens. A favourite portrait should not make us overlook a boundary; a tense exchange should not make us invent a backstory that the scene has not supplied."
+        },
+        {
+          "type": "paragraph",
+          "text": "The protagonist belongs in the comparison too. Her reactions shape what a moment means, and she may have information we do not yet possess. We can ask what she can reasonably know at that point. This keeps a first playthrough readable and prevents later revelations from flattening every earlier scene into a single explanation."
+        }
+      ]
+    },
+    {
+      "id": "what-we-should-watch-next",
+      "title": "A useful way to revisit an encounter",
+      "blocks": [
+        {
+          "type": "steps",
+          "items": [
+            {
+              "title": "Choose one question",
+              "body": "Pick a behaviour we can actually observe, such as how someone responds when the protagonist hesitates. Avoid beginning with an ending we cannot yet unlock."
+            },
+            {
+              "title": "Read the whole exchange",
+              "body": "Allow each passage to complete. Pair dialogue with its speaker label and the visible gesture or expression, including the protagonist’s narration."
+            },
+            {
+              "title": "Separate observation from interpretation",
+              "body": "We can record that a glass is offered or a voice becomes sharp. A claim about concealed motives needs more than that single action."
+            },
+            {
+              "title": "Keep later discoveries separate",
+              "body": "If we continue into a major revelation, leave it out of a first-impression comparison. Return to it only when we deliberately want to discuss spoilers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If our main question is how a reply changes the immediate exchange, the Endings page gives us a bounded replay method. If we simply lost the line that made a reaction understandable, a small rollback or History can recover it without a full restart. Neither task needs a character biography repeated in full."
+        }
+      ]
+    }
+  ],
+  "relatedPageIds": ["home", "endings"]
+}

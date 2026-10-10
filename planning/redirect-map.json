@@ -1,0 +1,7 @@
+{
+  "urlPolicy": {
+    "trailingSlash": false
+  },
+  "redirects": [],
+  "notes": "Scaffold has no previous public content routes; no duplicate main route is created"
+}

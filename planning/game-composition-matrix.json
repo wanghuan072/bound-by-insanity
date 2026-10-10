@@ -1,0 +1,131 @@
+{
+  "scope": "Only planned main game",
+  "games": [
+    {
+      "game_id": "bound-by-insanity",
+      "playerTask": "Read uneasy character interactions, understand present demo progression and recover a missed passage",
+      "firstScreen": "Exact full title, type, short collaborative invitation, mature advisory and real Play Now",
+      "bodyRhythm": "Seven task chapters with text, bounded cases and exact explanatory media; full left-column width",
+      "screens": [
+        {
+          "slot_id": "home-start-and-read-shot",
+          "page_id": "home",
+          "target_section_id": "start-and-read",
+          "player_question": "When is displayed text complete?",
+          "fact_to_show": "Actual completion indicator and readable passage",
+          "preferred_format": "game-screenshot",
+          "adjacent_copy_task": "Explain a real text-completion state",
+          "candidate_evidence_ids": [
+            "author-bound-by-insanity"
+          ],
+          "rights_check_needed": true,
+          "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+          "adoption_status": "planned",
+          "media_ledger_ids": [],
+          "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+        },
+        {
+          "slot_id": "home-reading-the-encounters-shot",
+          "page_id": "home",
+          "target_section_id": "reading-the-encounters",
+          "player_question": "Who is speaking and what is happening now?",
+          "fact_to_show": "An early interaction with visible speaker and expression",
+          "preferred_format": "game-screenshot",
+          "adjacent_copy_task": "Support reading the current encounter without hidden biography",
+          "candidate_evidence_ids": [
+            "author-bound-by-insanity"
+          ],
+          "rights_check_needed": true,
+          "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+          "adoption_status": "planned",
+          "media_ledger_ids": [],
+          "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+        },
+        {
+          "slot_id": "home-choices-and-demo-progress-shot",
+          "page_id": "home",
+          "target_section_id": "choices-and-demo-progress",
+          "player_question": "What does a reply selection look like?",
+          "fact_to_show": "Real available response UI before selection",
+          "preferred_format": "game-screenshot",
+          "adjacent_copy_task": "Describe an actual reply and avoid implying unobserved routes",
+          "candidate_evidence_ids": [
+            "author-bound-by-insanity"
+          ],
+          "rights_check_needed": true,
+          "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+          "adoption_status": "planned",
+          "media_ledger_ids": [],
+          "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+        }
+      ],
+      "video": [
+        {
+          "slot_id": "home-after-body-video",
+          "page_id": "home",
+          "target_section_id": "after-body",
+          "player_question": "What can we learn from a demonstrated session?",
+          "fact_to_show": "Observed text, interaction and bounded demo progression",
+          "preferred_format": "youtube-video",
+          "adjacent_copy_task": "Direct lazy privacy-enhanced embed after independent body; add spoiler warning where needed",
+          "candidate_evidence_ids": [
+            "author-bound-by-insanity"
+          ],
+          "rights_check_needed": true,
+          "fallback_if_unavailable": "Find another qualified current-game video; no empty module or unrelated substitution",
+          "adoption_status": "planned",
+          "media_ledger_ids": [],
+          "layout": "Full main column after complete body; direct lazy iframe, no poster click gate",
+          "process_to_show": "Observe a full text-reveal/advance sequence, reply selection and subsequent visible feedback; distinguish stopping point from frame failure",
+          "why_motion_matters": "A still image cannot show the timing of text completion or causality of advancing/recovering a passage",
+          "candidateVideoId": null
+        }
+      ],
+      "usefulComponents": [
+        "Completion/recovery case",
+        "Marked plot detail",
+        "Version-boundary callout",
+        "Specific FAQ"
+      ],
+      "neverReuse": [
+        "Other game story/covers",
+        "Generic controller/room imagery",
+        "Copied paragraphs or review anecdotes"
+      ]
+    }
+  ],
+  "covers": [
+    {
+      "contentId": "bound-by-insanity",
+      "internalReference": "planning/main-cover-design-reference.png",
+      "width": 630,
+      "height": 500,
+      "ratio": 1.26,
+      "focal": "Both eye/face regions; game title across lower third",
+      "textSafeArea": "Bottom title must remain fully visible",
+      "contexts": {
+        "player": "contain in full-width shell",
+        "taskCard": "not used; cards own task media",
+        "social": "Use original branded composition unless separate rights approved"
+      },
+      "cropAllowed": false,
+      "adoption": "Pending stage08 individual check"
+    },
+    {
+      "contentId": "characters",
+      "internalReference": "planning/miles-design-reference.jpeg",
+      "ratio": 0.9825046040515654,
+      "focal": "Full character portrait and label; not thumbnail crop",
+      "strategy": "Contain; replace with relevant independently verified scene if tiny profile text is illegible",
+      "adoption": "Internal mockup only; pending stage08"
+    },
+    {
+      "contentId": "endings",
+      "internalReference": "planning/endings-task-concept.png",
+      "width": 630,
+      "height": 500,
+      "strategy": "Original schematic, not a screenshot or a claim that full routes exist",
+      "adoption": "Refine only after stage07 current-choice case"
+    }
+  ]
+}

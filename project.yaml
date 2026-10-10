@@ -1,0 +1,62 @@
+project:
+  keyword: Bound By Insanity
+  language: en
+  language_basis: English official game page, English observed game text, and English gameplay-video tasks; no verified localized web build.
+  target_market: Global English-speaking adult players
+  target_market_basis: English primary material and international player interest; no reliable geographic or search-volume measurement available.
+paths:
+  workflow_dir: D:\wh\Agent\Game-Agent
+  project_dir: D:\wh\202610\Bound By Insanity\Bound By Insanity\bound-by-insanity
+  research_dir: research
+  planning_dir: planning
+  reports_dir: reports
+  handoff_dir: handoff
+runtime:
+  frontend_framework: Next.js 16.4.0 App Router
+  package_manager: npm
+  has_existing_code: true
+  project_state: implemented main-game website; exactly eight public pages
+  rendering: Next.js App Router build-time prerendered content; small client components for controls
+  production_build: npm run build
+  react_version: 19.3.0
+  node_version: 24.19.0
+  npm_version: 11.17.0
+game:
+  config_path: data/games/main-game.json
+domain:
+  value: boundbyinsanity.org
+  origin: https://boundbyinsanity.org
+  status: configured
+deployment:
+  target: portable Node.js standalone server; not deployed
+  production_output: artifacts/production (materialized .next-production/standalone plus public and .next-production/static)
+execution:
+  network_research: true
+  code_changes: true
+  install_needed_dependencies: true
+  run_checks_and_build: true
+  deploy: false
+  git_commit: false
+boundaries:
+  forbidden_operations:
+    - Read or reuse other game projects
+    - Write project artifacts outside project_dir
+    - Deploy or change remote/GitHub state without explicit task authorization
+    - Create Git commits without separate authorization
+notes:
+  - No Git repository exists in the project directory; existing files must be preserved.
+  - Language and market were decided in stage 02; portable standalone output locked in stage 05.
+  - Main player configuration is provisional; this does not block workflow progression.
+scope:
+  revision: planning/scope-amendment.json
+  public_pages:
+    - /
+    - /characters
+    - /endings
+    - /privacy
+    - /terms
+    - /copyright
+    - /about
+    - /contact
+  additional_games: false
+  guides: false

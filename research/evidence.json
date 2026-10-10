@@ -1,0 +1,212 @@
+{
+  "status": "secondary-research-complete-for-amended-scope",
+  "observedAt": "2026-10-09",
+  "evidence": [
+    {
+      "id": "author-bound-by-insanity",
+      "kind": "official",
+      "location": "https://lenaxiaos.itch.io/bound-by-insanity",
+      "title": "Bound By Insanity by LenaXiaoS",
+      "accessedAt": "2026-10-08",
+      "language": "en",
+      "market": "global",
+      "claims": [
+        "Official current downloadable demo; development ongoing",
+        "Mature content advisory",
+        "Fixed protagonist and mouse-wheel/Back text recovery"
+      ],
+      "confidence": "high",
+      "versionScope": "Official downloadable demo as observed; not automatically the supplied browser build",
+      "conflictStatus": "resolved",
+      "notes": "Latest opened page lists Android APK and Oct 7 update; earlier observations missing Android are superseded for official downloads only. No screenshot rights implied by page visibility."
+    },
+    {
+      "id": "author-bbi-replies",
+      "kind": "official",
+      "location": "https://itch.io/profile/lenaxiaos",
+      "title": "LenaXiaoS public creator replies",
+      "accessedAt": "2026-10-08",
+      "language": "en",
+      "market": "global",
+      "claims": [
+        "Current demo is linear; major routes planned later",
+        "Pulsing heart indicates text completion; rollback available",
+        "Free demo recording allowed; paid future game differs"
+      ],
+      "confidence": "high",
+      "versionScope": "Creator replies about current demo and future plans; browser implementation unverified",
+      "conflictStatus": "open",
+      "notes": "Video labels claiming all routes cannot establish currently available route branches; author plans are not implemented features."
+    },
+    {
+      "id": "main-iframe-precheck",
+      "kind": "controlled-browser-observation",
+      "location": "research/evidence/main-iframe-precheck.png",
+      "title": "Main iframe first-screen attempt",
+      "accessedAt": "2026-10-08",
+      "language": "en",
+      "market": "local",
+      "claims": [
+        "Play click created one frame matching config",
+        "First visible frame is a mature warning bearing game identity"
+      ],
+      "confidence": "medium",
+      "versionScope": "Supplied initial browser target, first screen only",
+      "conflictStatus": "none",
+      "notes": "Test Origin http://127.0.0.1:4187, not formal Origin. Existing IAB profile, not clean. No game input. Conclusion unknown/provisional; server stopped and temporary script removed."
+    },
+    {
+      "id": "main-video-screening",
+      "kind": "video-observation",
+      "location": "https://www.youtube.com/watch?v=d5bH1oUMpv8",
+      "title": "Bound By Insanity (No Commentary)",
+      "accessedAt": "2026-10-08",
+      "language": "en",
+      "market": "global",
+      "claims": [
+        "Observed opening and around 243 seconds show torn dialogue-panel style and Miles screen"
+      ],
+      "confidence": "medium",
+      "versionScope": "Build date unknown; identity screening only",
+      "conflictStatus": "open",
+      "notes": "research/evidence/main-video-243s.png; elapsed playback is not a claim of continuous watching. Embedding, version and segments still require verification."
+    },
+    {
+      "id": "browser-context-limit",
+      "kind": "tool-capability-observation",
+      "location": "research/browser-context-capabilities.json",
+      "title": "Browser isolation prerequisite unavailable",
+      "accessedAt": "2026-10-08",
+      "language": "en",
+      "market": "local",
+      "claims": [
+        "IAB exposes tab creation and viewport/visibility but no supported new isolated context",
+        "Chrome and Edge provider creation returned unavailable"
+      ],
+      "confidence": "high",
+      "versionScope": "Current connected tool session",
+      "conflictStatus": "none",
+      "notes": "Do not erase signed-in user browser state or pretend a fresh tab is a fresh browser context."
+    },
+    {
+      "id": "bbi-current-reading",
+      "kind": "direct-game-observation",
+      "location": "research/flow-07-direct-play-observations.json",
+      "accessedAt": "2026-10-08",
+      "claims": [
+        "Current six-icon UI",
+        "Expanding birthday passage and heart completion",
+        "Upward wheel restores previous paragraph",
+        "H hides/restores dialogue",
+        "Options separates text speed and auto-forward time",
+        "Enter advances with game focus",
+        "Name-entry prompt observed"
+      ],
+      "confidence": "high",
+      "versionScope": "Configured browser build observed 2026-10-08; partial reading, not full-game completion"
+    },
+    {
+      "id": "bbi-revised-demo",
+      "kind": "official",
+      "location": "https://lenaxiaos.itch.io/bound-by-insanity/devlog/1647693/typos-fixed-and-more-options",
+      "accessedAt": "2026-10-08",
+      "claims": [
+        "Added history/rollback and choices",
+        "Demo ends at same point",
+        "Save-directory and code changes prevent old-save carryover"
+      ],
+      "confidence": "high",
+      "versionScope": "Author revision devlog 2026-08-31; browser equivalence bounded"
+    },
+    {
+      "id": "bbi-video-deep-review",
+      "kind": "video-observation",
+      "location": "research/video-analysis.json",
+      "accessedAt": "2026-10-08",
+      "claims": [
+        "Opening recording is partial",
+        "Older four-icon menus differ",
+        "Named Miles dialogue and gesture",
+        "Named Adrien late scene",
+        "Older full-demo recording returns to menu"
+      ],
+      "confidence": "high",
+      "versionScope": "Precisely recorded watched intervals only"
+    },
+    {
+      "id": "bbi-current-video",
+      "kind": "video-observation",
+      "location": "research/video-analysis.json#video-current-ty",
+      "accessedAt": "2026-10-08",
+      "claims": [
+        "Six-icon interface match",
+        "Dialogue/portrait reading rhythm"
+      ],
+      "confidence": "high",
+      "versionScope": "Watched ranges only"
+    },
+    {
+      "id": "bbi-media-permission",
+      "kind": "official",
+      "location": "https://lenaxiaos.itch.io/bound-by-insanity",
+      "accessedAt": "2026-10-08",
+      "claims": [
+        "Creator owns drawing/design and invites game-related content"
+      ],
+      "confidence": "high",
+      "versionScope": "Limited contextual fan editorial use, not general redistribution licence"
+    },
+    {
+      "id": "author-route-plan-20261009",
+      "kind": "official",
+      "location": "https://lenaxiaos.itch.io/bound-by-insanity/comments?before=44",
+      "title": "LenaXiaoS replies on planned routes and converging demo choice",
+      "accessedAt": "2026-10-09",
+      "language": "en",
+      "market": "global",
+      "claims": [
+        "Author: four planned major routes, two per central character; none in demo",
+        "Author: original phone-call alternatives converge intentionally"
+      ],
+      "confidence": "high",
+      "versionScope": "Historic author plan; original demo phone-call example; not guarantee of revised choice wording",
+      "conflictStatus": "resolved",
+      "notes": "Only authenticated creator replies used, not player comments. No invented good/bad ending names or walkthrough sequence."
+    },
+    {
+      "id": "author-act1-20261009",
+      "kind": "official",
+      "location": "https://lenaxiaos.itch.io/bound-by-insanity/devlog/1647693/typos-fixed-and-more-options",
+      "title": "Demo revision and Act 1 scope",
+      "accessedAt": "2026-10-09",
+      "language": "en",
+      "market": "global",
+      "claims": [
+        "Revised demo adds History/Rollback/minor choices and keeps ending point",
+        "Demo described as Act 1; further shared story before large routes",
+        "Old saves incompatible after code/directory changes"
+      ],
+      "confidence": "high",
+      "versionScope": "Aug 31 revision and author follow-up; latest product page still describes demo",
+      "conflictStatus": "resolved",
+      "notes": "Do not imply that later acts have a confirmed release date."
+    },
+    {
+      "id": "current-save-screen-20261009",
+      "kind": "runtime",
+      "location": "https://static.kingdomofmarionettes.org/games/bound-by-insanity/index.html",
+      "title": "Direct configured browser game: six-slot Save/Load interface",
+      "accessedAt": "2026-10-09",
+      "language": "en",
+      "market": "global",
+      "claims": [
+        "18+ confirmation, Start and Enter progressed actual narration",
+        "Save icon opened labeled Save/Load with six numbered empty slots and page controls"
+      ],
+      "confidence": "high",
+      "versionScope": "Configured browser runtime direct isolated research",
+      "conflictStatus": "bounded",
+      "notes": "No save creation, load restoration or completed story claimed. Final site player remains provisional. Evidence reports/topic-enrichment-2026-10-09/research-current-save-screen.png"
+    }
+  ]
+}

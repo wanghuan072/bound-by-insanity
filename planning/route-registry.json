@@ -1,0 +1,79 @@
+{
+  "originSource": "project.yaml.domain.origin",
+  "urlPolicy": {
+    "trailingSlash": false
+  },
+  "scopeRevision": "planning/scope-amendment.json",
+  "main": {
+    "id": "bound-by-insanity",
+    "path": "/",
+    "dataFile": "data/games/main-game.json",
+    "source": "main-game",
+    "dateSource": "Game.updatedAt"
+  },
+  "staticPages": [
+    {
+      "id": "characters",
+      "path": "/characters",
+      "type": "topic",
+      "dataFile": "data/topics/characters.json",
+      "dateSource": "seo/page-lastmod.json"
+    },
+    {
+      "id": "endings",
+      "path": "/endings",
+      "type": "topic",
+      "dataFile": "data/topics/endings.json",
+      "dateSource": "seo/page-lastmod.json"
+    },
+    {
+      "id": "privacy",
+      "path": "/privacy",
+      "type": "legal",
+      "dataFile": "data/legal/pages.json",
+      "dateSource": "seo/page-lastmod.json"
+    },
+    {
+      "id": "terms",
+      "path": "/terms",
+      "type": "legal",
+      "dataFile": "data/legal/pages.json",
+      "dateSource": "seo/page-lastmod.json"
+    },
+    {
+      "id": "copyright",
+      "path": "/copyright",
+      "type": "legal",
+      "dataFile": "data/legal/pages.json",
+      "dateSource": "seo/page-lastmod.json"
+    },
+    {
+      "id": "about",
+      "path": "/about",
+      "type": "legal",
+      "dataFile": "data/legal/pages.json",
+      "dateSource": "seo/page-lastmod.json"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "type": "legal",
+      "dataFile": "data/legal/pages.json",
+      "dateSource": "seo/page-lastmod.json"
+    }
+  ],
+  "excludedPublicPaths": [
+    "/guides",
+    "/guides/*",
+    "/games",
+    "/games/*",
+    "/legal/*",
+    "/__preview/*"
+  ],
+  "draftPreview": {
+    "path": "/__preview/[[...segments]]",
+    "source": "dev/PreviewPage.tsx",
+    "registration": "Owned temporary App Router route generated only while dev-preview script runs; removed before production preflight",
+    "productionPolicy": "Fail build if any owned/unexpected preview route remains; production manifest must not contain preview"
+  }
+}

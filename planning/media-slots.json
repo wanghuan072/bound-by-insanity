@@ -1,0 +1,263 @@
+{
+  "status": "media-reviewed",
+  "slots": [
+    {
+      "slot_id": "home-player-cover",
+      "page_id": "home",
+      "target_section_id": "player",
+      "player_question": "Is this the correct game?",
+      "fact_to_show": "Exact current title/early scene identification; preserve actual ratio/title-safe region",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Cover identifies the playable main game without revealing later story",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create a distinct original task visual based on verified interface facts",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-main-cover"
+      ],
+      "layout": "Natural 630×500 cover, contain within explicit 16:9 player shell"
+    },
+    {
+      "slot_id": "home-start-and-read-shot",
+      "page_id": "home",
+      "target_section_id": "start-and-read",
+      "player_question": "When is displayed text complete?",
+      "fact_to_show": "Actual completion indicator and readable passage",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain a real text-completion state",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-passage"
+      ],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+    },
+    {
+      "slot_id": "home-reading-the-encounters-shot",
+      "page_id": "home",
+      "target_section_id": "reading-the-encounters",
+      "player_question": "Who is speaking and what is happening now?",
+      "fact_to_show": "An early interaction with visible speaker and expression",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Support reading the current encounter without hidden biography",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-miles-dialogue"
+      ],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+    },
+    {
+      "slot_id": "home-choices-and-demo-progress-shot",
+      "page_id": "home",
+      "target_section_id": "choices-and-demo-progress",
+      "player_question": "What does a reply selection look like?",
+      "fact_to_show": "Real available response UI before selection",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Describe an actual reply and avoid implying unobserved routes",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-options"
+      ],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+    },
+    {
+      "slot_id": "home-after-body-video",
+      "page_id": "home",
+      "target_section_id": "after-body",
+      "player_question": "What can we learn from a demonstrated session?",
+      "fact_to_show": "Observed text, interaction and bounded demo progression",
+      "preferred_format": "youtube-video",
+      "adjacent_copy_task": "Direct lazy privacy-enhanced embed after independent body; add spoiler warning where needed",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Find another qualified current-game video; no empty module or unrelated substitution",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-video-current"
+      ],
+      "layout": "Full main column after complete body; direct lazy iframe, no poster click gate",
+      "process_to_show": "Observe a full text-reveal/advance sequence, reply selection and subsequent visible feedback; distinguish stopping point from frame failure",
+      "why_motion_matters": "A still image cannot show the timing of text completion or causality of advancing/recovering a passage",
+      "candidateVideoId": null
+    },
+    {
+      "slot_id": "characters-header-cover",
+      "page_id": "characters",
+      "target_section_id": "header",
+      "player_question": "What task will this page help us complete?",
+      "fact_to_show": "Distinct early visible character encounter",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Cover matches this page and stays spoiler-safe",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create a distinct original task visual based on verified interface facts",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-characters-cover"
+      ],
+      "layout": "Task-specific image; natural ratio/contain, no shared generic cover"
+    },
+    {
+      "slot_id": "characters-meeting-miles-shot",
+      "page_id": "characters",
+      "target_section_id": "meeting-miles",
+      "player_question": "What does Miles actually do in the first visible encounter?",
+      "fact_to_show": "Observe a specific early action, expression and player response; no hidden motive claim.",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-miles-portrait"
+      ],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+    },
+    {
+      "slot_id": "characters-meeting-adrien-shot",
+      "page_id": "characters",
+      "target_section_id": "meeting-adrien",
+      "player_question": "How does Adrien’s visible role change the interaction?",
+      "fact_to_show": "Observe an early scene distinct from Miles; no future-route biography.",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-adrien-portrait"
+      ],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility"
+    },
+    {
+      "slot_id": "endings-header-cover",
+      "page_id": "endings",
+      "target_section_id": "header",
+      "player_question": "What task will this page help us complete?",
+      "fact_to_show": "Distinct current-demo choice interface or original version/choice diagram",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Cover matches this page and stays spoiler-safe",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create a distinct original task visual based on verified interface facts",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-endings-cover"
+      ],
+      "layout": "Task-specific image; natural ratio/contain, no shared generic cover"
+    },
+    {
+      "slot_id": "endings-before-and-after-a-reply-shot",
+      "page_id": "endings",
+      "target_section_id": "before-and-after-a-reply",
+      "player_question": "What visibly changes after a real reply choice?",
+      "fact_to_show": "Stage07 must watch a real choice and subsequent text; show meaningful before/after, not an invented successful path.",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "not-adopted",
+      "media_ledger_ids": [],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility",
+      "reason": "No empty component: superseded screenshot purpose or unnecessary duplicate. Topic cover explains boundary; no unobserved ending capture."
+    },
+    {
+      "slot_id": "endings-the-demo-stopping-point-shot",
+      "page_id": "endings",
+      "target_section_id": "the-demo-stopping-point",
+      "player_question": "How can we tell that the available demo has concluded?",
+      "fact_to_show": "Observe actual final screen/message and distinguish a scripted stop from technical failure.",
+      "preferred_format": "game-screenshot",
+      "adjacent_copy_task": "Explain adjacent concrete case; not decorative illustration",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Observe a different current-game scene that answers the same question",
+      "adoption_status": "not-adopted",
+      "media_ledger_ids": [],
+      "layout": "Adjacent to its exact case; preserve natural dimensions and text legibility",
+      "reason": "No empty component: superseded screenshot purpose or unnecessary duplicate. Topic cover explains boundary; no unobserved ending capture."
+    },
+    {
+      "slot_id": "site-header-logo",
+      "page_id": "sitewide",
+      "target_section_id": "header",
+      "player_question": "Which game site am I on?",
+      "fact_to_show": "Bound By Insanity independent site identity",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Exact selected site name",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Create original code-native vector wordmark and local PNG",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-logo"
+      ],
+      "layout": "560×112 source, 230×46 wide/200×40 mobile; stable reserve"
+    },
+    {
+      "slot_id": "site-social-image",
+      "page_id": "sitewide",
+      "target_section_id": "social",
+      "player_question": "Does this shared page concern Bound By Insanity?",
+      "fact_to_show": "Site/game identity without hidden story",
+      "preferred_format": "approved-image",
+      "adjacent_copy_task": "Universal /images/og-image.png",
+      "candidate_evidence_ids": [
+        "author-bound-by-insanity"
+      ],
+      "rights_check_needed": true,
+      "fallback_if_unavailable": "Original nonfigurative main-game-derived system and local wordmark",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-og"
+      ],
+      "layout": "1200×630, original ink-paper theme; no generic stock background"
+    },
+    {
+      "slot_id": "site-icon",
+      "page_id": "all",
+      "target_section_id": "head",
+      "player_question": "Recognize the site tab",
+      "adoption_status": "adopted",
+      "media_ledger_ids": [
+        "media-icon"
+      ]
+    }
+  ]
+}

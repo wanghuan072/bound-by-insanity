@@ -1,0 +1,300 @@
+{
+  "status": "secondary-research-complete-for-amended-scope",
+  "observedAt": "2026-10-09",
+  "claims": [
+    {
+      "id": "bbi-identity",
+      "gameId": "bound-by-insanity",
+      "claim": "Bound By Insanity is the official title and LenaXiaoS is the game creator.",
+      "versionScope": "Official product",
+      "supportingEvidenceIds": [
+        "author-bound-by-insanity"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed",
+      "confidence": "high",
+      "publicExpressionLimit": "Do not imply the fan site is the creator or official site.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-demo-scope",
+      "gameId": "bound-by-insanity",
+      "claim": "Current official demo is linear; major routes are future plans.",
+      "versionScope": "Creator-described demo",
+      "supportingEvidenceIds": [
+        "author-bbi-replies"
+      ],
+      "conflictingEvidenceIds": [
+        "main-video-screening"
+      ],
+      "conclusion": "confirmed_with_version_limit",
+      "confidence": "high",
+      "publicExpressionLimit": "Do not publish an all-endings route walkthrough as if future branches already exist.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-read-recovery",
+      "gameId": "bound-by-insanity",
+      "claim": "Official instructions describe mouse-wheel rollback or Back in quick menu.",
+      "versionScope": "Official downloadable demo",
+      "supportingEvidenceIds": [
+        "author-bound-by-insanity"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed_with_version_limit",
+      "confidence": "high",
+      "publicExpressionLimit": "Recheck controls in browser build before promising identical inputs.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-text-completion",
+      "gameId": "bound-by-insanity",
+      "claim": "Creator says pulsing heart marks completed displayed text; long text may need more clicks.",
+      "versionScope": "Creator-described demo",
+      "supportingEvidenceIds": [
+        "author-bbi-replies"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed_with_version_limit",
+      "confidence": "high",
+      "publicExpressionLimit": "Obtain browser or video cases; do not claim tested keyboard shortcuts.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-protagonist",
+      "gameId": "bound-by-insanity",
+      "claim": "Protagonist has a predefined appearance and personality.",
+      "versionScope": "Official demo",
+      "supportingEvidenceIds": [
+        "author-bound-by-insanity"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed",
+      "confidence": "high",
+      "publicExpressionLimit": "Do not advertise avatar or pronoun customization.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-mobile",
+      "gameId": "bound-by-insanity",
+      "claim": "Latest official page lists an Android APK; touch support of configured browser target is unknown.",
+      "versionScope": "Official downloads versus browser target",
+      "supportingEvidenceIds": [
+        "author-bound-by-insanity"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed_with_version_limit",
+      "confidence": "high",
+      "publicExpressionLimit": "Android build availability is not mobile-web proof.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-runtime",
+      "gameId": "bound-by-insanity",
+      "claim": "Configured frame safely appeared once and displayed mature warning; gameplay input was not performed.",
+      "versionScope": "Initial supplied target, non-clean local precheck",
+      "supportingEvidenceIds": [
+        "main-iframe-precheck"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "provisional",
+      "confidence": "high",
+      "publicExpressionLimit": "Do not call main game verified playable.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-video-version",
+      "gameId": "bound-by-insanity",
+      "claim": "Initial video screen matches game art/dialogue identity; full version correspondence and embedding unknown.",
+      "versionScope": "Video d5bH1oUMpv8",
+      "supportingEvidenceIds": [
+        "main-video-screening"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "open",
+      "confidence": "low",
+      "publicExpressionLimit": "No route/ending claim from video title alone.",
+      "secondaryVerification": "Check observed current browser scenes or exact matching video segments; retain version distinctions."
+    },
+    {
+      "id": "bbi-text-completion",
+      "gameId": "bound-by-insanity",
+      "claim": "Long opening passage expands across advances; heart marks completed text.",
+      "versionScope": "Demo as bounded in evidence",
+      "supportingEvidenceIds": [
+        "bbi-current-reading",
+        "bbi-video-deep-review"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "No guarantee every transition has a heart"
+    },
+    {
+      "id": "bbi-local-recovery",
+      "gameId": "bound-by-insanity",
+      "claim": "Upward wheel restores a prior completed opening passage; H toggles panel; text-speed and auto-forward controls separate.",
+      "versionScope": "Demo as bounded in evidence",
+      "supportingEvidenceIds": [
+        "bbi-current-reading"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "No mobile/saves/choice-rewind guarantee"
+    },
+    {
+      "id": "bbi-version-save-boundary",
+      "gameId": "bound-by-insanity",
+      "claim": "Revised demo added choices/history/rollback while retaining stopping point; changed save directory/code makes old saves incompatible.",
+      "versionScope": "Demo as bounded in evidence",
+      "supportingEvidenceIds": [
+        "bbi-revised-demo"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "Do not generalize save failure to every browser reload"
+    },
+    {
+      "id": "bbi-video-version-boundary",
+      "gameId": "bound-by-insanity",
+      "claim": "Reviewed videos show older four-icon UI; short video ends during conversation, long video returns to menu.",
+      "versionScope": "Demo as bounded in evidence",
+      "supportingEvidenceIds": [
+        "bbi-video-deep-review"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "Not all routes, not current button layout proof"
+    },
+    {
+      "id": "bbi-current-video-reading",
+      "gameId": "bound-by-insanity",
+      "claim": "Current six-icon dialogue recording shows speaker changes while a portrait can hold or change; no outcome inferred.",
+      "versionScope": "Matching visible interface and common artwork; binary equality unknown",
+      "supportingEvidenceIds": [
+        "bbi-current-video"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-bounded",
+      "confidence": "high",
+      "publicExpressionLimit": "Major spoilers warning before iframe; no streamer opinions as rules"
+    },
+    {
+      "id": "bbi-four-planned-routes",
+      "gameId": "bound-by-insanity",
+      "claim": "Four major full-game routes planned, two for each central character; none released as demo routes.",
+      "versionScope": "Historical creator plan",
+      "supportingEvidenceIds": [
+        "author-route-plan-20261009"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "Show planned explicitly in every table, diagram and introduction; no route names, release date or invented unlock steps."
+    },
+    {
+      "id": "bbi-original-phone-convergence",
+      "gameId": "bound-by-insanity",
+      "claim": "Original demo call-Miles/call-Adrien alternatives deliberately rejoin the shared Adrien scene.",
+      "versionScope": "Original demo; revised dialogue not asserted identical",
+      "supportingEvidenceIds": [
+        "author-route-plan-20261009"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "Directly rendered example after the page’s single spoiler notice, per user preference. Do not claim current full-game route result."
+    },
+    {
+      "id": "bbi-act1-scope",
+      "gameId": "bound-by-insanity",
+      "claim": "Demo is Act 1; revised choices did not extend ending point. More shared content was planned before route splits.",
+      "versionScope": "Creator revision announcement and author reply",
+      "supportingEvidenceIds": [
+        "author-act1-20261009"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "No assertion that Act 2 is released or that route plans cannot change."
+    },
+    {
+      "id": "bbi-miles-background",
+      "gameId": "bound-by-insanity",
+      "claim": "Miles studies forensic pathology, helped end the protagonist’s abusive relationship and saved her in an accident; lip/collarbone scars relate to this history.",
+      "versionScope": "Official character premise",
+      "supportingEvidenceIds": [
+        "author-bound-by-insanity"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "No age, height, birthday or diagnosis inferred. Keep reading interpretation separate from concrete premise."
+    },
+    {
+      "id": "bbi-save-slot-interface",
+      "gameId": "bound-by-insanity",
+      "claim": "Save/Load shows six numbered empty slots and pages in observed configured browser runtime.",
+      "versionScope": "2026-10-09 configured direct runtime",
+      "supportingEvidenceIds": [
+        "current-save-screen-20261009"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed-with-scope",
+      "confidence": "high",
+      "publicExpressionLimit": "Image proves menu availability, not successful saving/restoring across devices."
+    },
+    {
+      "id": "bbi-gallery-classroom-question",
+      "gameId": "bound-by-insanity",
+      "claim": "Official gallery classroom image shows the protagonist asking Adrien about art and easy grades; his expression is visible, not his answer.",
+      "versionScope": "Official gallery, older four-icon UI",
+      "supportingEvidenceIds": [
+        "author-bound-by-insanity"
+      ],
+      "conflictingEvidenceIds": [],
+      "conclusion": "confirmed",
+      "confidence": "high",
+      "publicExpressionLimit": "Do not describe the visible question as Adrien’s reply; do not infer his profession or motive.",
+      "secondaryVerification": "Whole image inspected in reports/topic-enrichment-2026-10-09/official-gallery-contact.png"
+    }
+  ],
+  "openConflicts": [
+    {
+      "id": "bbi-video-route-labels",
+      "gameId": "bound-by-insanity",
+      "issue": "All-routes video labels versus creator-described linear demo",
+      "resolution": "Creator demo scope controls public statements; reviewed older videos only support shared art/opening rhythm. No route labels inferred.",
+      "status": "resolved-with-version-boundaries"
+    },
+    {
+      "id": "bbi-android-observation",
+      "gameId": "bound-by-insanity",
+      "issue": "Earlier opened platform list differed from latest Oct7 listing",
+      "resolution": "Latest October 7 author listing controls platform wording; no native Android package is adopted or tested. Site instructions cover the configured browser demo, with mobile limits stated.",
+      "status": "resolved-with-version-boundaries"
+    },
+    {
+      "gameId": "knee-deep",
+      "issue": "Current browser character creator/timetable differs from previously discovered laundry footage and associated route counts",
+      "resolution": "Conflicting discovery remains unresolved internally; this candidate is excluded from the amended release scope, so none of these version or route claims are published.",
+      "status": "deferred-by-scope-amendment"
+    },
+    {
+      "gameId": "dating-killmulator",
+      "issue": "Current playable loading label 2.0.0.69 differs from latest author patch 2.6",
+      "resolution": "Conflicting discovery remains unresolved internally; this candidate is excluded from the amended release scope, so none of these version or route claims are published.",
+      "status": "deferred-by-scope-amendment"
+    },
+    {
+      "id": "bbi-ending-video-cuts-20261009",
+      "gameId": "bound-by-insanity",
+      "issue": "Ending label on xil9sA6b52k and current-ui Part 5 cut versus actual demo completion",
+      "resolution": "Neither sampled video proves final demo boundary. No new embed selected. Planned-route claims use creator replies only.",
+      "status": "resolved-with-rejections"
+    }
+  ]
+}

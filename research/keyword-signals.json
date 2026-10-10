@@ -1,0 +1,70 @@
+{
+  "status": "partial",
+  "observedAt": "2026-10-08",
+  "language": "en",
+  "market": "Global English-speaking adult players",
+  "measurementLimits": [
+    "No Search Console, keyword-volume or trend dataset supplied/accessed",
+    "Search UI language/profile is not geographic demand evidence",
+    "Video view counts are not keyword search volume",
+    "Primary lookup and qualitative task repetition only"
+  ],
+  "signals": [
+    {
+      "query": "Bound By Insanity",
+      "task": "Find current game and distinguish official demo from fan mirrors",
+      "searchVolume": "unavailable",
+      "statisticalPeriod": "unavailable",
+      "trendDirection": "unavailable",
+      "trendWindow": "unavailable",
+      "competition": "qualitative: official game, video walkthroughs and fan mirrors coexist",
+      "serpFeatures": [
+        "Official itch.io product",
+        "Gameplay videos",
+        "Fan play pages"
+      ],
+      "precision": "qualitative",
+      "method": "Primary page/profile plus observed video self-search",
+      "evidenceIds": [
+        "author-bound-by-insanity",
+        "author-bbi-replies",
+        "main-video-screening"
+      ]
+    },
+    {
+      "query": "Bound By Insanity gameplay",
+      "task": "Understand demo flow",
+      "searchVolume": "unavailable",
+      "statisticalPeriod": "unavailable",
+      "trendDirection": "unavailable",
+      "trendWindow": "unavailable",
+      "competition": "qualitative: multiple full-session recordings",
+      "serpFeatures": [
+        "No-commentary sessions",
+        "Creator commentary playthroughs",
+        "Ending-focused titles requiring version caution"
+      ],
+      "precision": "qualitative",
+      "method": "YouTube self-search observations",
+      "evidenceIds": [
+        "main-video-screening"
+      ]
+    },
+    {
+      "query": "Bound By Insanity text reading and choices",
+      "queryStatus": "Player-task label, not measured exact query",
+      "task": "Recover missed text and understand whether choices change demo path",
+      "searchVolume": "unavailable",
+      "statisticalPeriod": "unavailable",
+      "trendDirection": "unavailable",
+      "trendWindow": "unavailable",
+      "competition": "unavailable",
+      "serpFeatures": [],
+      "precision": "qualitative",
+      "method": "Repeated creator replies to reader and branch questions, not search-volume data",
+      "evidenceIds": [
+        "author-bbi-replies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "status": "implemented",
+  "scopeRevision": "planning/scope-amendment.json",
+  "urlPolicy": {
+    "trailingSlash": false
+  },
+  "siteIdentity": {
+    "site_name": "Bound By Insanity",
+    "short_name": "Bound By Insanity",
+    "site_name_basis": "Exact verified main title; independent site with no official affiliation claim"
+  },
+  "primaryNavigation": [
+    {
+      "page_id": "home",
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "page_id": "characters",
+      "label": "Characters",
+      "path": "/characters"
+    },
+    {
+      "page_id": "endings",
+      "label": "Endings",
+      "path": "/endings"
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "home",
+      "path": "/",
+      "nav_level": 1,
+      "page_role": "main-game-only detail",
+      "primary_intent": "Play Bound By Insanity and understand a first demo session",
+      "secondary_intents": [
+        "Read without losing dialogue",
+        "Recognize present choice/version limits"
+      ],
+      "keyword_cluster_ids": [
+        "bbi-play",
+        "bbi-version-device"
+      ],
+      "game_id": "bound-by-insanity",
+      "h1_direction": "Play Bound By Insanity Online",
+      "sections": [
+        {
+          "id": "the-demo-we-are-entering",
+          "question": "What are we about to play, and how does this demo differ from a completed route release?",
+          "specificTask": "Introduce defined protagonist and psychological dialogue tension; do not claim full routes."
+        },
+        {
+          "id": "start-and-read",
+          "question": "How do we start, complete a long passage and know when another click is needed?",
+          "specificTask": "Current player startup plus creator-demo pulsing-heart completion example; distinguish browser wrapper failure from text still revealing."
+        },
+        {
+          "id": "reading-the-encounters",
+          "question": "What should we notice about Miles and Adrien before answering?",
+          "specificTask": "Use early dialogue and visible behavior, not hidden histories or invented affection meters."
+        },
+        {
+          "id": "choices-and-demo-progress",
+          "question": "What does a reply change, and is the demo’s stopping point a failure?",
+          "specificTask": "Observe one real reply before/after case; future major branches stay separate."
+        },
+        {
+          "id": "when-we-lose-our-place",
+          "question": "How do we recover missed text or avoid losing our place?",
+          "specificTask": "Link complete recovery Guide after concise real scenario; storage behavior unknown until observed."
+        },
+        {
+          "id": "device-and-player-problems",
+          "question": "What do we do if the frame stalls, audio is quiet or controls differ?",
+          "specificTask": "Separate site retry/fullscreen from in-game UI; Android download does not establish mobile web support."
+        },
+        {
+          "id": "questions-before-another-session",
+          "question": "Which edition, input and content questions need an answer before another reading?",
+          "specificTask": "Write specific verified FAQ; omit unsupported release dates/ending steps."
+        }
+      ],
+      "media_slots": [
+        "home-player-cover",
+        "home-start-and-read-shot",
+        "home-reading-the-encounters-shot",
+        "home-choices-and-demo-progress-shot",
+        "home-after-body-video"
+      ],
+      "visual_role": "Play-first main-game focal page",
+      "content_boundary": [
+        "Full character biographies",
+        "Complete recovery steps",
+        "Future-route walkthroughs",
+        "Other games"
+      ],
+      "spoilerPolicy": "marked",
+      "canonical": "/"
+    },
+    {
+      "page_id": "characters",
+      "path": "/characters",
+      "intent": "Recognize the defined protagonist, Miles and Adrien and compare their early visible behavior before making sense of their dialogue",
+      "h1": "The Characters We Meet in Bound By Insanity",
+      "cluster": "bbi-characters",
+      "sections": [
+        [
+          "a-defined-protagonist",
+          "Who are we following, and what cannot be customized?",
+          [
+            "bbi-protagonist"
+          ],
+          "Distinguish player reading decisions from the protagonist’s fixed identity."
+        ],
+        [
+          "meeting-miles",
+          "What does Miles actually do in the first visible encounter?",
+          [
+            "bbi-identity"
+          ],
+          "Observe a specific early action, expression and player response; no hidden motive claim."
+        ],
+        [
+          "meeting-adrien",
+          "How does Adrien’s visible role change the interaction?",
+          [
+            "bbi-identity"
+          ],
+          "Observe an early scene distinct from Miles; no future-route biography."
+        ],
+        [
+          "compare-without-spoilers",
+          "Which visible contrasts help us read their dialogue?",
+          [
+            "bbi-protagonist",
+            "bbi-demo-scope"
+          ],
+          "Compare observable speech/actions, avoid invented affection stats or moral labels."
+        ],
+        [
+          "what-we-should-watch-next",
+          "What should we pay attention to during a first session?",
+          [
+            "bbi-demo-scope"
+          ],
+          "Practical attention cues and link back to player; do not repeat full controls or ending guide."
+        ]
+      ],
+      "excludes": [
+        "Long startup/rollback instructions",
+        "Hidden histories",
+        "Complete route or ending instructions"
+      ],
+      "media_slots": [
+        "characters-header-cover",
+        "characters-meeting-miles-shot",
+        "characters-meeting-adrien-shot"
+      ],
+      "spoilerPolicy": "marked",
+      "spoilerExclusions": [
+        "Hidden motives/history",
+        "Late revelations",
+        "Unobserved full-release endings",
+        "Ending details in cards, lead, metadata, alt or unmarked media"
+      ],
+      "nav_level": 1,
+      "page_role": "independent main-keyword topic",
+      "primary_intent": "Recognize the defined protagonist, Miles and Adrien and compare their early visible behavior before making sense of their dialogue",
+      "h1_direction": "The Characters We Meet in Bound By Insanity",
+      "keyword_cluster_ids": [
+        "bbi-characters"
+      ],
+      "visual_role": "Task-led illustrated reading page",
+      "canonical": "/characters"
+    },
+    {
+      "page_id": "endings",
+      "path": "/endings",
+      "intent": "Understand present demo completion and choice limits, evaluate a visible reply case, and stop confusing future routes with obtainable current endings",
+      "h1": "Bound By Insanity Demo Choices and Endings",
+      "cluster": "bbi-demo-choices",
+      "sections": [
+        [
+          "what-is-playable-now",
+          "Does this build contain finished routes or a demo?",
+          [
+            "bbi-demo-scope"
+          ],
+          "Clearly scope official demo versus supplied mirror; no implied completed full release."
+        ],
+        [
+          "before-and-after-a-reply",
+          "What visibly changes after a real reply choice?",
+          [
+            "bbi-demo-scope"
+          ],
+          "Stage07 must watch a real choice and subsequent text; show meaningful before/after, not an invented successful path."
+        ],
+        [
+          "the-demo-stopping-point",
+          "How can we tell that the available demo has concluded?",
+          [
+            "bbi-demo-scope"
+          ],
+          "Observe actual final screen/message and distinguish a scripted stop from technical failure."
+        ],
+        [
+          "replay-with-a-purpose",
+          "What can we compare on another reading without promising unavailable routes?",
+          [
+            "bbi-read-recovery",
+            "bbi-demo-scope"
+          ],
+          "Define a bounded replay question with actual reply comparison; storage/restart controls verified separately."
+        ],
+        [
+          "future-routes-and-common-questions",
+          "Which ending claims should we avoid applying to the current demo?",
+          [
+            "bbi-demo-scope"
+          ],
+          "Explicit current limits and version questions; no fabricated walkthrough or release date."
+        ]
+      ],
+      "excludes": [
+        "Character biographies",
+        "Full reading-control steps",
+        "Unobserved final routes",
+        "Major plot reveals in introduction, cards, metadata or alt"
+      ],
+      "media_slots": [
+        "endings-header-cover",
+        "endings-before-and-after-a-reply-shot",
+        "endings-the-demo-stopping-point-shot"
+      ],
+      "spoilerPolicy": "marked",
+      "spoilerExclusions": [
+        "Hidden motives/history",
+        "Late revelations",
+        "Unobserved full-release endings",
+        "Ending details in cards, lead, metadata, alt or unmarked media"
+      ],
+      "nav_level": 1,
+      "page_role": "independent main-keyword topic",
+      "primary_intent": "Understand present demo completion and choice limits, evaluate a visible reply case, and stop confusing future routes with obtainable current endings",
+      "h1_direction": "Bound By Insanity Demo Choices and Endings",
+      "keyword_cluster_ids": [
+        "bbi-demo-choices"
+      ],
+      "visual_role": "Task-led illustrated reading page",
+      "canonical": "/endings"
+    },
+    {
+      "page_id": "privacy",
+      "path": "/privacy",
+      "label": "Privacy Policy",
+      "footerGroup": "Legal",
+      "task": "Describe only site-enabled processing and actual third-party iframe boundaries",
+      "nav_level": "footer",
+      "page_role": "legal utility",
+      "primary_intent": "Describe only site-enabled processing and actual third-party iframe boundaries",
+      "h1_direction": "Privacy Policy",
+      "sections": [
+        {
+          "id": "privacy-information",
+          "specificTask": "Describe only site-enabled processing and actual third-party iframe boundaries"
+        }
+      ],
+      "media_slots": [],
+      "visual_role": "Readable utility page",
+      "canonical": "/privacy"
+    },
+    {
+      "page_id": "terms",
+      "path": "/terms",
+      "label": "Terms of Service",
+      "footerGroup": "Legal",
+      "task": "Describe use conditions and availability for the actual reading/player site",
+      "nav_level": "footer",
+      "page_role": "legal utility",
+      "primary_intent": "Describe use conditions and availability for the actual reading/player site",
+      "h1_direction": "Terms of Service",
+      "sections": [
+        {
+          "id": "terms-information",
+          "specificTask": "Describe use conditions and availability for the actual reading/player site"
+        }
+      ],
+      "media_slots": [],
+      "visual_role": "Readable utility page",
+      "canonical": "/terms"
+    },
+    {
+      "page_id": "copyright",
+      "path": "/copyright",
+      "label": "Copyright",
+      "footerGroup": "Legal",
+      "task": "Distinguish original site text/visuals from game and video rights",
+      "nav_level": "footer",
+      "page_role": "legal utility",
+      "primary_intent": "Distinguish original site text/visuals from game and video rights",
+      "h1_direction": "Copyright",
+      "sections": [
+        {
+          "id": "copyright-information",
+          "specificTask": "Distinguish original site text/visuals from game and video rights"
+        }
+      ],
+      "media_slots": [],
+      "visual_role": "Readable utility page",
+      "canonical": "/copyright"
+    },
+    {
+      "page_id": "about",
+      "path": "/about",
+      "label": "About Us",
+      "footerGroup": "Legal",
+      "task": "Explain the independent player site without invented publisher/team identity",
+      "nav_level": "footer",
+      "page_role": "legal utility",
+      "primary_intent": "Explain the independent player site without invented publisher/team identity",
+      "h1_direction": "About Us",
+      "sections": [
+        {
+          "id": "about-information",
+          "specificTask": "Explain the independent player site without invented publisher/team identity"
+        }
+      ],
+      "media_slots": [],
+      "visual_role": "Readable utility page",
+      "canonical": "/about"
+    },
+    {
+      "page_id": "contact",
+      "path": "/contact",
+      "label": "Contact Us",
+      "footerGroup": "Legal",
+      "task": "Plain text support@boundbyinsanity.org; no form or mailto",
+      "nav_level": "footer",
+      "page_role": "legal utility",
+      "primary_intent": "Plain text support@boundbyinsanity.org; no form or mailto",
+      "h1_direction": "Contact Us",
+      "sections": [
+        {
+          "id": "contact-information",
+          "specificTask": "Plain text support@boundbyinsanity.org; no form or mailto"
+        }
+      ],
+      "media_slots": [],
+      "visual_role": "Readable utility page",
+      "canonical": "/contact"
+    }
+  ],
+  "utilityPages": [
+    {
+      "page_id": "privacy",
+      "path": "/privacy",
+      "label": "Privacy Policy",
+      "footerGroup": "Legal",
+      "task": "Describe only site-enabled processing and actual third-party iframe boundaries"
+    },
+    {
+      "page_id": "terms",
+      "path": "/terms",
+      "label": "Terms of Service",
+      "footerGroup": "Legal",
+      "task": "Describe use conditions and availability for the actual reading/player site"
+    },
+    {
+      "page_id": "copyright",
+      "path": "/copyright",
+      "label": "Copyright",
+      "footerGroup": "Legal",
+      "task": "Distinguish original site text/visuals from game and video rights"
+    },
+    {
+      "page_id": "about",
+      "path": "/about",
+      "label": "About Us",
+      "footerGroup": "Legal",
+      "task": "Explain the independent player site without invented publisher/team identity"
+    },
+    {
+      "page_id": "contact",
+      "path": "/contact",
+      "label": "Contact Us",
+      "footerGroup": "Legal",
+      "task": "Plain text support@boundbyinsanity.org; no form or mailto"
+    }
+  ],
+  "homepageContent": {
+    "minimumVisibleNonWhitespaceTextUnitsAfterPlayer": 4000,
+    "plannedCoverage": [
+      "Introduce defined protagonist and psychological dialogue tension; do not claim full routes.",
+      "Current player startup plus creator-demo pulsing-heart completion example; distinguish browser wrapper failure from text still revealing.",
+      "Use early dialogue and visible behavior, not hidden histories or invented affection meters.",
+      "Observe one real reply before/after case; future major branches stay separate.",
+      "Explain completion and recovery within the homepage; storage durability remains unverified.",
+      "Separate site retry/fullscreen from in-game UI; Android download does not establish mobile web support.",
+      "Write specific verified FAQ; omit unsupported release dates/ending steps."
+    ]
+  },
+  "games": {
+    "mainDataFile": "data/games/main-game.json",
+    "mainPath": "/",
+    "additionalGamesEnabled": false,
+    "recommendationsEnabled": false
+  },
+  "topics": [
+    {
+      "page_id": "characters",
+      "path": "/characters",
+      "coverage_status": "planned",
+      "dataDirectory": "data/topics",
+      "spoilerPolicy": "marked"
+    },
+    {
+      "page_id": "endings",
+      "path": "/endings",
+      "coverage_status": "planned",
+      "dataDirectory": "data/topics",
+      "spoilerPolicy": "marked"
+    }
+  ],
+  "internalLinks": [
+    {
+      "from": "sitewide-navigation",
+      "to": "home",
+      "path": "/",
+      "purpose": "Selected main navigation",
+      "anchor": "Home"
+    },
+    {
+      "from": "sitewide-navigation",
+      "to": "characters",
+      "path": "/characters",
+      "purpose": "Selected main navigation",
+      "anchor": "Characters"
+    },
+    {
+      "from": "sitewide-navigation",
+      "to": "endings",
+      "path": "/endings",
+      "purpose": "Selected main navigation",
+      "anchor": "Endings"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "privacy",
+      "path": "/privacy",
+      "purpose": "Describe only site-enabled processing and actual third-party iframe boundaries",
+      "anchor": "Privacy Policy",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "terms",
+      "path": "/terms",
+      "purpose": "Describe use conditions and availability for the actual reading/player site",
+      "anchor": "Terms of Service",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "copyright",
+      "path": "/copyright",
+      "purpose": "Distinguish original site text/visuals from game and video rights",
+      "anchor": "Copyright",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "about",
+      "path": "/about",
+      "purpose": "Explain the independent player site without invented publisher/team identity",
+      "anchor": "About Us",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "sitewide-footer-Legal",
+      "to": "contact",
+      "path": "/contact",
+      "purpose": "Plain text support@boundbyinsanity.org; no form or mailto",
+      "anchor": "Contact Us",
+      "rel": "noopener noreferrer nofollow"
+    },
+    {
+      "from": "home",
+      "to": "characters",
+      "path": "/characters",
+      "purpose": "Interpret early roles after a first encounter",
+      "anchor": "Meet the characters"
+    },
+    {
+      "from": "home",
+      "to": "endings",
+      "path": "/endings",
+      "purpose": "Understand current choice and demo completion limits",
+      "anchor": "Explore choices and endings"
+    },
+    {
+      "from": "characters",
+      "to": "home",
+      "path": "/",
+      "purpose": "Apply this page’s advice in the player",
+      "anchor": "Return to Bound By Insanity"
+    },
+    {
+      "from": "endings",
+      "to": "home",
+      "path": "/",
+      "purpose": "Apply this page’s advice in the player",
+      "anchor": "Return to Bound By Insanity"
+    },
+    {
+      "from": "characters",
+      "to": "endings",
+      "path": "/endings",
+      "purpose": "Separate character encounter interpretation from current reply consequences",
+      "anchor": "Demo choices and endings"
+    },
+    {
+      "from": "endings",
+      "to": "characters",
+      "path": "/characters",
+      "purpose": "Compare the people involved before revisiting a reply"
+    }
+  ],
+  "excludedIdeas": [
+    {
+      "idea": "More Games and other-game recommendations",
+      "reason": "Explicitly deferred by latest user instruction"
+    },
+    {
+      "idea": "Complete future-route walkthrough",
+      "reason": "Current official demo is linear; no verified future route steps"
+    }
+  ],
+  "layoutPlan": {
+    "maxContentWidth": 1400,
+    "widthBreakpoints": [
+      1024,
+      768
+    ],
+    "homepage": "Play-first main-game page; player, rich body and post-body video share complete main content track; no other-game cards",
+    "desktopSecondaryRole": "Compact main-game task links or on-page navigation only; final composition stage04",
+    "header": "Shared selected nav; hamburger at <=1024",
+    "mobile": "Player, independent main-game body, post-body video, then Characters and Endings task links; no other-game cards"
+  }
+}

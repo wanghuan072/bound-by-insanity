@@ -1,0 +1,337 @@
+.game-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 332px;
+  gap: 32px;
+  align-items: start;
+}
+.game-main {
+  min-width: 0;
+}
+.game-main > .callout {
+  background: var(--surface);
+  color: var(--paper);
+  border: 1px solid var(--paper);
+  border-left: 3px solid var(--accent);
+  margin: 16px 0 0;
+  padding: 16px;
+}
+.game-main > .callout strong {
+  color: #f3a9bd;
+}
+.game-player {
+  position: relative;
+  border: 3px solid var(--paper);
+  background: #000;
+}
+.game-player:before {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  right: -5px;
+  top: -5px;
+  border-top: 3px solid var(--paper);
+  transform: rotate(45deg);
+  transform-origin: right top;
+  pointer-events: none;
+  z-index: 1;
+}
+.player-stage {
+  position: relative;
+  display: grid;
+  place-items: center;
+  background: #000;
+}
+.player-stage iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.player-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  inset: 0;
+}
+.player-prompt {
+  position: relative;
+  text-align: center;
+  padding: 16px;
+}
+.play-button {
+  background: var(--accent);
+  color: #fff;
+  border: 2px solid #e1b9c5;
+  padding: 12px 30px;
+  font:
+    700 25px/1.35 var(--font-display),
+    sans-serif;
+  box-shadow: 5px 5px 0 #000b;
+  min-height: 52px;
+}
+.play-button span {
+  margin-right: 10px;
+  font:
+    20px/1 Arial,
+    sans-serif;
+}
+.play-button:hover {
+  background: #8f193a;
+}
+.player-failure {
+  background: var(--surface);
+  padding: 20px;
+}
+.player-status {
+  border-top: 1px solid #7d747b;
+  padding: 10px 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--surface);
+  min-height: 66px;
+}
+.player-identity {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+.player-status strong {
+  font-size: 14px;
+}
+.player-identity > span {
+  font-size: 13px;
+  color: var(--muted);
+}
+.fullscreen-controls {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+  gap: 8px;
+  flex: none;
+}
+.fullscreen-controls button {
+  min-width: 44px;
+  min-height: 44px;
+  background: transparent;
+  border: 1px solid #7d747b;
+  padding: 7px 9px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: var(--paper);
+}
+.fullscreen-controls button:hover,
+.fullscreen-controls button[aria-pressed="true"] {
+  background: #393139;
+}
+.fullscreen-controls svg {
+  width: 23px;
+  height: 23px;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.fullscreen-controls span {
+  font-size: 13px;
+  white-space: nowrap;
+}
+.player-feedback {
+  padding: 10px 16px;
+  background: var(--surface);
+  font-size: 14px;
+  color: var(--muted);
+}
+.player-feedback p {
+  margin: 0;
+}
+.player-feedback button {
+  background: transparent;
+  min-height: 44px;
+  border: 0;
+  text-decoration: underline;
+  padding: 0;
+  margin-top: 4px;
+}
+.webpage-fullscreen {
+  position: fixed;
+  inset: 0;
+  min-height: 100dvh;
+  z-index: 80;
+  display: flex;
+  flex-direction: column;
+}
+.webpage-fullscreen .player-stage,
+.game-player:fullscreen .player-stage {
+  flex: 1;
+  aspect-ratio: auto !important;
+}
+.game-player:fullscreen {
+  display: flex;
+  flex-direction: column;
+}
+.webpage-fullscreen .player-status,
+.game-player:fullscreen .player-status {
+  padding-bottom: max(10px, env(safe-area-inset-bottom));
+}
+.task-rail {
+  position: sticky;
+  top: calc(var(--header-height) + 16px);
+  align-self: start;
+  padding-top: 4px;
+}
+.task-rail h2 {
+  font-size: 30px;
+  margin-bottom: 14px;
+}
+.task-card {
+  position: relative;
+  display: block;
+  border: 2px solid var(--paper);
+  margin-bottom: 20px;
+  padding: 16px;
+  background: var(--paper);
+  color: var(--ink);
+  text-decoration: none;
+}
+.task-card:after {
+  content: "";
+  position: absolute;
+  top: -3px;
+  right: -3px;
+  width: 18px;
+  height: 18px;
+  background: linear-gradient(
+    45deg,
+    transparent 47%,
+    var(--ink) 48%,
+    var(--ink) 54%,
+    transparent 55%
+  );
+  pointer-events: none;
+}
+.task-card h3 {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-wrap: anywhere;
+  align-items: center;
+  gap: 10px;
+  font-size: 24px;
+  margin: 0 0 12px;
+  padding: 0;
+}
+.task-card h3 > span {
+  display: inline-grid;
+  place-items: center;
+  background: var(--ink);
+  color: var(--paper);
+  font:
+    600 20px/1 var(--font-hand),
+    sans-serif;
+  min-width: 32px;
+  min-height: 30px;
+}
+.task-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: var(--surface);
+}
+.task-card p {
+  font-size: 16px;
+  line-height: 1.45;
+  color: #302b2f;
+  margin: 12px 0 8px;
+}
+.task-card div > span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-size: 17px;
+  font-weight: 600;
+  text-decoration: underline;
+  color: #8c1838;
+}
+.task-card span span {
+  margin-left: 7px;
+}
+.task-card:hover h3 {
+  color: #8c1838;
+}
+@media (max-width: 1024px) {
+  .game-layout {
+    grid-template-columns: minmax(0, 1fr) 260px;
+    gap: 24px;
+  }
+  .task-card h3 {
+    font-size: 22px;
+  }
+  .task-rail h2 {
+    font-size: 27px;
+  }
+  .task-card p {
+    font-size: 15px;
+  }
+  .fullscreen-controls button {
+    padding: 6px;
+  }
+  .fullscreen-controls span {
+    font-size: 12px;
+  }
+}
+@media (max-width: 768px) {
+  .game-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .game-main,
+  .task-rail {
+    width: 100%;
+  }
+  .task-rail {
+    position: static;
+    top: auto;
+    order: 2;
+    padding: 0;
+  }
+  .player-status {
+    padding: 8px;
+    gap: 8px;
+  }
+  .player-status strong {
+    font-size: 12px;
+  }
+  .player-identity > span {
+    font-size: 12px;
+  }
+  .fullscreen-controls button {
+    width: 44px;
+    height: 44px;
+  }
+  .fullscreen-controls span {
+    position: absolute;
+    clip-path: inset(50%);
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+  .player-feedback {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+  .play-button {
+    padding: 10px 24px;
+    font-size: 23px;
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "stage": "implemented",
+  "features": {
+    "accounts": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "contactForm": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "commentsOrRatings": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "analytics": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "localStorage": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "cookies": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "payments": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "uploads": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "subscriptions": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "advertising": {
+      "enabled": false,
+      "implementation": "None planned for site",
+      "notes": "Do not assert third-party iframe behavior is a first-party feature"
+    },
+    "gameIframes": {
+      "enabled": true,
+      "implementation": "Explicit Play Now; unique main iframe from main-game JSON",
+      "notes": "Supplied first address is provisional. Third-party storage/requests remain independently observed; no promised save portability."
+    },
+    "youtubeIframes": {
+      "enabled": true,
+      "implementation": "Direct lazy privacy-enhanced iframe after independent content; no autoplay",
+      "notes": "Third-party requests occur as lazy frame approaches loading range; privacy-enhanced does not mean no third-party data processing."
+    }
+  },
+  "identities": [],
+  "sitePublisherIdentity": "No verified person/company/team supplied; omit invented authors and publisher claims",
+  "contact": {
+    "display": "support@boundbyinsanity.org",
+    "method": "plain-text only",
+    "verifiedDelivery": false
+  },
+  "thirdPartyObservations": {
+    "game": "Configured browser build displays mature warning and actual reading input; storage durability unverified. Game owns six reading controls. Site does not collect saved game data.",
+    "youtube": "Current six-icon candidate played without login or age restriction in an isolated context. Direct lazy frame contacts third-party service when near viewport; its own platform controls may navigate outward."
+  },
+  "spoilerPolicies": [
+    {
+      "contentId": "bound-by-insanity",
+      "policy": "marked",
+      "excludeFromTeasers": [
+        "Hidden histories",
+        "Late turns",
+        "Unverified routes"
+      ]
+    },
+    {
+      "contentId": "characters",
+      "policy": "marked",
+      "excludeFromTeasers": [
+        "Hidden motives/history",
+        "Late revelations",
+        "Unobserved full-release endings",
+        "Ending details in cards, lead, metadata, alt or unmarked media"
+      ]
+    },
+    {
+      "contentId": "endings",
+      "policy": "marked",
+      "excludeFromTeasers": [
+        "Hidden motives/history",
+        "Late revelations",
+        "Unobserved full-release endings",
+        "Ending details in cards, lead, metadata, alt or unmarked media"
+      ]
+    }
+  ],
+  "siteRelationship": {
+    "kind": "independent fan site",
+    "affiliated": false,
+    "disclaimer": "An independent fan site. Not affiliated with, endorsed by, or connected to the original game website or its creator."
+  }
+}

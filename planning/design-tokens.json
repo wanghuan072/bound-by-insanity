@@ -1,0 +1,42 @@
+{
+  "approvedVisual": "ui-redesign-v3-typography/homepage-ui-v3-typography.png",
+  "style": "monochrome graphic-novel panels with hand lettering",
+  "colors": {
+    "ink": "#0b0b0d",
+    "surface": "#19171c",
+    "paper": "#f4f1ed",
+    "accent": "#a92246",
+    "darkMuted": "#c7bec3",
+    "lightBody": "#302b2f"
+  },
+  "fonts": {
+    "display": "Kalam 700",
+    "body": "Source Sans 3 400–700",
+    "accent": "Caveat 600"
+  },
+  "width": 1400,
+  "breakpoints": [
+    1024,
+    768
+  ],
+  "sidebar": {
+    "desktop": 332,
+    "tablet": 260,
+    "gapDesktop": 32,
+    "gapTablet": 24,
+    "behavior": "height-aware boundary following, static <=768"
+  },
+  "homeH1": {
+    "desktop": 42,
+    "tablet": 36,
+    "mobile": 30
+  },
+  "cardImages": "original ratio, contain",
+  "body": "Complete researched content; full left-column panel width with responsive interior padding; no independent narrower reading container",
+  "panelPadding": {
+    "desktop": 32,
+    "tablet": 24,
+    "mobile": 18,
+    "topicCard": 16
+  }
+}

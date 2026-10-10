@@ -1,0 +1,76 @@
+{
+  "recordedAt": "2026-10-09T02:58:00.042Z",
+  "userInstruction": "暂时先不用写更多游戏和其他推荐游戏；着重主关键词游戏；围绕主关键词写2–3个页面；重新设计首页；内容丰富，使用一起游玩的我们语气",
+  "activeScope": {
+    "mainGame": true,
+    "additionalGames": false,
+    "moreGamesPage": false,
+    "otherGameRecommendations": false,
+    "mainKeywordArticles": 2,
+    "homepageRedesign": true,
+    "voice": "Concrete collaborative first-person plural instructions; never invent personal play history or unobserved outcomes",
+    "guides": false,
+    "publicRoutes": [
+      "/",
+      "/characters",
+      "/endings",
+      "/privacy",
+      "/terms",
+      "/copyright",
+      "/about",
+      "/contact"
+    ]
+  },
+  "supersededRequirements": {
+    "additionalGameMinimum": 0,
+    "additionalGameBodyAndMediaGates": "deferred with additional games",
+    "homeFeaturedNewRecommended": "removed for current scope",
+    "moreGamesNavigation": "deferred",
+    "gameSidebar": "replace game-card sidebar with main-game task navigation; design in stage04",
+    "guideDetailMinimum": 0,
+    "guidePages": "Removed by user on 2026-10-09; do not regenerate"
+  },
+  "retainedRequirements": [
+    "Exact main iframe configuration and provisional exception",
+    "Rich independent homepage body, minimum 4000 visible non-whitespace characters",
+    "Independent main-game cover, three meaningful screenshots and qualified YouTube video",
+    "Research/version/claim/video traceability",
+    "JSON-driven articles, metadata, structured data and sitemap",
+    "1400px maximum width, only 1024px/768px width breakpoints",
+    "Local logo, restrained H1, five root Legal pages",
+    "Production browser, responsive, accessibility and performance checks",
+    "No deployment or Git commits"
+  ],
+  "articleTasks": [
+    {
+      "id": "characters",
+      "task": "Identify Miles, Adrien and the defined protagonist through their visible roles and early interactions without revealing hidden history"
+    },
+    {
+      "id": "demo-choices-endings",
+      "task": "Know what the current demo ending and reply choices actually permit, and distinguish completed demo content from future routes"
+    }
+  ],
+  "navigationDecision": {
+    "status": "locked-by-user",
+    "items": [
+      {
+        "page_id": "home",
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "page_id": "characters",
+        "label": "Characters",
+        "path": "/characters"
+      },
+      {
+        "page_id": "endings",
+        "label": "Endings",
+        "path": "/endings"
+      }
+    ]
+  },
+  "researchDisposition": "Only main-game research remains active. Earlier candidate and removed Guide records are historical internal archives, never public or build inputs.",
+  "workflow": "Continue sequentially with latest scope overriding older candidate/recommendation publication gates"
+}

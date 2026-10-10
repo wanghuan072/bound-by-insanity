@@ -1,0 +1,62 @@
+{
+  "observedAt": "2026-10-08",
+  "scope": "Design mockup only, not implemented production UI",
+  "measurements": [
+    {
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "containerWidth": 1400,
+      "leftWidth": 1008,
+      "sideWidth": 360,
+      "playerWidth": 1006,
+      "playerHeight": 565.875,
+      "playerTop": 248.546875,
+      "statusBarBottom": 884.421875,
+      "headerHeight": 80,
+      "h1Font": "44px",
+      "coverFit": "contain"
+    },
+    {
+      "viewport": 1024,
+      "documentWidth": 1024,
+      "containerWidth": 976,
+      "leftWidth": 692,
+      "sideWidth": 260,
+      "playerWidth": 690,
+      "playerHeight": 388.125,
+      "playerTop": 265.5,
+      "statusBarBottom": 723.625,
+      "headerHeight": 72,
+      "h1Font": "40px",
+      "coverFit": "contain"
+    },
+    {
+      "viewport": 768,
+      "documentWidth": 768,
+      "containerWidth": 736,
+      "leftWidth": 736,
+      "sideWidth": 736,
+      "playerWidth": 734,
+      "playerHeight": 412.875,
+      "playerTop": 246.796875,
+      "statusBarBottom": 727.671875,
+      "headerHeight": 64,
+      "h1Font": "34px",
+      "coverFit": "contain"
+    },
+    {
+      "viewport": 390,
+      "documentWidth": 390,
+      "containerWidth": 358,
+      "leftWidth": 358,
+      "sideWidth": 358,
+      "playerWidth": 356,
+      "playerHeight": 200.25,
+      "playerTop": 315.59375,
+      "statusBarBottom": 583.84375,
+      "headerHeight": 64,
+      "h1Font": "34px",
+      "coverFit": "contain"
+    }
+  ]
+}

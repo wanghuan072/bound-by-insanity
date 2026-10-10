@@ -1,0 +1,15 @@
+{
+  "scope": "Design mock only; final implementation needs runtime recheck",
+  "viewport": 1440,
+  "scroll": {
+    "headerTop": 0,
+    "headerBottom": 80,
+    "railTop": 96,
+    "railBottom": 627
+  },
+  "parentEnd": {
+    "parentBottom": 555.078125,
+    "railBottom": 555.078125,
+    "footerTop": 611.078125
+  }
+}

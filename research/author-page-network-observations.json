@@ -1,0 +1,203 @@
+[
+  {
+    "candidateId": "trapped-with-jester",
+    "url": "https://ant-san.itch.io/jester",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Trapped with Jester by Anta",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/16906628/TrappedwithJester-1.0-web/index.html"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "the-freak-circus",
+    "url": "https://garula.itch.io/the-freak-circus",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "The Freak Circus by Garula",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/16572088/index.html?v=1782253564"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "knee-deep",
+    "url": "https://comfortkuma.itch.io/knee-deep",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/17926225/index.html"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "heartstop-tour",
+    "url": "https://comfortkuma.itch.io/heartstop-tour",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Heartstop Tour [FULL GAME] by Comfort Kuma Studios",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/18383574/index.html?v=1784383305"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "gravity-failed-us",
+    "url": "https://comfortkuma.itch.io/gravity-failed-us",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Gravity Failed Us by Comfort Kuma Studios",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/14363405/index.html"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "fear-me",
+    "url": "https://neesacomplex.itch.io/fear-me-jeff-the-killers-dating-sim",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Fear Me [Jeff the Killer&#039;s Dating Sim] by Neesa",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/18630392/index.html?v=1785589986"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "cupids-kiss",
+    "url": "https://marysuegames.itch.io/cupids-kiss",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Cupid&#039;s Kiss: a short, romance comedy by MarySueGames",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/10948265/CupidsKiss-1.1-web/index.html?v=1782253317"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "dating-killmulator",
+    "url": "https://coolom-games.itch.io/datingkillmulator",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Dating Killmulator by Coolom Games",
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/19183043/index.html?v=1789060851"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "john-doe-plus",
+    "url": "https://mortisfox.itch.io/john-doe-plus",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "JOHN DOE + by Scopophobia Studios",
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "house-hunted",
+    "url": "https://mortisfox.itch.io/house-hunted",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "HOUSE HUNTED by Scopophobia Studios",
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "killer-chat",
+    "url": "https://rosesrot.itch.io/killer-chat",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Killer Chat! Original Edition by rosesrot, Wind Chimes Games, munstxr, Hiiragi",
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "do-not-take-this-cat-home",
+    "url": "https://pixeliminal.itch.io/do-not-take-this-cat-home",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Do NOT Take This Cat Home by Pixeliminal",
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "mushroom-oasis",
+    "url": "https://deerspherestudios.itch.io/mushroom-oasis",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "Mushroom Oasis by DeersphereStudios",
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "my-dear-hatchet-man",
+    "url": "https://gnometastix.itch.io/my-dear-hatchet-man",
+    "status": 200,
+    "xFrameOptions": null,
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "pageTitle": "My Dear Hatchet Man [CANCELLED] by Gnometastix",
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "her-tears-were-my-light",
+    "url": "https://nomnomnami.itch.io/her-tears-were-my-light",
+    "status": 200,
+    "pageTitle": "her tears were my light by NomnomNami",
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "xFrameOptions": null,
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/18220499/index.html?v=1783279519"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "syrup-and-the-ultimate-sweet",
+    "url": "https://nomnomnami.itch.io/syrup-and-the-ultimate-sweet",
+    "status": 200,
+    "pageTitle": "Syrup and the Ultimate Sweet by NomnomNami",
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "xFrameOptions": null,
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/18611204/index.html?v=1785467169"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "contract-demon",
+    "url": "https://nomnomnami.itch.io/contract-demon",
+    "status": 200,
+    "pageTitle": "Contract Demon by NomnomNami",
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "xFrameOptions": null,
+    "iframeCandidates": [
+      "https://html-classic.itch.zone/html/9819526/index.html"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "candidateId": "starry-flowers",
+    "url": "https://nomnomnami.itch.io/starry-flowers",
+    "status": 200,
+    "pageTitle": "Starry Flowers by NomnomNami",
+    "csp": "frame-ancestors 'self' https://itch.io",
+    "xFrameOptions": null,
+    "iframeCandidates": [],
+    "checkedAt": "2026-10-08"
+  }
+]
